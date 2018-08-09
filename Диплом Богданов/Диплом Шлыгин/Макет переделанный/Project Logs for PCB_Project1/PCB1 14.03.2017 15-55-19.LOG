@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GENERALVIN Pin=3.3v-2
+Removed Pin From Net: NetName=GENERALVIN Pin=AP-10
+Removed Pin From Net: NetName=GENERALVIN Pin=C1vcc3.3-2
+Removed Pin From Net: NetName=GENERALVIN Pin=Ceram1-1
+Removed Pin From Net: NetName=GENERALVIN Pin=DS-2
+Removed Pin From Net: NetName=GENERALVIN Pin=P8-10
+Removed Pin From Net: NetName=GENERALVIN Pin=SCI 2.5-0
+Removed Pin From Net: NetName=GENERALVIN Pin=SCI 2.5-1
+Added Pin To Net: NetName=VCCPLATA Pin=AP-10
+Added Pin To Net: NetName=VCCPLATA Pin=P8-10
+Change Net Name : Old Net Name=GENERALVIN New Net Name=VCC5
+Added Pin To Net: NetName=GENERALVIN Pin=3.3v-2
+Added Pin To Net: NetName=GENERALVIN Pin=C1vcc3.3-2
+Added Pin To Net: NetName=GENERALVIN Pin=Ceram1-1
+Added Pin To Net: NetName=GENERALVIN Pin=DS-2
+Added Pin To Net: NetName=GENERALVIN Pin=SCI 2.5-0
+Added Pin To Net: NetName=GENERALVIN Pin=SCI 2.5-1
+Added Net: Name=GENERALVIN

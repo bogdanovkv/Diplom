@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Net7Segmind_22 Pin=C12-1
+Removed Pin From Net: NetName=LCDOE Pin=C12-2
+Removed Pin From Net: NetName=Net7Segmind_22 Pin=C13-1
+Removed Pin From Net: NetName=LCDOE Pin=C13-2
+Removed Member From Class: ClassName=Plata.~(40) Member=C12
+Removed Member From Class: ClassName=Plata.~(40) Member=C13

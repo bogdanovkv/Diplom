@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=PCI 111 Pin=greb1.1-21
+Removed Pin From Net: NetName=PCI 4 Pin=greb1.1-22
+Removed Pin From Net: NetName=PCI 1 Pin=greb1.1-23
+Removed Pin From Net: NetName=PCI 57 Pin=greb1.1-24
+Removed Pin From Net: NetName=PCI 56 Pin=greb1.1-25
+Added Pin To Net: NetName=PCI 9 Pin=greb1.1-16
+Added Pin To Net: NetName=PCI 8 Pin=greb1.1-17
+Added Pin To Net: NetName=PCI 15 Pin=greb1.1-18
+Added Pin To Net: NetName=PCI 14 Pin=greb1.1-19
+Added Pin To Net: NetName=PCI 89 Pin=greb1.1-20
+Added Pin To Net: NetName=PCI 25 Pin=greb1.1-21
+Added Pin To Net: NetName=PCI 24 Pin=greb1.1-22
+Added Pin To Net: NetName=PCI 23 Pin=greb1.1-23
+Added Pin To Net: NetName=PCI 10 Pin=greb1.1-24
+Added Pin To Net: NetName=PCI 13 Pin=greb1.1-25
+Added Pin To Net: NetName=PCI 13 Pin=VccPlata-81
+Added Pin To Net: NetName=PCI 10 Pin=VccPlata-82
+Added Pin To Net: NetName=PCI 23 Pin=VccPlata-83
+Added Pin To Net: NetName=PCI 24 Pin=VccPlata-84
+Added Pin To Net: NetName=PCI 25 Pin=VccPlata-85
+Added Pin To Net: NetName=PCI 89 Pin=VccPlata-108
+Added Pin To Net: NetName=PCI 14 Pin=VccPlata-109
+Added Pin To Net: NetName=PCI 15 Pin=VccPlata-110
+Added Pin To Net: NetName=PCI 8 Pin=VccPlata-111
+Added Pin To Net: NetName=PCI 9 Pin=VccPlata-112
+Change Net Name : Old Net Name=PCI 8 New Net Name=UARTTX2
+Change Net Name : Old Net Name=PCI 9 New Net Name=UARTTX1
+Change Net Name : Old Net Name=PCI 10 New Net Name=UARTRX2
+Change Net Name : Old Net Name=PCI 13 New Net Name=UARTRX1
+Change Net Name : Old Net Name=PCI 14 New Net Name=SS
+Change Net Name : Old Net Name=PCI 15 New Net Name=SCK
+Change Net Name : Old Net Name=PCI 23 New Net Name=MOSI
+Change Net Name : Old Net Name=PCI 24 New Net Name=MISO
+Change Net Name : Old Net Name=PCI 25 New Net Name=I2C SDA
+Change Net Name : Old Net Name=PCI 89 New Net Name=I2C SCK

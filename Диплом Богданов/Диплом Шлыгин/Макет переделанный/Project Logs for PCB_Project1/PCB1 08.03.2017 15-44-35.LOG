@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=IDC10.4. 5 Pin=ressb_2_2-0
+Removed Pin From Net: NetName=NetConnector_21 Pin=ressb_2_2-1
+Removed Pin From Net: NetName=NetConnector_22 Pin=ressb_2_2-2
+Removed Pin From Net: NetName=NetConnector_23 Pin=ressb_2_2-3
+Added Pin To Net: NetName=NetConnector_21 Pin=ressb_2_2-0
+Added Pin To Net: NetName=NetConnector_22 Pin=ressb_2_2-1
+Added Pin To Net: NetName=NetConnector_23 Pin=ressb_2_2-2
+Added Pin To Net: NetName=NetConnector_24 Pin=Connector-24
+Added Pin To Net: NetName=NetConnector_24 Pin=ressb_2_2-3
+Added Net: Name=NetConnector_24

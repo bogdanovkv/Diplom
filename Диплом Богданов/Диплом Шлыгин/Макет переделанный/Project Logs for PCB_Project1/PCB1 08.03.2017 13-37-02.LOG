@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=IDC10.4. 8 Pin=Connector-17
+Removed Pin From Net: NetName=IDC10.7. 8 Pin=Connector-29
+Removed Pin From Net: NetName=IDC10.7. 7 Pin=Connector-30
+Removed Pin From Net: NetName=IDC10.7. 6 Pin=Connector-31
+Removed Pin From Net: NetName=IDC10.7. 5 Pin=Connector-32
+Removed Pin From Net: NetName=IDC10.7. 1 Pin=Connector-33
+Removed Pin From Net: NetName=IDC10.7. 2 Pin=Connector-34
+Removed Pin From Net: NetName=IDC10.7. 3 Pin=Connector-35
+Removed Pin From Net: NetName=IDC10.7. 4 Pin=Connector-36
+Added Component: Designator=C3(CAPR5-4X5)
+Added Pin To Net: NetName=NetConnector_29 Pin=Connector-29
+Added Net: Name=NetConnector_29
+Added Pin To Net: NetName=NetConnector_30 Pin=Connector-30
+Added Net: Name=NetConnector_30
+Added Pin To Net: NetName=NetConnector_31 Pin=Connector-31
+Added Net: Name=NetConnector_31
+Added Pin To Net: NetName=NetConnector_32 Pin=Connector-32
+Added Net: Name=NetConnector_32
+Added Pin To Net: NetName=NetConnector_33 Pin=Connector-33
+Added Net: Name=NetConnector_33
+Added Pin To Net: NetName=NetConnector_34 Pin=Connector-34
+Added Net: Name=NetConnector_34
+Added Pin To Net: NetName=NetConnector_35 Pin=Connector-35
+Added Net: Name=NetConnector_35
+Added Pin To Net: NetName=NetConnector_36 Pin=Connector-36
+Added Net: Name=NetConnector_36
+Added Member To Class: ClassName=Plata.~(40) Member=Component C3 Cap2

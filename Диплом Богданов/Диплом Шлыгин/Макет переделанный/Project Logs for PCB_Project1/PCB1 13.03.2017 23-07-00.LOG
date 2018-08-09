@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC3.3 Pin=C?-2
+Change Component Comment : Designator=C? Old Comment=CAPACITY New Comment=c2vcc3.3
+Change Component Designator: OldDesignator=C? NewDesignator=C1vcc3.3
+Added Pin To Net: NetName=GENERALVIN Pin=C1vcc3.3-2
+Added Pin To Net: NetName=LCDOE Pin=C?-1
+Added Pin To Net: NetName=VCC3.3 Pin=C?-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1vcc3.3 CAPACITY

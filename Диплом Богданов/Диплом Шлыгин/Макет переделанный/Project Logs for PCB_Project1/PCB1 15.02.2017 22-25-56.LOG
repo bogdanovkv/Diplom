@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=LCDOE Pin=C1-2
+Removed Pin From Net: NetName=Net5v_3 Pin=C3-1
+Removed Pin From Net: NetName=Net5v_8 Pin=C3-2
+Removed Pin From Net: NetName=Net5v_2 Pin=C4-1
+Removed Pin From Net: NetName=LCDOE Pin=C4-2
+Added Component: Designator=Cap 4.7pf+(R0805)
+Added Component: Designator=Cap 100mf(R0805)
+Added Component: Designator=Cap pol 22mf+(R0805)
+Added Pin To Net: NetName=Net5v_8 Pin=Cap 4.7pf+-1
+Added Pin To Net: NetName=Net5v_3 Pin=Cap 4.7pf+-2
+Added Pin To Net: NetName=LCDOE Pin=Cap 100mf-1
+Added Pin To Net: NetName=Net5v_2 Pin=Cap 100mf-2
+Added Pin To Net: NetName=LCDOE Pin=Cap pol 22mf+-2
+Added Pin To Net: NetName=NetCap pol 22mf+_1 Pin=Cap pol 22mf+-1
+Added Pin To Net: NetName=NetCap pol 22mf+_1 Pin=L1-1
+Added Pin To Net: NetName=NetCap pol 22mf+_1 Pin=RVcc1-2
+Added Net: Name=NetCap pol 22mf+_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component * greb
+Added Member To Class: ClassName=Plata.~(40) Member=Component Cap 4.7pf+ R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component Cap 100mf R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component Cap pol 22mf+ R0805

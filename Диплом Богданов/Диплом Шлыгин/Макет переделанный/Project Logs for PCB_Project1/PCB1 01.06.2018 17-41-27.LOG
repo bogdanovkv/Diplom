@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=C17 NewDesignator=C6
+Change Component Designator: OldDesignator=C18 NewDesignator=C7
+Change Component Designator: OldDesignator=C18 NewDesignator=C8
+Change Component Designator: OldDesignator=C19 NewDesignator=C9
+Change Component Designator: OldDesignator=R50 NewDesignator=R13
+Change Net Name : Old Net Name=NetR50_2 New Net Name=NetR13_2
+Added Member To Class: ClassName=Power Supplies Member=Component C6 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C8 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C18 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C19 10u
+Added Member To Class: ClassName=Power Supplies Member=Component R13 121R

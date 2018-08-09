@@ -1,0 +1,5 @@
+Added Component: Designator=*(tantal cap)
+Added Pin To Net: NetName=LCDOE Pin=*-0
+Added Pin To Net: NetName=PCI 3 Pin=*-1
+Added Pin To Net: NetName=PCI 3 Pin=-3
+Added Member To Class: ClassName=Plata.~(40) Member=Component * TECAP, 100 לךװ

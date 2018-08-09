@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GENERALVIN Pin=DS-2
+Added Component: Designator=3.3v (LM1085)
+Added Component: Designator=C?(R0805)
+Added Component: Designator=C?(R0805)
+Added Pin To Net: NetName=LCDOE Pin=3.3v -0
+Added Pin To Net: NetName=GENERALVIN Pin=3.3v -1
+Added Pin To Net: NetName=VCC5 Pin=3.3v -2
+Added Pin To Net: NetName=LCDOE Pin=C?-1
+Added Pin To Net: NetName=LCDOE Pin=C?-1
+Added Pin To Net: NetName=GENERALVIN Pin=C?-2
+Added Pin To Net: NetName=VCC5 Pin=C?-2
+Added Pin To Net: NetName=VCC5 Pin=DS-2
+Change Net Name : Old Net Name=GENERALVIN New Net Name=VCC3.3
+Change Net Name : Old Net Name=VCC5 New Net Name=GENERALVIN
+Added Member To Class: ClassName=Sheet1 Member=Component 3.3v  LM1085
+Added Member To Class: ClassName=Sheet1 Member=Component C? CAPACITY

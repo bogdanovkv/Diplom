@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator= NewDesignator=PCI
+Change Component Designator: OldDesignator=P1.1 NewDesignator=1.1 1-8
+Change Component Designator: OldDesignator=P1.2 NewDesignator=1.1 9-16
+Change Component Designator: OldDesignator=P2.1.1 NewDesignator=1.2 1-8
+Change Component Designator: OldDesignator=P2.2 NewDesignator=1.2 9-16
+Change Component Designator: OldDesignator=P3.2 NewDesignator=1.3 1-8
+Change Component Designator: OldDesignator=P3.2 NewDesignator=1.3 9-16
+Change Component Designator: OldDesignator=Rvar1 NewDesignator=VarRes1(test)
+Change Component Designator: OldDesignator=Rvar2 NewDesignator=VarRes(test)
+Change Component Designator: OldDesignator=Rvar3 NewDesignator=Potent
+Change Component Designator: OldDesignator=Vin NewDesignator=sas
+Added Component: Designator=ressb_2(CAT16-102J4LF_2)
+Added Pin To Net: NetName=IOREF Pin=A.AP-7
+Added Member To Class: ClassName=Plata.~(40) Member=Component 1.3 9-16 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component A.AP IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component AP1 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component AP2 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component PCI
+Added Member To Class: ClassName=Plata.~(40) Member=Component Potent R-0904N-A10K, L20KC
+Added Member To Class: ClassName=Plata.~(40) Member=Component ressb_2 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component sas DS-313a

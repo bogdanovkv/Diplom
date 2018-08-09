@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=ps850l NewDesignator=ps850l-1
+Change Component Designator: OldDesignator=ps850l NewDesignator=ps850l-2
+Change Component Designator: OldDesignator=ps850l NewDesignator=ps850l-3
+Change Component Designator: OldDesignator=ps850l NewDesignator=ps850lreset
+Added Member To Class: ClassName=Plata Member=Component ps850l-1 ps850l
+Added Member To Class: ClassName=Plata Member=Component ps850l-2 ps850l
+Added Member To Class: ClassName=Plata Member=Component ps850lreset ps850l

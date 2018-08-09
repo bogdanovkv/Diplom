@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=SREGLCD Old Footprint=SN74HC164DR-D New Footprint=SN74HC164DRX
+Change Physical Footprint: Designator= Old Footprint=AK-207 New Footprint=AK-207
+Change Physical Footprint: Designator=2.3 Old Footprint=GREBENKA New Footprint=GREBENKA
+Change Physical Footprint: Designator=7Segmind Old Footprint=CA56-11EWA New Footprint=CA56-11EWA
+Change Physical Footprint: Designator=A.AP Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=AR1 Old Footprint=Arduino New Footprint=Arduino
+Change Physical Footprint: Designator=SREG1 Old Footprint=SN74HC164DR-D New Footprint=SN74HC164DR-D
+Change Physical Footprint: Designator=SREG2 Old Footprint=SN74HC164DR-D New Footprint=SN74HC164DR-D
+Change Physical Footprint: Designator=SREG3 Old Footprint=SN74HC164DR-D New Footprint=SN74HC164DR-D
+Change Physical Footprint: Designator=SREG4 Old Footprint=SN74HC164DR-D New Footprint=SN74HC164DR-D

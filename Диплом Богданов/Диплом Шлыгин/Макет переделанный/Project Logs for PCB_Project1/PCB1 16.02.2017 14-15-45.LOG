@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GENERALVIN Pin=3.3 ind 4.7 mh-1
+Removed Pin From Net: NetName=Net1.8v_8 Pin=ind 1.8v 4.7mH-1
+Removed Member From Class: ClassName=Sheet1 Member=3.3 ind 4.7 mh
+Removed Member From Class: ClassName=Sheet1 Member=ind 1.8v 4.7mH
+Added Component: Designator=ind 4.7(1.8)(B82464G4472M)
+Added Component: Designator=ind 4.7 3.3(B82464G4472M)
+Added Pin To Net: NetName=GENERALVIN Pin=ind 4.7(1.8)-1
+Added Pin To Net: NetName=Net1.8v_8 Pin=ind 4.7(1.8)-2
+Added Pin To Net: NetName=GENERALVIN Pin=ind 4.7 3.3-1
+Added Pin To Net: NetName=Net3.3 ind 4.7 mh_1 Pin=ind 4.7 3.3-2
+Change Net Name : Old Net Name=Net3.3 ind 4.7 mh_1 New Net Name=Net3.3v_8
+Added Member To Class: ClassName=Plata.~(40) Member=Component grebpci greb
+Added Member To Class: ClassName=Sheet1 Member=Component ind 4.7(1.8) Induct
+Added Member To Class: ClassName=Sheet1 Member=Component ind 4.7 3.3 Induct

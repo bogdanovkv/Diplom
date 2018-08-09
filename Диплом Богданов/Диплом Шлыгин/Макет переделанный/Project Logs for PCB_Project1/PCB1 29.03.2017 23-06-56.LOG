@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=VCC1 Pin=1.1-17
+Removed Pin From Net: NetName=VCC1.8 Pin=1.1-18
+Removed Pin From Net: NetName=VCC2.5 Pin=1.1-19
+Removed Pin From Net: NetName=VCC3.3 Pin=1.1-20
+Removed Pin From Net: NetName=GENERALVIN Pin=1.1-21
+Removed Pin From Net: NetName=LCDOE Pin=1.1-22
+Removed Pin From Net: NetName=LCDOE Pin=1.1-23
+Removed Pin From Net: NetName=LCDOE Pin=1.1-24
+Removed Pin From Net: NetName=VCC1 Pin=2.1-17
+Removed Pin From Net: NetName=VCC1.8 Pin=2.1-18
+Removed Pin From Net: NetName=VCC2.5 Pin=2.1-19
+Removed Pin From Net: NetName=VCC3.3 Pin=2.1-20
+Removed Pin From Net: NetName=GENERALVIN Pin=2.1-21
+Removed Pin From Net: NetName=LCDOE Pin=2.1-22
+Removed Pin From Net: NetName=LCDOE Pin=2.1-23
+Removed Pin From Net: NetName=LCDOE Pin=2.1-24
+Removed Pin From Net: NetName=G3.2_16 Pin=2.3-16
+Removed Pin From Net: NetName=VCC1 Pin=2.3-17
+Removed Pin From Net: NetName=VCC1.8 Pin=2.3-18
+Removed Pin From Net: NetName=VCC2.5 Pin=2.3-19
+Removed Pin From Net: NetName=VCC3.3 Pin=2.3-20
+Removed Pin From Net: NetName=GENERALVIN Pin=2.3-21
+Removed Pin From Net: NetName=LCDOE Pin=2.3-22
+Removed Pin From Net: NetName=LCDOE Pin=2.3-23
+Removed Pin From Net: NetName=LCDOE Pin=2.3-24
+Added Component: Designator=C12(R0805)
+Added Component: Designator=C13(R0805)
+Added Component: Designator=C14(R0805)
+Added Component: Designator=C15(R0805)
+Added Pin To Net: NetName=VCCPLATA Pin=C12-1
+Added Pin To Net: NetName=LCDOE Pin=C12-2
+Added Pin To Net: NetName=VCCPLATA Pin=C13-1
+Added Pin To Net: NetName=LCDOE Pin=C13-2
+Added Pin To Net: NetName=VCCPLATA Pin=C14-1
+Added Pin To Net: NetName=LCDOE Pin=C14-2
+Added Pin To Net: NetName=VCCPLATA Pin=C15-1
+Added Pin To Net: NetName=LCDOE Pin=C15-2
+Added Member To Class: ClassName=Plata.~(40) Member=Component C12 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component C13 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component C14 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component C15 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component  AK-207

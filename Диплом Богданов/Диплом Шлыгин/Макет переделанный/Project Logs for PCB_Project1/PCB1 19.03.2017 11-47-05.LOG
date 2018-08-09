@@ -1,0 +1,104 @@
+Added Pin To Net: NetName=G1.1_1 Pin=1.1-1
+Added Pin To Net: NetName=G1.1_2 Pin=1.1-2
+Added Pin To Net: NetName=G1.1_3 Pin=1.1-3
+Added Pin To Net: NetName=G1.1_4 Pin=1.1-4
+Added Pin To Net: NetName=G1.1_5 Pin=1.1-5
+Added Pin To Net: NetName=G1.1_6 Pin=1.1-6
+Added Pin To Net: NetName=G1.1_7 Pin=1.1-7
+Added Pin To Net: NetName=G1.1_8 Pin=1.1-8
+Added Pin To Net: NetName=G1.1_9 Pin=1.1-9
+Added Pin To Net: NetName=G1.1_10 Pin=1.1-10
+Added Pin To Net: NetName=G1.1_11 Pin=1.1-11
+Added Pin To Net: NetName=G1.1_12 Pin=1.1-12
+Added Pin To Net: NetName=G1.1_13 Pin=1.1-13
+Added Pin To Net: NetName=G1.1_14 Pin=1.1-14
+Added Pin To Net: NetName=G1.1_15 Pin=1.1-15
+Added Pin To Net: NetName=G1.1_16 Pin=1.1-16
+Added Pin To Net: NetName=G2.2_1 Pin=2.1-1
+Added Pin To Net: NetName=G2.2_2 Pin=2.1-2
+Added Pin To Net: NetName=G2.2_3 Pin=2.1-3
+Added Pin To Net: NetName=G2.2_4 Pin=2.1-4
+Added Pin To Net: NetName=G2.2_5 Pin=2.1-5
+Added Pin To Net: NetName=G2.2_6 Pin=2.1-6
+Added Pin To Net: NetName=G2.2_7 Pin=2.1-7
+Added Pin To Net: NetName=G2.2_8 Pin=2.1-8
+Added Pin To Net: NetName=G2.2_9 Pin=2.1-9
+Added Pin To Net: NetName=G2.2_10 Pin=2.1-10
+Added Pin To Net: NetName=G2.2_11 Pin=2.1-11
+Added Pin To Net: NetName=G2.2_12 Pin=2.1-12
+Added Pin To Net: NetName=G2.2_13 Pin=2.1-13
+Added Pin To Net: NetName=G2.2_14 Pin=2.1-14
+Added Pin To Net: NetName=G2.2_15 Pin=2.1-15
+Added Pin To Net: NetName=G2.2_16 Pin=2.1-16
+Added Pin To Net: NetName=G3.2_1 Pin=2.3-1
+Added Pin To Net: NetName=G3.2_2 Pin=2.3-2
+Added Pin To Net: NetName=G3.2_3 Pin=2.3-3
+Added Pin To Net: NetName=G3.2_4 Pin=2.3-4
+Added Pin To Net: NetName=G3.2_5 Pin=2.3-5
+Added Pin To Net: NetName=G3.2_6 Pin=2.3-6
+Added Pin To Net: NetName=G3.2_7 Pin=2.3-7
+Added Pin To Net: NetName=G3.2_8 Pin=2.3-8
+Added Pin To Net: NetName=G3.2_9 Pin=2.3-9
+Added Pin To Net: NetName=G3.2_10 Pin=2.3-10
+Added Pin To Net: NetName=G3.2_11 Pin=2.3-11
+Added Pin To Net: NetName=G3.2_12 Pin=2.3-12
+Added Pin To Net: NetName=G3.2_13 Pin=2.3-13
+Added Pin To Net: NetName=G3.2_14 Pin=2.3-14
+Added Pin To Net: NetName=G3.2_15 Pin=2.3-15
+Change Net Name : Old Net Name=NetCapSound_2 New Net Name=NetC.sound_2
+Change Net Name : Old Net Name=NetDIOD(tipa)_2 New Net Name=NetRvd1_1
+Change Net Name : Old Net Name=NetRcon1_1 New Net Name=NetRc1_1
+Change Net Name : Old Net Name=NetRcon1_2 New Net Name=NetRc1_2
+Change Net Name : Old Net Name=Netreoat_2 New Net Name=NetRc3_2
+Change Net Name : Old Net Name=Netressb_1_0_0 New Net Name=NetR1_0_0
+Change Net Name : Old Net Name=Netressb_1_0_1 New Net Name=NetR1_0_1
+Change Net Name : Old Net Name=Netressb_1_0_2 New Net Name=NetR1_0_2
+Change Net Name : Old Net Name=Netressb_1_0_3 New Net Name=NetR1_0_3
+Change Net Name : Old Net Name=Netressb_1_1_0 New Net Name=NetR1_1_0
+Change Net Name : Old Net Name=Netressb_1_1_1 New Net Name=NetR1_1_1
+Change Net Name : Old Net Name=Netressb_1_1_2 New Net Name=NetR1_1_2
+Change Net Name : Old Net Name=Netressb_1_1_3 New Net Name=NetR1_1_3
+Change Net Name : Old Net Name=Netressb_1_2_0 New Net Name=NetR1_2_0
+Change Net Name : Old Net Name=Netressb_1_2_1 New Net Name=NetR1_2_1
+Change Net Name : Old Net Name=Netressb_1_2_2 New Net Name=NetR1_2_2
+Change Net Name : Old Net Name=Netressb_1_2_3 New Net Name=NetR1_2_3
+Change Net Name : Old Net Name=Netressb_1_3_0 New Net Name=NetR1_3_0
+Change Net Name : Old Net Name=Netressb_1_3_1 New Net Name=NetR1_3_1
+Change Net Name : Old Net Name=Netressb_1_3_2 New Net Name=NetR1_3_2
+Change Net Name : Old Net Name=Netressb_1_3_3 New Net Name=NetR1_3_3
+Change Net Name : Old Net Name=Netressb_1_4_0 New Net Name=NetR1_4_0
+Change Net Name : Old Net Name=Netressb_1_4_1 New Net Name=NetR1_4_1
+Change Net Name : Old Net Name=Netressb_1_4_2 New Net Name=NetR1_4_2
+Change Net Name : Old Net Name=Netressb_1_4_3 New Net Name=NetR1_4_3
+Change Net Name : Old Net Name=Netressb_1_6_0 New Net Name=NetR1_6_0
+Change Net Name : Old Net Name=Netressb_1_6_1 New Net Name=NetR1_6_1
+Change Net Name : Old Net Name=Netressb_1_6_2 New Net Name=NetR1_6_2
+Change Net Name : Old Net Name=Netressb_1_6_3 New Net Name=NetR1_6_3
+Change Net Name : Old Net Name=Netressb_1_7_0 New Net Name=NetR1_7_0
+Change Net Name : Old Net Name=Netressb_1_7_1 New Net Name=NetR1_7_1
+Change Net Name : Old Net Name=Netressb_1_7_2 New Net Name=NetR1_7_2
+Change Net Name : Old Net Name=Netressb_1_7_3 New Net Name=NetR1_7_3
+Change Net Name : Old Net Name=Netressb_2_0_0 New Net Name=NetR2_0_0
+Change Net Name : Old Net Name=Netressb_2_0_1 New Net Name=NetR2_0_1
+Change Net Name : Old Net Name=Netressb_2_0_2 New Net Name=NetR2_0_2
+Change Net Name : Old Net Name=Netressb_2_0_3 New Net Name=NetR2_0_3
+Change Net Name : Old Net Name=Netressb_2_1_0 New Net Name=NetR2_1_0
+Change Net Name : Old Net Name=Netressb_2_1_1 New Net Name=NetR2_1_1
+Change Net Name : Old Net Name=Netressb_2_1_2 New Net Name=NetR2_1_2
+Change Net Name : Old Net Name=Netressb_2_1_3 New Net Name=NetR2_1_3
+Change Net Name : Old Net Name=Netressb_2_4_0 New Net Name=NetR2_4_0
+Change Net Name : Old Net Name=Netressb_2_4_1 New Net Name=NetR2_4_1
+Change Net Name : Old Net Name=Netressb_2_4_2 New Net Name=NetR2_4_2
+Change Net Name : Old Net Name=Netressb_2_4_3 New Net Name=NetR2_4_3
+Change Net Name : Old Net Name=Netressb_2_5_0 New Net Name=NetR2_5_0
+Change Net Name : Old Net Name=Netressb_2_5_1 New Net Name=NetR2_5_1
+Change Net Name : Old Net Name=Netressb_2_5_2 New Net Name=NetR2_5_2
+Change Net Name : Old Net Name=Netressb_2_5_3 New Net Name=NetR2_5_3
+Change Net Name : Old Net Name=Netressb_2_6_0 New Net Name=NetR2_6_0
+Change Net Name : Old Net Name=Netressb_2_6_1 New Net Name=NetR2_6_1
+Change Net Name : Old Net Name=Netressb_2_6_2 New Net Name=NetR2_6_2
+Change Net Name : Old Net Name=Netressb_2_6_3 New Net Name=NetR2_6_3
+Change Net Name : Old Net Name=Netressb_2_7_0 New Net Name=NetR2_7_0
+Change Net Name : Old Net Name=Netressb_2_7_1 New Net Name=NetR2_7_1
+Change Net Name : Old Net Name=Netressb_2_7_2 New Net Name=NetR2_7_2
+Change Net Name : Old Net Name=Netressb_2_7_3 New Net Name=NetR2_7_3

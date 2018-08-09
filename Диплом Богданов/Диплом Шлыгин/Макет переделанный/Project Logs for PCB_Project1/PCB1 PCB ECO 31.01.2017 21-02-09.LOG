@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=VCC Pin=IDC10-1-10
+Removed Pin From Net: NetName=VCC Pin=IDC10-2-10
+Removed Pin From Net: NetName=VCC Pin=R7seg-1
+Removed Pin From Net: NetName=VCC Pin=SREGLCD-9
+Removed Pin From Net: NetName=VCC Pin=SREGLCD-14
+Added Pin To Net: NetName=VCC Pin=Connector-13
+Added Pin To Net: NetName=VCC5 Pin=IDC10-1-10
+Added Pin To Net: NetName=VCC5 Pin=IDC10-2-10
+Added Pin To Net: NetName=GND Pin=IDC10-3-1
+Added Pin To Net: NetName=VCC Pin=IDC10-3-6
+Added Pin To Net: NetName=VCC5 Pin=IDC10-3-10
+Added Pin To Net: NetName=VCC5 Pin=R7seg-1
+Added Pin To Net: NetName=VCC5 Pin=SREGLCD-9
+Added Pin To Net: NetName=VCC5 Pin=SREGLCD-14
+Change Net Name : Old Net Name=VCC New Net Name=IDC10.3. 8
+Added Pin To Net: NetName=IDC10.3. 1 Pin=Connector-49
+Added Pin To Net: NetName=IDC10.3. 1 Pin=IDC10-3-2
+Added Net: Name=IDC10.3. 1
+Added Pin To Net: NetName=IDC10.3. 2 Pin=Connector-50
+Added Pin To Net: NetName=IDC10.3. 2 Pin=IDC10-3-3
+Added Net: Name=IDC10.3. 2
+Added Pin To Net: NetName=IDC10.3. 3 Pin=Connector-51
+Added Pin To Net: NetName=IDC10.3. 3 Pin=IDC10-3-4
+Added Net: Name=IDC10.3. 3
+Added Pin To Net: NetName=IDC10.3. 4 Pin=Connector-52
+Added Pin To Net: NetName=IDC10.3. 4 Pin=IDC10-3-5
+Added Net: Name=IDC10.3. 4
+Added Pin To Net: NetName=IDC10.3. 5 Pin=Connector-16
+Added Pin To Net: NetName=IDC10.3. 5 Pin=IDC10-3-9
+Added Net: Name=IDC10.3. 5
+Added Pin To Net: NetName=IDC10.3. 6 Pin=Connector-15
+Added Pin To Net: NetName=IDC10.3. 6 Pin=IDC10-3-8
+Added Net: Name=IDC10.3. 6
+Added Pin To Net: NetName=IDC10.3. 7 Pin=Connector-14
+Added Pin To Net: NetName=IDC10.3. 7 Pin=IDC10-3-7
+Added Net: Name=IDC10.3. 7

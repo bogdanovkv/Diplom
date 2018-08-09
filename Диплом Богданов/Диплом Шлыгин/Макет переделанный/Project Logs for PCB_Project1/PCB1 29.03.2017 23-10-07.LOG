@@ -1,0 +1,17 @@
+Added Component: Designator=C12(R0805)
+Added Component: Designator=C13(R0805)
+Added Component: Designator=C14(R0805)
+Added Component: Designator=C15(R0805)
+Added Pin To Net: NetName=VCCPLATA Pin=C12-1
+Added Pin To Net: NetName=LCDOE Pin=C12-2
+Added Pin To Net: NetName=VCCPLATA Pin=C13-1
+Added Pin To Net: NetName=LCDOE Pin=C13-2
+Added Pin To Net: NetName=VCCPLATA Pin=C14-1
+Added Pin To Net: NetName=LCDOE Pin=C14-2
+Added Pin To Net: NetName=VCCPLATA Pin=C15-1
+Added Pin To Net: NetName=LCDOE Pin=C15-2
+Added Member To Class: ClassName=Plata.~(40) Member=Component C12 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component C13 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component C14 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component C15 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component  AK-207

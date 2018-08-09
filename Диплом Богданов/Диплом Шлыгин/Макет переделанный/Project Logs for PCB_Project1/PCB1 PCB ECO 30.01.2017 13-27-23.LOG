@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=NetGrebkl_0 Pin=KLAV-1
+Removed Pin From Net: NetName=NetGrebkl_1 Pin=KLAV-2
+Removed Pin From Net: NetName=NetGrebkl_2 Pin=KLAV-3
+Removed Pin From Net: NetName=NetGrebkl_4 Pin=KLAV-5
+Removed Pin From Net: NetName=NetGrebkl_5 Pin=KLAV-6
+Removed Pin From Net: NetName=NetGrebkl_6 Pin=KLAV-7
+Removed Pin From Net: NetName=Netps850l-1_1 Pin=ps850l-1-1
+Removed Pin From Net: NetName=Netps850l-1_1 Pin=ps850l-1-4
+Removed Pin From Net: NetName=Netps850l-2_1 Pin=ps850l-2-1
+Removed Pin From Net: NetName=Netps850l-2_1 Pin=ps850l-2-4
+Removed Pin From Net: NetName=Netps850l-3_1 Pin=ps850l-3-1
+Removed Pin From Net: NetName=Netps850l-3_1 Pin=ps850l-3-4
+Removed Pin From Net: NetName=Netps850lreset_1 Pin=ps850lreset-1
+Removed Pin From Net: NetName=Netps850lreset_1 Pin=R?-2
+Added Pin To Net: NetName=NetGrebkl_5 Pin=KLAV-1
+Added Pin To Net: NetName=NetGrebkl_0 Pin=KLAV-2
+Added Pin To Net: NetName=NetGrebkl_4 Pin=KLAV-3
+Added Pin To Net: NetName=NetGrebkl_6 Pin=KLAV-5
+Added Pin To Net: NetName=NetGrebkl_2 Pin=KLAV-6
+Added Pin To Net: NetName=NetGrebkl_1 Pin=KLAV-7
+Added Pin To Net: NetName=Netps850l-2_1 Pin=ps850l-1-2
+Added Pin To Net: NetName=Netps850l-2_1 Pin=ps850l-1-5
+Added Pin To Net: NetName=Netps850l-3_1 Pin=ps850l-2-2
+Added Pin To Net: NetName=Netps850l-3_1 Pin=ps850l-2-5
+Added Pin To Net: NetName=Netps850lreset_1 Pin=ps850l-3-2
+Added Pin To Net: NetName=Netps850lreset_1 Pin=ps850l-3-5
+Added Pin To Net: NetName=Netps850l-1_1 Pin=ps850lreset-2
+Added Pin To Net: NetName=NetGrebkl_6 Pin=R1-1
+Added Pin To Net: NetName=NetGrebkl_5 Pin=R2-1
+Added Pin To Net: NetName=NetGrebkl_4 Pin=R3-1
+Added Pin To Net: NetName=NetConnector_128 Pin=R?-1
+Added Pin To Net: NetName=NetConnector_128 Pin=R?-1
+Added Pin To Net: NetName=NetConnector_128 Pin=R?-1
+Added Pin To Net: NetName=Netps850l-1_1 Pin=R?-2
+Added Pin To Net: NetName=Netps850l-2_1 Pin=R?-2
+Added Pin To Net: NetName=Netps850l-3_1 Pin=R?-2
+Added Pin To Net: NetName=Netps850lreset_1 Pin=R?-2
+Change Net Name : Old Net Name=NetConnector_128 New Net Name=VCC5
+Change Net Name : Old Net Name=Netps850l-1_1 New Net Name=RSTBUT
+Change Net Name : Old Net Name=Netps850l-2_1 New Net Name=Netps850l-1_2
+Change Net Name : Old Net Name=Netps850l-3_1 New Net Name=Netps850l-2_2
+Change Net Name : Old Net Name=Netps850lreset_1 New Net Name=Netps850l-3_2
+Added Pin To Net: NetName=GND Pin=Connector-65
+Added Pin To Net: NetName=GND Pin=Connector-66
+Added Pin To Net: NetName=GND Pin=Connector-67
+Added Pin To Net: NetName=GND Pin=ps850l-1-3
+Added Pin To Net: NetName=GND Pin=ps850l-1-6
+Added Pin To Net: NetName=GND Pin=ps850l-2-3
+Added Pin To Net: NetName=GND Pin=ps850l-2-6
+Added Pin To Net: NetName=GND Pin=ps850l-3-3
+Added Pin To Net: NetName=GND Pin=ps850l-3-6
+Added Pin To Net: NetName=GND Pin=ps850lreset-3
+Added Pin To Net: NetName=GND Pin=ps850lreset-6
+Added Net: Name=GND
+Added Pin To Net: NetName=KLAV_STR1 Pin=Connector-68
+Added Net: Name=KLAV_STR1
+Added Pin To Net: NetName=KLAV_STR2 Pin=Connector-69
+Added Net: Name=KLAV_STR2

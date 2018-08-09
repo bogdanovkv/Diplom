@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=PCI 1 Pin=DS-3
+Removed Pin From Net: NetName=PCI 57 Pin=ELPORT 1-5
+Removed Pin From Net: NetName=PCI 56 Pin=ELPORT 1-6
+Removed Pin From Net: NetName=I2C SDA Pin=greb1.1-21
+Removed Pin From Net: NetName=MISO Pin=greb1.1-22
+Removed Pin From Net: NetName=MOSI Pin=greb1.1-23
+Removed Pin From Net: NetName=UARTRX2 Pin=greb1.1-24
+Removed Pin From Net: NetName=UARTRX1 Pin=greb1.1-25
+Removed Pin From Net: NetName=PCI 1 Pin=PCI-0
+Removed Pin From Net: NetName=PCI 4 Pin=PCI-3
+Removed Pin From Net: NetName=PCI 56 Pin=PCI-58
+Removed Pin From Net: NetName=PCI 57 Pin=PCI-59
+Removed Pin From Net: NetName=PCI 111 Pin=PCI-115
+Removed Pin From Net: NetName=UARTRX1 Pin=VccPlata-81
+Removed Pin From Net: NetName=UARTRX2 Pin=VccPlata-82
+Removed Pin From Net: NetName=MOSI Pin=VccPlata-83
+Removed Pin From Net: NetName=MISO Pin=VccPlata-84
+Removed Pin From Net: NetName=I2C SDA Pin=VccPlata-85
+Added Pin To Net: NetName=UARTRX2 Pin=DS-3
+Added Pin To Net: NetName=MISO Pin=ELPORT 1-5
+Added Pin To Net: NetName=MOSI Pin=ELPORT 1-6
+Added Pin To Net: NetName=PCI 111 Pin=greb1.1-21
+Added Pin To Net: NetName=PCI 4 Pin=greb1.1-22
+Added Pin To Net: NetName=PCI 1 Pin=greb1.1-23
+Added Pin To Net: NetName=PCI 57 Pin=greb1.1-24
+Added Pin To Net: NetName=PCI 56 Pin=greb1.1-25
+Added Pin To Net: NetName=UARTTX1 Pin=greb1.2-16
+Added Pin To Net: NetName=UARTTX2 Pin=greb1.2-17
+Added Pin To Net: NetName=SCK Pin=greb1.2-18
+Added Pin To Net: NetName=SS Pin=greb1.2-19
+Added Pin To Net: NetName=I2C SCK Pin=greb1.2-20
+Added Pin To Net: NetName=UARTTX1 Pin=greb2.1-16
+Added Pin To Net: NetName=UARTTX2 Pin=greb2.1-17
+Added Pin To Net: NetName=SCK Pin=greb2.1-18
+Added Pin To Net: NetName=SS Pin=greb2.1-19
+Added Pin To Net: NetName=I2C SCK Pin=greb2.1-20
+Added Pin To Net: NetName=UARTTX1 Pin=greb2.2-16
+Added Pin To Net: NetName=UARTTX2 Pin=greb2.2-17
+Added Pin To Net: NetName=SCK Pin=greb2.2-18
+Added Pin To Net: NetName=SS Pin=greb2.2-19
+Added Pin To Net: NetName=I2C SCK Pin=greb2.2-20
+Added Pin To Net: NetName=UARTTX1 Pin=greb2.3-16
+Added Pin To Net: NetName=UARTTX2 Pin=greb2.3-17
+Added Pin To Net: NetName=SCK Pin=greb2.3-18
+Added Pin To Net: NetName=SS Pin=greb2.3-19
+Added Pin To Net: NetName=I2C SCK Pin=greb2.3-20
+Added Pin To Net: NetName=UARTTX1 Pin=greb2.4-16
+Added Pin To Net: NetName=UARTTX2 Pin=greb2.4-17
+Added Pin To Net: NetName=SCK Pin=greb2.4-18
+Added Pin To Net: NetName=SS Pin=greb2.4-19
+Added Pin To Net: NetName=I2C SCK Pin=greb2.4-20
+Added Pin To Net: NetName=UARTRX2 Pin=PCI-0
+Added Pin To Net: NetName=UARTRX1 Pin=PCI-3
+Added Pin To Net: NetName=MOSI Pin=PCI-58
+Added Pin To Net: NetName=MISO Pin=PCI-59
+Added Pin To Net: NetName=I2C SDA Pin=PCI-115
+Added Pin To Net: NetName=PCI 56 Pin=VccPlata-81
+Added Pin To Net: NetName=PCI 57 Pin=VccPlata-82
+Added Pin To Net: NetName=PCI 1 Pin=VccPlata-83
+Added Pin To Net: NetName=PCI 4 Pin=VccPlata-84
+Added Pin To Net: NetName=PCI 111 Pin=VccPlata-85
+Change Net Name : Old Net Name=I2C SDA New Net Name=PCI 111
+Change Net Name : Old Net Name=MISO New Net Name=PCI 57
+Change Net Name : Old Net Name=MOSI New Net Name=PCI 56
+Change Net Name : Old Net Name=PCI 1 New Net Name=MOSI
+Change Net Name : Old Net Name=PCI 4 New Net Name=MISO
+Change Net Name : Old Net Name=PCI 56 New Net Name=UARTRX1
+Change Net Name : Old Net Name=PCI 57 New Net Name=UARTRX2
+Change Net Name : Old Net Name=PCI 111 New Net Name=I2C SDA
+Change Net Name : Old Net Name=UARTRX1 New Net Name=PCI 4
+Change Net Name : Old Net Name=UARTRX2 New Net Name=PCI 1

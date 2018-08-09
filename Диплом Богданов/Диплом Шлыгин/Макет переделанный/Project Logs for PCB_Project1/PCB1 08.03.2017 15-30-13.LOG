@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PCI 4 Pin=Connector-1
+Removed Pin From Net: NetName=PCI 1 Pin=Connector-2
+Removed Pin From Net: NetName=IDC10.7. 5 Pin=ressb_2_0-4
+Removed Pin From Net: NetName=IDC10.7. 6 Pin=ressb_2_0-5
+Removed Pin From Net: NetName=IDC10.7. 7 Pin=ressb_2_0-6
+Removed Pin From Net: NetName=IDC10.7. 8 Pin=ressb_2_0-7
+Removed Member From Class: ClassName=Plata.~(40) Member=ressb_2_0

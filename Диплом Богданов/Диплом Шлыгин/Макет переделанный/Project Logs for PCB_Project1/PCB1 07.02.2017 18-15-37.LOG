@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=NetGrebkl_6 Pin=Connector-122
+Added Pin To Net: NetName=NetGrebkl_5 Pin=Connector-123
+Added Pin To Net: NetName=NetGrebkl_4 Pin=Connector-124
+Added Pin To Net: NetName=KLAV_STR1 Pin=Grebkl-0
+Added Pin To Net: NetName=KLAV_STR2 Pin=Grebkl-1
+Added Pin To Net: NetName=KLAV_STR3 Pin=Grebkl-2
+Added Pin To Net: NetName=KLAV_STR4 Pin=Grebkl-3
+Added Pin To Net: NetName=KLAV_STR1 Pin=KLAV-2
+Added Pin To Net: NetName=KLAV_STR4 Pin=KLAV-4
+Added Pin To Net: NetName=KLAV_STR3 Pin=KLAV-6
+Added Pin To Net: NetName=KLAV_STR2 Pin=KLAV-7
+Change Net Name : Old Net Name=NetGrebkl_4 New Net Name=KLAV_STB1
+Change Net Name : Old Net Name=NetGrebkl_5 New Net Name=KLAV_STB2
+Change Net Name : Old Net Name=NetGrebkl_6 New Net Name=KLAV_STB3

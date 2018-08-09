@@ -1,0 +1,191 @@
+Removed Pin From Net: NetName=PCI 7 Pin=PCI-6
+Removed Pin From Net: NetName=PCI 8 Pin=PCI-7
+Removed Pin From Net: NetName=PCI 9 Pin=PCI-8
+Removed Pin From Net: NetName=PCI 10 Pin=PCI-9
+Removed Pin From Net: NetName=PCI 12 Pin=PCI-11
+Removed Pin From Net: NetName=PCI 13 Pin=PCI-12
+Removed Pin From Net: NetName=PCI 14 Pin=PCI-13
+Removed Pin From Net: NetName=PCI 15 Pin=PCI-14
+Removed Pin From Net: NetName=PCI 22 Pin=PCI-22
+Removed Pin From Net: NetName=PCI 23 Pin=PCI-23
+Removed Pin From Net: NetName=PCI 24 Pin=PCI-24
+Removed Pin From Net: NetName=PCI 25 Pin=PCI-25
+Removed Pin From Net: NetName=PCI 89 Pin=PCI-93
+Removed Pin From Net: NetName=PCI 90 Pin=PCI-94
+Removed Pin From Net: NetName=PCI 91 Pin=PCI-95
+Removed Pin From Net: NetName=PCI 92 Pin=PCI-96
+Removed Pin From Net: NetName=PCI 99 Pin=PCI-103
+Removed Pin From Net: NetName=PCI 100 Pin=PCI-104
+Removed Pin From Net: NetName=PCI 101 Pin=PCI-105
+Removed Pin From Net: NetName=PCI 102 Pin=PCI-106
+Removed Pin From Net: NetName=PCI 104 Pin=PCI-108
+Removed Pin From Net: NetName=PCI 105 Pin=PCI-109
+Removed Pin From Net: NetName=PCI 106 Pin=PCI-110
+Removed Pin From Net: NetName=PCI 107 Pin=PCI-111
+Added Component: Designator=AI PORT(IDC10)
+Added Component: Designator=DIO1(IDC10)
+Added Component: Designator=DIO2(IDC10)
+Added Component: Designator=DIO3(IDC10)
+Added Component: Designator=ELPORT 1(IDC10)
+Added Component: Designator=grebpci(GrebForPCI)
+Added Component: Designator=PFI PORT(IDC10)
+Added Pin To Net: NetName=LCDOE Pin=AI PORT-1
+Added Pin To Net: NetName=PCI 44 Pin=AI PORT-2
+Added Pin To Net: NetName=PCI 43 Pin=AI PORT-3
+Added Pin To Net: NetName=PCI 42 Pin=AI PORT-4
+Added Pin To Net: NetName=PCI 41 Pin=AI PORT-5
+Added Pin To Net: NetName=PCI 39 Pin=AI PORT-6
+Added Pin To Net: NetName=PCI 38 Pin=AI PORT-7
+Added Pin To Net: NetName=PCI 37 Pin=AI PORT-8
+Added Pin To Net: NetName=PCI 36 Pin=AI PORT-9
+Added Pin To Net: NetName=VCCPLATA Pin=AI PORT-10
+Added Pin To Net: NetName=LCDOE Pin=DIO1-1
+Added Pin To Net: NetName=VCCPLATA Pin=DIO1-10
+Added Pin To Net: NetName=LCDOE Pin=DIO2-1
+Added Pin To Net: NetName=VCCPLATA Pin=DIO2-10
+Added Pin To Net: NetName=LCDOE Pin=DIO3-1
+Added Pin To Net: NetName=PCI 12 Pin=DIO3-5
+Added Pin To Net: NetName=PCI 7 Pin=DIO3-6
+Added Pin To Net: NetName=PCI 22 Pin=DIO3-7
+Added Pin To Net: NetName=VCCPLATA Pin=DIO3-10
+Added Pin To Net: NetName=LCDOE Pin=ELPORT 1-1
+Added Pin To Net: NetName=PCI 65 Pin=ELPORT 1-2
+Added Pin To Net: NetName=PCI 64 Pin=ELPORT 1-3
+Added Pin To Net: NetName=PCI 57 Pin=ELPORT 1-5
+Added Pin To Net: NetName=PCI 56 Pin=ELPORT 1-6
+Added Pin To Net: NetName=PCI 54 Pin=ELPORT 1-7
+Added Pin To Net: NetName=PCI 48 Pin=ELPORT 1-8
+Added Pin To Net: NetName=VCCPLATA Pin=ELPORT 1-10
+Added Pin To Net: NetName=PCI 1 Pin=grebpci-0
+Added Pin To Net: NetName=PCI 4 Pin=grebpci-3
+Added Pin To Net: NetName=PCI 8 Pin=grebpci-7
+Added Pin To Net: NetName=PCI 9 Pin=grebpci-8
+Added Pin To Net: NetName=PCI 10 Pin=grebpci-9
+Added Pin To Net: NetName=PCI 11 Pin=grebpci-10
+Added Pin To Net: NetName=PCI 13 Pin=grebpci-12
+Added Pin To Net: NetName=PCI 14 Pin=grebpci-13
+Added Pin To Net: NetName=PCI 15 Pin=grebpci-14
+Added Pin To Net: NetName=PCI 16 Pin=grebpci-15
+Added Pin To Net: NetName=PCI 23 Pin=grebpci-23
+Added Pin To Net: NetName=PCI 24 Pin=grebpci-24
+Added Pin To Net: NetName=PCI 25 Pin=grebpci-25
+Added Pin To Net: NetName=PCI 27 Pin=grebpci-28
+Added Pin To Net: NetName=PCI 28 Pin=grebpci-29
+Added Pin To Net: NetName=PCI 30 Pin=grebpci-31
+Added Pin To Net: NetName=PCI 31 Pin=grebpci-32
+Added Pin To Net: NetName=PCI 36 Pin=grebpci-37
+Added Pin To Net: NetName=PCI 37 Pin=grebpci-38
+Added Pin To Net: NetName=PCI 38 Pin=grebpci-39
+Added Pin To Net: NetName=PCI 39 Pin=grebpci-40
+Added Pin To Net: NetName=PCI 41 Pin=grebpci-42
+Added Pin To Net: NetName=PCI 42 Pin=grebpci-43
+Added Pin To Net: NetName=PCI 43 Pin=grebpci-44
+Added Pin To Net: NetName=PCI 44 Pin=grebpci-45
+Added Pin To Net: NetName=PCI 48 Pin=grebpci-50
+Added Pin To Net: NetName=PCI 54 Pin=grebpci-57
+Added Pin To Net: NetName=PCI 56 Pin=grebpci-58
+Added Pin To Net: NetName=PCI 57 Pin=grebpci-59
+Added Pin To Net: NetName=PCI 59 Pin=grebpci-61
+Added Pin To Net: NetName=PCI 64 Pin=grebpci-67
+Added Pin To Net: NetName=PCI 65 Pin=grebpci-68
+Added Pin To Net: NetName=PCI 83 Pin=grebpci-87
+Added Pin To Net: NetName=PCI 84 Pin=grebpci-88
+Added Pin To Net: NetName=PCI 86 Pin=grebpci-90
+Added Pin To Net: NetName=PCI 87 Pin=grebpci-91
+Added Pin To Net: NetName=PCI 89 Pin=grebpci-93
+Added Pin To Net: NetName=PCI 90 Pin=grebpci-94
+Added Pin To Net: NetName=PCI 91 Pin=grebpci-95
+Added Pin To Net: NetName=PCI 92 Pin=grebpci-96
+Added Pin To Net: NetName=PCI 99 Pin=grebpci-103
+Added Pin To Net: NetName=PCI 100 Pin=grebpci-104
+Added Pin To Net: NetName=PCI 101 Pin=grebpci-105
+Added Pin To Net: NetName=PCI 102 Pin=grebpci-106
+Added Pin To Net: NetName=PCI 104 Pin=grebpci-108
+Added Pin To Net: NetName=PCI 105 Pin=grebpci-109
+Added Pin To Net: NetName=PCI 106 Pin=grebpci-110
+Added Pin To Net: NetName=PCI 107 Pin=grebpci-111
+Added Pin To Net: NetName=PCI 111 Pin=grebpci-115
+Added Pin To Net: NetName=PCI 113 Pin=grebpci-117
+Added Pin To Net: NetName=PCI 12 Pin=PCI-22
+Added Pin To Net: NetName=PCI 22 Pin=PCI-95
+Added Pin To Net: NetName=PCI 7 Pin=PCI-96
+Added Pin To Net: NetName=PCI 87 Pin=PFI PORT-2
+Added Pin To Net: NetName=PCI 84 Pin=PFI PORT-3
+Added Pin To Net: NetName=PCI 83 Pin=PFI PORT-4
+Added Pin To Net: NetName=PCI 31 Pin=PFI PORT-6
+Added Pin To Net: NetName=PCI 30 Pin=PFI PORT-7
+Added Pin To Net: NetName=PCI 28 Pin=PFI PORT-8
+Added Pin To Net: NetName=PCI 27 Pin=PFI PORT-9
+Change Net Name : Old Net Name=PCI 7 New Net Name=DIO23
+Change Net Name : Old Net Name=PCI 12 New Net Name=DIO22
+Change Net Name : Old Net Name=PCI 22 New Net Name=DIO 21
+Added Pin To Net: NetName=DIO 0 Pin=DIO1-2
+Added Pin To Net: NetName=DIO 0 Pin=PCI-9
+Added Net: Name=DIO 0
+Added Pin To Net: NetName=DIO 1 Pin=DIO1-9
+Added Pin To Net: NetName=DIO 1 Pin=PCI-108
+Added Net: Name=DIO 1
+Added Pin To Net: NetName=DIO 2 Pin=DIO1-3
+Added Pin To Net: NetName=DIO 2 Pin=PCI-8
+Added Net: Name=DIO 2
+Added Pin To Net: NetName=DIO 3 Pin=DIO1-8
+Added Pin To Net: NetName=DIO 3 Pin=PCI-109
+Added Net: Name=DIO 3
+Added Pin To Net: NetName=DIO 4 Pin=DIO1-4
+Added Pin To Net: NetName=DIO 4 Pin=PCI-7
+Added Net: Name=DIO 4
+Added Pin To Net: NetName=DIO 5 Pin=DIO1-7
+Added Pin To Net: NetName=DIO 5 Pin=PCI-110
+Added Net: Name=DIO 5
+Added Pin To Net: NetName=DIO 6 Pin=DIO1-5
+Added Pin To Net: NetName=DIO 6 Pin=PCI-6
+Added Net: Name=DIO 6
+Added Pin To Net: NetName=DIO 7 Pin=DIO1-6
+Added Pin To Net: NetName=DIO 7 Pin=PCI-111
+Added Net: Name=DIO 7
+Added Pin To Net: NetName=DIO 8 Pin=DIO2-2
+Added Pin To Net: NetName=DIO 8 Pin=PCI-14
+Added Net: Name=DIO 8
+Added Pin To Net: NetName=DIO 9 Pin=DIO2-9
+Added Pin To Net: NetName=DIO 9 Pin=PCI-103
+Added Net: Name=DIO 9
+Added Pin To Net: NetName=DIO 10 Pin=DIO2-3
+Added Pin To Net: NetName=DIO 10 Pin=PCI-13
+Added Net: Name=DIO 10
+Added Pin To Net: NetName=DIO 11 Pin=DIO2-8
+Added Pin To Net: NetName=DIO 11 Pin=PCI-104
+Added Net: Name=DIO 11
+Added Pin To Net: NetName=DIO 12 Pin=DIO2-4
+Added Pin To Net: NetName=DIO 12 Pin=PCI-12
+Added Net: Name=DIO 12
+Added Pin To Net: NetName=DIO 13 Pin=DIO2-7
+Added Pin To Net: NetName=DIO 13 Pin=PCI-105
+Added Net: Name=DIO 13
+Added Pin To Net: NetName=DIO 14 Pin=DIO2-5
+Added Pin To Net: NetName=DIO 14 Pin=PCI-11
+Added Net: Name=DIO 14
+Added Pin To Net: NetName=DIO 15 Pin=DIO2-6
+Added Pin To Net: NetName=DIO 15 Pin=PCI-106
+Added Net: Name=DIO 15
+Added Pin To Net: NetName=DIO 16 Pin=DIO3-2
+Added Pin To Net: NetName=DIO 16 Pin=PCI-25
+Added Net: Name=DIO 16
+Added Pin To Net: NetName=DIO 17 Pin=DIO3-9
+Added Pin To Net: NetName=DIO 17 Pin=PCI-93
+Added Net: Name=DIO 17
+Added Pin To Net: NetName=DIO 18 Pin=DIO3-3
+Added Pin To Net: NetName=DIO 18 Pin=PCI-24
+Added Net: Name=DIO 18
+Added Pin To Net: NetName=DIO 19 Pin=DIO3-8
+Added Pin To Net: NetName=DIO 19 Pin=PCI-94
+Added Net: Name=DIO 19
+Added Pin To Net: NetName=DIO 20 Pin=DIO3-4
+Added Pin To Net: NetName=DIO 20 Pin=PCI-23
+Added Net: Name=DIO 20
+Added Member To Class: ClassName=Plata.~(40) Member=Component AI PORT IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component DIO1 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component DIO2 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component DIO3 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component ELPORT 1 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component grebpci greb
+Added Member To Class: ClassName=Plata.~(40) Member=Component PFI PORT IDC10

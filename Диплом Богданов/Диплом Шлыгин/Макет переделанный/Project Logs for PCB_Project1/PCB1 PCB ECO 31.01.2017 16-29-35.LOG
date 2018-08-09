@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=Netgrlcd_0 Pin=grlcd-0
+Removed Pin From Net: NetName=Netgrlcd_1 Pin=grlcd-1
+Removed Pin From Net: NetName=Netgrlcd_3 Pin=grlcd-3
+Removed Pin From Net: NetName=Netgrlcd_4 Pin=grlcd-4
+Removed Pin From Net: NetName=Netgrlcd_5 Pin=grlcd-5
+Removed Pin From Net: NetName=Netgrlcd_15 Pin=grlcd-15
+Removed Pin From Net: NetName=Netgrlcd_16 Pin=grlcd-16
+Removed Pin From Net: NetName=Netgrlcd_0 Pin=WG12864A-0
+Removed Pin From Net: NetName=Netgrlcd_1 Pin=WG12864A-1
+Removed Pin From Net: NetName=Netgrlcd_3 Pin=WG12864A-3
+Removed Pin From Net: NetName=Netgrlcd_4 Pin=WG12864A-4
+Removed Pin From Net: NetName=Netgrlcd_5 Pin=WG12864A-5
+Removed Pin From Net: NetName=Netgrlcd_15 Pin=WG12864A-15
+Removed Pin From Net: NetName=Netgrlcd_16 Pin=WG12864A-16
+Added Component: Designator=SREGLCD(SN74HC164DRX)
+Added Pin To Net: NetName=Netgrlcd_4 Pin=Connector-77
+Added Pin To Net: NetName=Netgrlcd_0 Pin=Connector-78
+Added Pin To Net: NetName=Netgrlcd_15 Pin=Connector-79
+Added Pin To Net: NetName=Netgrlcd_16 Pin=Connector-80
+Added Pin To Net: NetName=Netgrlcd_3 Pin=Connector-113
+Added Pin To Net: NetName=Netgrlcd_1 Pin=Connector-114
+Added Pin To Net: NetName=Netgrlcd_5 Pin=Connector-115
+Added Pin To Net: NetName=GND Pin=grlcd-0
+Added Pin To Net: NetName=VCC5 Pin=grlcd-1
+Added Pin To Net: NetName=Netgrlcd_5 Pin=grlcd-3
+Added Pin To Net: NetName=Netgrlcd_1 Pin=grlcd-4
+Added Pin To Net: NetName=Netgrlcd_3 Pin=grlcd-5
+Added Pin To Net: NetName=Netgrlcd_16 Pin=grlcd-15
+Added Pin To Net: NetName=Netgrlcd_0 Pin=grlcd-16
+Added Pin To Net: NetName=Netgrlcd_4 Pin=SREGLCD-1
+Added Pin To Net: NetName=Netgrlcd_4 Pin=SREGLCD-2
+Added Pin To Net: NetName=Netgrlcd_7 Pin=SREGLCD-4
+Added Pin To Net: NetName=Netgrlcd_8 Pin=SREGLCD-5
+Added Pin To Net: NetName=Netgrlcd_9 Pin=SREGLCD-6
+Added Pin To Net: NetName=GND Pin=SREGLCD-7
+Added Pin To Net: NetName=VCC Pin=SREGLCD-9
+Added Pin To Net: NetName=Netgrlcd_10 Pin=SREGLCD-10
+Added Pin To Net: NetName=Netgrlcd_11 Pin=SREGLCD-11
+Added Pin To Net: NetName=Netgrlcd_12 Pin=SREGLCD-12
+Added Pin To Net: NetName=Netgrlcd_13 Pin=SREGLCD-13
+Added Pin To Net: NetName=VCC Pin=SREGLCD-14
+Added Pin To Net: NetName=GND Pin=WG12864A-0
+Added Pin To Net: NetName=VCC5 Pin=WG12864A-1
+Added Pin To Net: NetName=Netgrlcd_5 Pin=WG12864A-3
+Added Pin To Net: NetName=Netgrlcd_1 Pin=WG12864A-4
+Added Pin To Net: NetName=Netgrlcd_3 Pin=WG12864A-5
+Added Pin To Net: NetName=Netgrlcd_16 Pin=WG12864A-15
+Added Pin To Net: NetName=Netgrlcd_0 Pin=WG12864A-16
+Change Net Name : Old Net Name=Netgrlcd_0 New Net Name=LCDRST
+Change Net Name : Old Net Name=Netgrlcd_1 New Net Name=LCDR/W
+Change Net Name : Old Net Name=Netgrlcd_3 New Net Name=LCDOE
+Change Net Name : Old Net Name=Netgrlcd_4 New Net Name=LCDDATA
+Change Net Name : Old Net Name=Netgrlcd_5 New Net Name=LCDD/I
+Change Net Name : Old Net Name=Netgrlcd_14 New Net Name=LCDCS1
+Change Net Name : Old Net Name=Netgrlcd_15 New Net Name=LCDCS3
+Change Net Name : Old Net Name=Netgrlcd_16 New Net Name=LCDCS2
+Added Pin To Net: NetName=LCDCLK Pin=Connector-116
+Added Pin To Net: NetName=LCDCLK Pin=SREGLCD-8
+Added Net: Name=LCDCLK
+Added Member To Class: ClassName=Plata Member=Component SREGLCD M74HC595B1R

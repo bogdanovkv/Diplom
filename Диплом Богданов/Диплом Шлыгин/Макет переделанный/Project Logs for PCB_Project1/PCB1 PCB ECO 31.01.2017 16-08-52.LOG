@@ -1,0 +1,22 @@
+Added Component: Designator=WG12864A(WG12864A)
+Added Pin To Net: NetName=Netgrlcd_0 Pin=WG12864A-0
+Added Pin To Net: NetName=Netgrlcd_1 Pin=WG12864A-1
+Added Pin To Net: NetName=Netgrlcd_2 Pin=WG12864A-2
+Added Pin To Net: NetName=Netgrlcd_3 Pin=WG12864A-3
+Added Pin To Net: NetName=Netgrlcd_4 Pin=WG12864A-4
+Added Pin To Net: NetName=Netgrlcd_5 Pin=WG12864A-5
+Added Pin To Net: NetName=Netgrlcd_6 Pin=WG12864A-6
+Added Pin To Net: NetName=Netgrlcd_7 Pin=WG12864A-7
+Added Pin To Net: NetName=Netgrlcd_8 Pin=WG12864A-8
+Added Pin To Net: NetName=Netgrlcd_9 Pin=WG12864A-9
+Added Pin To Net: NetName=Netgrlcd_10 Pin=WG12864A-10
+Added Pin To Net: NetName=Netgrlcd_11 Pin=WG12864A-11
+Added Pin To Net: NetName=Netgrlcd_12 Pin=WG12864A-12
+Added Pin To Net: NetName=Netgrlcd_13 Pin=WG12864A-13
+Added Pin To Net: NetName=Netgrlcd_14 Pin=WG12864A-14
+Added Pin To Net: NetName=Netgrlcd_15 Pin=WG12864A-15
+Added Pin To Net: NetName=Netgrlcd_16 Pin=WG12864A-16
+Added Pin To Net: NetName=Netgrlcd_17 Pin=WG12864A-17
+Added Pin To Net: NetName=Netgrlcd_18 Pin=WG12864A-18
+Added Pin To Net: NetName=Netgrlcd_19 Pin=WG12864A-19
+Added Member To Class: ClassName=Plata Member=Component WG12864A MT6464b

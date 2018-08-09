@@ -1,0 +1,80 @@
+PROGRAM TEXT;
+USES CRT;
+CONST
+ TAB=[32,9,10,13];
+ LAT=['A'..'Z','a'..'z'];
+ KIR=['€'..'Ÿ',' '..'ï'];
+ DIG=['0'..'9'];
+VAR
+ NTAB,NEQ,NENTER: BOOLEAN;
+ FL_01,TEMP:FILE OF CHAR;
+ C0,C1: CHAR;
+ c: array[1..101] of char;
+ k: array[1..101] of integer;
+ j,i,n,rus,eng,chi,t,duty: integer;
+BEGIN
+  i:=1;
+  n:=1;
+  j:=0;
+  rus:=0;
+  eng:=0;
+  chi:=0;
+  duty:=0;
+  t:=0;
+  CLRSCR;
+  WRITELN('===============================================================':60);
+  ASSIGN (FL_01,'F:\Pascal\Files\File_01.txt');
+  ASSIGN (TEMP,'F:\Pascal\Files\Temp.txt');
+  RESET (FL_01);
+  REWRITE (TEMP);
+  REPEAT
+   READ (FL_01,C0);
+   NTAB:=NOT (ORD(C0) IN TAB);
+   NEQ:=ord(C0)<>ord(C1);
+   IF (NTAB OR NEQ) THEN
+    BEGIN
+     WRITE (TEMP,C0);
+     if c0 in lat then
+      eng:=eng+1
+     else if c0 in kir then
+      rus:=rus+1
+      else if c0 in dig then
+       chi:=Chi+1
+       else if ord(c0) in tab then duty:=duty+1;
+     IF ((c0 in (lat+kir+dig)) and (not neq)) THEN
+      begin
+
+       for i:=1 to n do
+        if c0=c[i] then begin
+         k[i]:=k[i]+1;
+         t:=1;
+         end;
+
+       if t=0 then begin
+        c[n]:=c0;
+        k[n]:=1;
+        n:=n+1;
+        end;
+
+       end;
+     end
+     else j:=J+1;
+
+    c1:=c0;
+    t:=0;
+   UNTIL EOF(FL_01);
+   writeln ('Initial file size:':40, filesize(fl_01):5,' byte':8);
+   writeln ('final file size:':40, filesize(temp):5,' byte':8);
+   close (fl_01);
+   close(temp);
+   writeln('Quantity of duty symbols: ':40,duty:5);
+   writeln('Quantity of russian charecters: ':40,rus:5);
+   writeln('Quantitu of english characters: ':40,eng:5);
+   writeln('Quantity of digits: ':40,chi:5);
+   writeln ('Repeats of "Tab" and "Space": ':40,j:5,' times':8 );
+   writeln;
+   for i:=1 to n-1 do
+    writeln ('Pepeats of ':33,c[i]:5,' :',k[i]:5,' times':8);
+   writeln ('===============================================================':60);
+   READLN;
+  END.

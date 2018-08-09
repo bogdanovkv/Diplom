@@ -1,0 +1,13 @@
+Change Physical Footprint: Designator=Potent Old Footprint=R-0904N-A10K, L20KC New Footprint=R-0904N-A10K, L20KC
+Change Physical Footprint: Designator=R1_0 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=R1_1 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=R1_2 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=R1_3 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=R1_4 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=R1_6 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=ressb_1_5 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=ressb_1_7 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=VarRes1(test) Old Footprint=R-0904N-A10K, L20KC New Footprint=R-0904N-A10K, L20KC
+Change Physical Footprint: Designator=VarRes(test) Old Footprint=R-0904N-A10K, L20KC New Footprint=R-0904N-A10K, L20KC
+Change Physical Footprint: Designator=Vcc1.8 Old Footprint=IRU1010-18 New Footprint=IRU1010-18
+Change Physical Footprint: Designator=Vcc2.5 Old Footprint=sot223 New Footprint=sot223

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetRA24_1 Pin=SREG1-10
+Removed Pin From Net: NetName=NetRA24_0 Pin=SREG1-13
+Added Pin To Net: NetName=NetRA24_0 Pin=SREG1-10
+Added Pin To Net: NetName=NetRA24_1 Pin=SREG1-13
+Added Member To Class: ClassName=Power Supplies Member=Component C17 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C18 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C18 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C19 10u
+Added Member To Class: ClassName=Power Supplies Member=Component R50 121R

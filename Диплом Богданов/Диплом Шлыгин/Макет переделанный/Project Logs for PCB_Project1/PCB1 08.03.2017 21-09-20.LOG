@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=Plata.~(40) Member=C3
+Added Component: Designator=C?(R0805)
+Added Component: Designator=C?(R0805)
+Added Component: Designator=Voltage 5V(й(п)142ем5б)
+Added Pin To Net: NetName=LCDOE Pin=C?-1
+Added Pin To Net: NetName=LCDOE Pin=C?-1
+Added Pin To Net: NetName=GENERALVIN Pin=C?-2
+Added Pin To Net: NetName=VCC Pin=C?-2
+Added Pin To Net: NetName=GENERALVIN Pin=Voltage 5V-0
+Added Pin To Net: NetName=LCDOE Pin=Voltage 5V-1
+Added Pin To Net: NetName=VCC Pin=Voltage 5V-2
+Change Net Name : Old Net Name=VCC New Net Name=VCC5
+Added Member To Class: ClassName=Sheet1 Member=Component C? CAPACITY
+Added Member To Class: ClassName=Sheet1 Member=Component Voltage 5V 142ем5б
+Added Room: Name=Sheet1

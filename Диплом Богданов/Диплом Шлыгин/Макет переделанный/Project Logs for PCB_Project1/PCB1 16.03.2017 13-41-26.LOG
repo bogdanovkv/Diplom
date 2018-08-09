@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=UARTTX1 Pin=greb1.1-16
+Removed Pin From Net: NetName=UARTTX2 Pin=greb1.1-17
+Removed Pin From Net: NetName=SCK Pin=greb1.1-18
+Removed Pin From Net: NetName=SS Pin=greb1.1-19
+Removed Pin From Net: NetName=I2C SCK Pin=greb1.1-20
+Removed Pin From Net: NetName=I2C SDA Pin=greb1.1-21
+Removed Pin From Net: NetName=MISO Pin=greb1.1-22
+Removed Pin From Net: NetName=MOSI Pin=greb1.1-23
+Removed Pin From Net: NetName=UARTRX2 Pin=greb1.1-24
+Removed Pin From Net: NetName=UARTRX1 Pin=greb1.1-25
+Removed Pin From Net: NetName=UARTTX1 Pin=greb2.1-16
+Removed Pin From Net: NetName=UARTTX2 Pin=greb2.1-17
+Removed Pin From Net: NetName=SCK Pin=greb2.1-18
+Removed Pin From Net: NetName=SS Pin=greb2.1-19
+Removed Pin From Net: NetName=I2C SCK Pin=greb2.1-20
+Removed Pin From Net: NetName=I2C SDA Pin=greb2.1-21
+Removed Pin From Net: NetName=MISO Pin=greb2.1-22
+Removed Pin From Net: NetName=MOSI Pin=greb2.1-23
+Removed Pin From Net: NetName=UARTRX2 Pin=greb2.1-24
+Removed Pin From Net: NetName=UARTRX1 Pin=greb2.1-25
+Removed Pin From Net: NetName=UARTTX1 Pin=greb2.3-16
+Removed Pin From Net: NetName=UARTTX2 Pin=greb2.3-17
+Removed Pin From Net: NetName=SCK Pin=greb2.3-18
+Removed Pin From Net: NetName=SS Pin=greb2.3-19
+Removed Pin From Net: NetName=I2C SCK Pin=greb2.3-20
+Removed Pin From Net: NetName=I2C SDA Pin=greb2.3-21
+Removed Pin From Net: NetName=MISO Pin=greb2.3-22
+Removed Pin From Net: NetName=MOSI Pin=greb2.3-23
+Removed Pin From Net: NetName=UARTRX2 Pin=greb2.3-24
+Removed Pin From Net: NetName=UARTRX1 Pin=greb2.3-25

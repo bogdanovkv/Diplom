@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PCI 111 Pin=greb2.4-5
+Added Pin To Net: NetName=PCI 111 Pin=greb1.1-21
+Added Pin To Net: NetName=PCI 111 Pin=greb1.2-21
+Added Pin To Net: NetName=PCI 111 Pin=greb2.1-21
+Added Pin To Net: NetName=PCI 111 Pin=greb2.2-21
+Added Pin To Net: NetName=PCI 111 Pin=greb2.3-21
+Added Pin To Net: NetName=PCI 111 Pin=greb2.4-21

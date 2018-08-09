@@ -1,0 +1,67 @@
+Added Component: Designator=CAP2.5V1(R0805)
+Added Component: Designator=CAP2.5V2(R0805)
+Added Component: Designator=grebpci(GrebForPCI)
+Added Component: Designator=ressb_2(CAT16-102J4LF_2)
+Added Component: Designator=VOLT2.5(sot223)
+Added Pin To Net: NetName=LCDOE Pin=CAP2.5V1-1
+Added Pin To Net: NetName=VCC2.5 Pin=CAP2.5V1-2
+Added Pin To Net: NetName=LCDOE Pin=CAP2.5V2-1
+Added Pin To Net: NetName=GENERALVIN Pin=CAP2.5V2-2
+Added Pin To Net: NetName=PCI 1 Pin=grebpci-0
+Added Pin To Net: NetName=PCI 4 Pin=grebpci-3
+Added Pin To Net: NetName=PCI 8 Pin=grebpci-7
+Added Pin To Net: NetName=PCI 9 Pin=grebpci-8
+Added Pin To Net: NetName=PCI 10 Pin=grebpci-9
+Added Pin To Net: NetName=PCI 11 Pin=grebpci-10
+Added Pin To Net: NetName=PCI 13 Pin=grebpci-12
+Added Pin To Net: NetName=PCI 14 Pin=grebpci-13
+Added Pin To Net: NetName=PCI 15 Pin=grebpci-14
+Added Pin To Net: NetName=PCI 16 Pin=grebpci-15
+Added Pin To Net: NetName=PCI 23 Pin=grebpci-23
+Added Pin To Net: NetName=PCI 24 Pin=grebpci-24
+Added Pin To Net: NetName=PCI 25 Pin=grebpci-25
+Added Pin To Net: NetName=PCI 27 Pin=grebpci-28
+Added Pin To Net: NetName=PCI 28 Pin=grebpci-29
+Added Pin To Net: NetName=PCI 30 Pin=grebpci-31
+Added Pin To Net: NetName=PCI 31 Pin=grebpci-32
+Added Pin To Net: NetName=PCI 36 Pin=grebpci-37
+Added Pin To Net: NetName=PCI 37 Pin=grebpci-38
+Added Pin To Net: NetName=PCI 38 Pin=grebpci-39
+Added Pin To Net: NetName=PCI 39 Pin=grebpci-40
+Added Pin To Net: NetName=PCI 41 Pin=grebpci-42
+Added Pin To Net: NetName=PCI 42 Pin=grebpci-43
+Added Pin To Net: NetName=PCI 43 Pin=grebpci-44
+Added Pin To Net: NetName=PCI 44 Pin=grebpci-45
+Added Pin To Net: NetName=PCI 48 Pin=grebpci-50
+Added Pin To Net: NetName=PCI 54 Pin=grebpci-57
+Added Pin To Net: NetName=PCI 56 Pin=grebpci-58
+Added Pin To Net: NetName=PCI 57 Pin=grebpci-59
+Added Pin To Net: NetName=PCI 59 Pin=grebpci-61
+Added Pin To Net: NetName=PCI 64 Pin=grebpci-67
+Added Pin To Net: NetName=PCI 65 Pin=grebpci-68
+Added Pin To Net: NetName=PCI 83 Pin=grebpci-87
+Added Pin To Net: NetName=PCI 84 Pin=grebpci-88
+Added Pin To Net: NetName=PCI 86 Pin=grebpci-90
+Added Pin To Net: NetName=PCI 87 Pin=grebpci-91
+Added Pin To Net: NetName=PCI 89 Pin=grebpci-93
+Added Pin To Net: NetName=PCI 90 Pin=grebpci-94
+Added Pin To Net: NetName=PCI 91 Pin=grebpci-95
+Added Pin To Net: NetName=PCI 92 Pin=grebpci-96
+Added Pin To Net: NetName=PCI 99 Pin=grebpci-103
+Added Pin To Net: NetName=PCI 100 Pin=grebpci-104
+Added Pin To Net: NetName=PCI 101 Pin=grebpci-105
+Added Pin To Net: NetName=PCI 102 Pin=grebpci-106
+Added Pin To Net: NetName=PCI 104 Pin=grebpci-108
+Added Pin To Net: NetName=PCI 105 Pin=grebpci-109
+Added Pin To Net: NetName=PCI 106 Pin=grebpci-110
+Added Pin To Net: NetName=PCI 107 Pin=grebpci-111
+Added Pin To Net: NetName=PCI 111 Pin=grebpci-115
+Added Pin To Net: NetName=PCI 113 Pin=grebpci-117
+Added Pin To Net: NetName=LCDOE Pin=VOLT2.5-0
+Added Pin To Net: NetName=VCC2.5 Pin=VOLT2.5-1
+Added Pin To Net: NetName=GENERALVIN Pin=VOLT2.5-2
+Added Member To Class: ClassName=Sheet1 Member=Component CAP2.5V1 CAPACITY
+Added Member To Class: ClassName=Sheet1 Member=Component CAP2.5V2 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component grebpci greb
+Added Member To Class: ClassName=Plata.~(40) Member=Component ressb_2 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Sheet1 Member=Component VOLT2.5 ADP3338AKCZ-2.5RL7

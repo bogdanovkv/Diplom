@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=KLAV_STB2 Pin=-1
+Removed Pin From Net: NetName=KLAV_STR1 Pin=-2
+Removed Pin From Net: NetName=KLAV_STB1 Pin=-3
+Removed Pin From Net: NetName=KLAV_STR4 Pin=-4
+Removed Pin From Net: NetName=KLAV_STB3 Pin=-5
+Removed Pin From Net: NetName=KLAV_STR3 Pin=-6
+Removed Pin From Net: NetName=KLAV_STR2 Pin=-7
+Removed Pin From Net: NetName=KLAV_STB3 Pin=R1-1
+Removed Pin From Net: NetName=KLAV_STB2 Pin=R2-1
+Removed Pin From Net: NetName=KLAV_STB1 Pin=R3-1
+Added Component: Designator=KL2(CAT16-102J4LF)
+Added Component: Designator=KL3(CAT16-102J4LF)
+Added Pin To Net: NetName=LCDOE Pin=KL2-0
+Added Pin To Net: NetName=KLAV_STB1 Pin=KL2-1
+Added Pin To Net: NetName=KLAV_STB2 Pin=KL2-2
+Added Pin To Net: NetName=KLAV_STB3 Pin=KL2-3
+Added Pin To Net: NetName=LCDOE Pin=KL2-7
+Added Pin To Net: NetName=KLAV_STR3 Pin=KL3-1
+Added Pin To Net: NetName=KLAV_STR2 Pin=KL3-2
+Added Pin To Net: NetName=KLAV_STR1 Pin=KL3-3
+Added Pin To Net: NetName=Net_1 Pin=-1
+Added Pin To Net: NetName=Net_1 Pin=KL2-5
+Added Pin To Net: NetName=Net_1 Pin=R2-1
+Added Net: Name=Net_1
+Added Pin To Net: NetName=Net_2 Pin=-2
+Added Pin To Net: NetName=Net_2 Pin=KL3-4
+Added Net: Name=Net_2
+Added Pin To Net: NetName=Net_3 Pin=-3
+Added Pin To Net: NetName=Net_3 Pin=KL2-6
+Added Pin To Net: NetName=Net_3 Pin=R3-1
+Added Net: Name=Net_3
+Added Pin To Net: NetName=Net_4 Pin=-4
+Added Pin To Net: NetName=Net_4 Pin=KL3-7
+Added Net: Name=Net_4
+Added Pin To Net: NetName=Net_5 Pin=-5
+Added Pin To Net: NetName=Net_5 Pin=KL2-4
+Added Pin To Net: NetName=Net_5 Pin=R1-1
+Added Net: Name=Net_5
+Added Pin To Net: NetName=Net_6 Pin=-6
+Added Pin To Net: NetName=Net_6 Pin=KL3-6
+Added Net: Name=Net_6
+Added Pin To Net: NetName=Net_7 Pin=-7
+Added Pin To Net: NetName=Net_7 Pin=KL3-5
+Added Net: Name=Net_7
+Added Member To Class: ClassName=Plata.~(40) Member=Component KL2 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component KL3 Bourns CAT16-102J4LF

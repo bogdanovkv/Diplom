@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GENERALVIN Pin=Ceram1-1
+Removed Pin From Net: NetName=GND Pin=Ceram1-2
+Removed Pin From Net: NetName=GENERALVIN Pin=SCI 2.5-0
+Removed Pin From Net: NetName=GENERALVIN Pin=SCI 2.5-1
+Removed Pin From Net: NetName=GND Pin=SCI 2.5-2
+Removed Pin From Net: NetName=GND Pin=SCI 2.5-3
+Removed Pin From Net: NetName=VCC2.5 Pin=SCI 2.5-4
+Removed Member From Class: ClassName=Sheet1 Member=Ceram1
+Removed Member From Class: ClassName=Sheet1 Member=SCI 2.5
+Change Component Designator: OldDesignator=Ceram2 NewDesignator=+Ceram2
+Added Component: Designator=+Ceram3(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=TPS(20HTSSOP)
+Added Pin To Net: NetName=GND Pin=+Ceram3-2
+Added Pin To Net: NetName=VCC2.5 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=TPS-0
+Added Pin To Net: NetName=GENERALVIN Pin=TPS-2
+Added Pin To Net: NetName=GENERALVIN Pin=TPS-3
+Added Pin To Net: NetName=GND Pin=TPS-4
+Added Pin To Net: NetName=VCC2.5 Pin=TPS-6
+Added Pin To Net: NetName=VCC2.5 Pin=TPS-7
+Added Pin To Net: NetName=VCC2.5 Pin=TPS-8
+Added Pin To Net: NetName=GND Pin=TPS-9
+Added Pin To Net: NetName=GND Pin=TPS-10
+Added Pin To Net: NetName=GND Pin=TPS-16
+Added Pin To Net: NetName=GND Pin=TPS-19
+Change Net Name : Old Net Name=GND New Net Name=LCDOE
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=TPS-5
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=Sheet1 Member=Component +Ceram3 ceram2
+Added Member To Class: ClassName=Sheet1 Member=Component R? R0805
+Added Member To Class: ClassName=Sheet1 Member=Component TPS TPS75225-EP

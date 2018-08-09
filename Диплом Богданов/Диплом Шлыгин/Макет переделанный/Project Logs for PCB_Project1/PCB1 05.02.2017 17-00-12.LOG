@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=IDC10.5. 8 Pin=Connector-29
+Removed Pin From Net: NetName=IDC10.5. 7 Pin=Connector-30
+Removed Pin From Net: NetName=IDC10.5. 6 Pin=Connector-31
+Removed Pin From Net: NetName=IDC10.5. 5 Pin=Connector-32
+Removed Pin From Net: NetName=IDC10.5. 1 Pin=Connector-33
+Removed Pin From Net: NetName=IDC10.5. 2 Pin=Connector-34
+Removed Pin From Net: NetName=IDC10.5. 3 Pin=Connector-35
+Removed Pin From Net: NetName=IDC10.5. 4 Pin=Connector-36
+Removed Pin From Net: NetName=IDC10.5. 1 Pin=IDC10-7-2
+Removed Pin From Net: NetName=IDC10.5. 2 Pin=IDC10-7-3
+Removed Pin From Net: NetName=IDC10.5. 3 Pin=IDC10-7-4
+Removed Pin From Net: NetName=IDC10.5. 4 Pin=IDC10-7-5
+Removed Pin From Net: NetName=IDC10.5. 8 Pin=IDC10-7-6
+Removed Pin From Net: NetName=IDC10.5. 7 Pin=IDC10-7-7
+Removed Pin From Net: NetName=IDC10.5. 6 Pin=IDC10-7-8
+Removed Pin From Net: NetName=IDC10.5. 5 Pin=IDC10-7-9
+Added Pin To Net: NetName=IDC10.7. 1 Pin=Connector-33
+Added Pin To Net: NetName=IDC10.7. 1 Pin=IDC10-7-2
+Added Net: Name=IDC10.7. 1
+Added Pin To Net: NetName=IDC10.7. 2 Pin=Connector-34
+Added Pin To Net: NetName=IDC10.7. 2 Pin=IDC10-7-3
+Added Net: Name=IDC10.7. 2
+Added Pin To Net: NetName=IDC10.7. 3 Pin=Connector-35
+Added Pin To Net: NetName=IDC10.7. 3 Pin=IDC10-7-4
+Added Net: Name=IDC10.7. 3
+Added Pin To Net: NetName=IDC10.7. 4 Pin=Connector-36
+Added Pin To Net: NetName=IDC10.7. 4 Pin=IDC10-7-5
+Added Net: Name=IDC10.7. 4
+Added Pin To Net: NetName=IDC10.7. 5 Pin=Connector-32
+Added Pin To Net: NetName=IDC10.7. 5 Pin=IDC10-7-9
+Added Net: Name=IDC10.7. 5
+Added Pin To Net: NetName=IDC10.7. 6 Pin=Connector-31
+Added Pin To Net: NetName=IDC10.7. 6 Pin=IDC10-7-8
+Added Net: Name=IDC10.7. 6
+Added Pin To Net: NetName=IDC10.7. 7 Pin=Connector-30
+Added Pin To Net: NetName=IDC10.7. 7 Pin=IDC10-7-7
+Added Net: Name=IDC10.7. 7
+Added Pin To Net: NetName=IDC10.7. 8 Pin=Connector-29
+Added Pin To Net: NetName=IDC10.7. 8 Pin=IDC10-7-6
+Added Net: Name=IDC10.7. 8

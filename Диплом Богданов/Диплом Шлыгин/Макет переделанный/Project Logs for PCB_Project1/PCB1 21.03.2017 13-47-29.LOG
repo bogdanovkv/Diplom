@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PCI 3 Pin=-3
+Change Component Designator: OldDesignator= NewDesignator=sas
+Added Pin To Net: NetName=Net_3 Pin=-3
+Added Pin To Net: NetName=PCI 3 Pin=sas-3
+Added Member To Class: ClassName=Plata.~(40) Member=Component sas DS-313a

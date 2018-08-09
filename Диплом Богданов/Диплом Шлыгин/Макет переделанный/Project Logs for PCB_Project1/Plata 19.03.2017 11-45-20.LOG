@@ -1,0 +1,49 @@
+Change Component Designator: OldDesignator=1.8 NewDesignator=Vcc1.8
+Change Component Designator: OldDesignator=AI PORT NewDesignator=AI
+Change Component Designator: OldDesignator=AP NewDesignator=AnalogP
+Change Component Designator: OldDesignator=C1vcc3.3 NewDesignator=C1 Vcc3.3
+Change Component Designator: OldDesignator=C2cap3.3 NewDesignator=C2 Vcc3.3
+Change Component Designator: OldDesignator=CAP2.5V1 NewDesignator=C1 2.5V
+Change Component Designator: OldDesignator=CAP2.5V2 NewDesignator=C2 2.5V
+Change Component Designator: OldDesignator=CapSound NewDesignator=C.sound
+Change Component Designator: OldDesignator=DIOD(tipa) NewDesignator=VD1
+Change Component Designator: OldDesignator=dip pull up1 NewDesignator=P.U.1
+Change Component Designator: OldDesignator=dip pull up2 NewDesignator=P.U.2
+Change Component Designator: OldDesignator=DS NewDesignator=
+Change Component Designator: OldDesignator=greb1.1 NewDesignator=1.1
+Change Component Designator: OldDesignator=greb1.2 NewDesignator=1.2
+Change Component Designator: OldDesignator=greb2.1 NewDesignator=2.1
+Change Component Designator: OldDesignator=greb2.2 NewDesignator=2.2
+Change Component Designator: OldDesignator=greb2.3 NewDesignator=2.3
+Change Component Designator: OldDesignator=greb2.4 NewDesignator=2.4
+Change Component Designator: OldDesignator=KLAV NewDesignator=
+Change Component Designator: OldDesignator=PFI PORT NewDesignator=PFI
+Change Component Designator: OldDesignator=ps850l-1 NewDesignator=Button1
+Change Component Designator: OldDesignator=ps850l-2 NewDesignator=Button3
+Change Component Designator: OldDesignator=ps850l-3 NewDesignator=Button2
+Change Component Designator: OldDesignator=ps850lreset NewDesignator=RESET
+Change Component Designator: OldDesignator=R11 NewDesignator=R.B.2
+Change Component Designator: OldDesignator=R12 NewDesignator=R.B.3
+Change Component Designator: OldDesignator=R13 NewDesignator=R.B.1
+Change Component Designator: OldDesignator=R14 NewDesignator=R4
+Change Component Designator: OldDesignator=Rcon1 NewDesignator=Rc1
+Change Component Designator: OldDesignator=Rcon2 NewDesignator=Rc2
+Change Component Designator: OldDesignator=reoat NewDesignator=VarRes1(test)
+Change Component Designator: OldDesignator=ressb_1_0 NewDesignator=R1_0
+Change Component Designator: OldDesignator=ressb_1_1 NewDesignator=R1_1
+Change Component Designator: OldDesignator=ressb_1_2 NewDesignator=R1_2
+Change Component Designator: OldDesignator=ressb_1_3 NewDesignator=R1_3
+Change Component Designator: OldDesignator=ressb_1_4 NewDesignator=R1_4
+Change Component Designator: OldDesignator=ressb_1_6 NewDesignator=R1_6
+Change Component Designator: OldDesignator=ressb_1_7 NewDesignator=R1_7
+Change Component Designator: OldDesignator=ressb_2_0 NewDesignator=R2_0
+Change Component Designator: OldDesignator=ressb_2_1 NewDesignator=R2_1
+Change Component Designator: OldDesignator=ressb_2_4 NewDesignator=R2_4
+Change Component Designator: OldDesignator=ressb_2_5 NewDesignator=R2_5
+Change Component Designator: OldDesignator=ressb_2_6 NewDesignator=R2_6
+Change Component Designator: OldDesignator=ressb_2_7 NewDesignator=R2_7
+Change Component Designator: OldDesignator=RSound NewDesignator=R.sound
+Change Component Designator: OldDesignator=rsun NewDesignator=Rc3
+Change Component Designator: OldDesignator=Rvd3(tip) NewDesignator=VD2
+Change Component Designator: OldDesignator=varrev NewDesignator=VarRes(test)
+Change Component Designator: OldDesignator=VOLT2.5 NewDesignator=Vcc2.5

@@ -1,0 +1,5 @@
+Change Physical Footprint: Designator=P5 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=P8 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=PCI Old Footprint=PCI-120 New Footprint=PCI-120
+Change Physical Footprint: Designator=VccPlata Old Footprint=Connect New Footprint=Connect
+Change Physical Footprint: Designator=WG12864A Old Footprint=WG12864A New Footprint=WG12864A

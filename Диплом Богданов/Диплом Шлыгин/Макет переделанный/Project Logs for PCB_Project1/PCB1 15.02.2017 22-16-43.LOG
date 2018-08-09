@@ -1,0 +1,48 @@
+Added Component: Designator=*(D008_M)
+Added Component: Designator=5v(D008_M)
+Added Component: Designator=C1(RB7.6-15)
+Added Component: Designator=C3(CAPR5-4X5)
+Added Component: Designator=C4(CAPR5-4X5)
+Added Component: Designator=D?(SMB)
+Added Component: Designator=L1(0402-A)
+Added Component: Designator=RVcc1(R0805)
+Added Component: Designator=RVcc2(R0805)
+Added Component: Designator=RVcc3(R0805)
+Added Pin To Net: NetName=LCDOE Pin=5v-1
+Added Pin To Net: NetName=LCDOE Pin=5v-5
+Added Pin To Net: NetName=LCDOE Pin=C1-2
+Added Pin To Net: NetName=LCDOE Pin=C4-2
+Added Pin To Net: NetName=LCDOE Pin=RVcc3-1
+Added Pin To Net: NetName=Net5v_2 Pin=5v-2
+Added Pin To Net: NetName=Net5v_2 Pin=5v-6
+Added Pin To Net: NetName=Net5v_2 Pin=5v-7
+Added Pin To Net: NetName=Net5v_2 Pin=C4-1
+Added Pin To Net: NetName=Net5v_2 Pin=D?-2
+Added Pin To Net: NetName=Net5v_2 Pin=RVcc2-2
+Added Net: Name=Net5v_2
+Added Pin To Net: NetName=Net5v_3 Pin=5v-3
+Added Pin To Net: NetName=Net5v_3 Pin=C3-1
+Added Pin To Net: NetName=Net5v_3 Pin=RVcc1-1
+Added Net: Name=Net5v_3
+Added Pin To Net: NetName=Net5v_4 Pin=5v-4
+Added Pin To Net: NetName=Net5v_4 Pin=RVcc2-1
+Added Pin To Net: NetName=Net5v_4 Pin=RVcc3-2
+Added Net: Name=Net5v_4
+Added Pin To Net: NetName=Net5v_8 Pin=5v-8
+Added Pin To Net: NetName=Net5v_8 Pin=C3-2
+Added Pin To Net: NetName=Net5v_8 Pin=D?-1
+Added Pin To Net: NetName=Net5v_8 Pin=L1-2
+Added Net: Name=Net5v_8
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=L1-1
+Added Pin To Net: NetName=NetC1_1 Pin=RVcc1-2
+Added Net: Name=NetC1_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component 5v LM2623
+Added Member To Class: ClassName=Plata.~(40) Member=Component C1 Cap Pol1
+Added Member To Class: ClassName=Plata.~(40) Member=Component C3 Cap2
+Added Member To Class: ClassName=Plata.~(40) Member=Component C4 Cap2
+Added Member To Class: ClassName=Plata.~(40) Member=Component D? D Schottky
+Added Member To Class: ClassName=Plata.~(40) Member=Component L1 Inductor
+Added Member To Class: ClassName=Plata.~(40) Member=Component RVcc1 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component RVcc2 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component RVcc3 R0805

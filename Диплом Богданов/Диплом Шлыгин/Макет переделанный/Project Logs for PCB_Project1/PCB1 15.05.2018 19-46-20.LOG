@@ -1,0 +1,13 @@
+Added Component: Designator=ressb_2(CAT16-102J4LF_2)
+Change Net Name : Old Net Name=Net_1 New Net Name=NetDip_1
+Change Net Name : Old Net Name=Net_2 New Net Name=NetDip_2
+Change Net Name : Old Net Name=Net_3 New Net Name=NetDip_3
+Change Net Name : Old Net Name=Net_4 New Net Name=NetDip_4
+Change Net Name : Old Net Name=Net_5 New Net Name=NetDip_5
+Change Net Name : Old Net Name=Net_6 New Net Name=NetDip_6
+Change Net Name : Old Net Name=Net_7 New Net Name=NetDip_7
+Change Net Name : Old Net Name=Net_8 New Net Name=NetDip_8
+Added Member To Class: ClassName=Plata.~(40) Member=Component P3.2 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component ressb_2 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component  AK-207
+Added Member To Class: ClassName=Plata.~(40) Member=Component  PCI

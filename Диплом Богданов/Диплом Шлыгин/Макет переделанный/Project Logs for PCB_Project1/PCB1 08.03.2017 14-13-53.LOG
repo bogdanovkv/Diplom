@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetConnector_29 Pin=SB 2-0
+Removed Pin From Net: NetName=NetConnector_30 Pin=SB 2-1
+Removed Pin From Net: NetName=NetConnector_31 Pin=SB 2-2
+Removed Pin From Net: NetName=NetConnector_32 Pin=SB 2-3
+Removed Pin From Net: NetName=IDC10.7. 5 Pin=SB 2-4
+Removed Pin From Net: NetName=IDC10.7. 6 Pin=SB 2-5
+Removed Pin From Net: NetName=IDC10.7. 7 Pin=SB 2-6
+Removed Pin From Net: NetName=IDC10.7. 8 Pin=SB 2-7
+Added Pin To Net: NetName=IDC10.7. 5 Pin=SB 2-0
+Added Pin To Net: NetName=IDC10.7. 6 Pin=SB 2-1
+Added Pin To Net: NetName=IDC10.7. 7 Pin=SB 2-2
+Added Pin To Net: NetName=IDC10.7. 8 Pin=SB 2-3
+Added Pin To Net: NetName=NetConnector_29 Pin=SB 2-4
+Added Pin To Net: NetName=NetConnector_30 Pin=SB 2-5
+Added Pin To Net: NetName=NetConnector_31 Pin=SB 2-6
+Added Pin To Net: NetName=NetConnector_32 Pin=SB 2-7

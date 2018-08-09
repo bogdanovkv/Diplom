@@ -1,0 +1,34 @@
+Change Physical Footprint: Designator=C1 Vcc3.3 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=C2cap1.8 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=C2 Vcc3.3 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=C1 2.5V Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=C2 2.5V Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=C.sound Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=P.U.1 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=P.U.2 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=R1 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R2 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R2_0 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=R2_1 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=R2_4 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=R2_6 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=R2_7 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=R3 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R4 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R7seg Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R.B.1 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R.B.2 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R.B.3 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R.sound Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=Rc1 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=Rc2 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=Rc3 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=ressb_2 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=ressb_2_2 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=ressb_2_3 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=ressb_2_5 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=Rvd1 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=Rvd2 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=Vcc 1.8 Old Footprint=IRU1010-18 New Footprint=IRU1010-18
+Change Physical Footprint: Designator=VD1 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=VD2 Old Footprint=R0805 New Footprint=R0805

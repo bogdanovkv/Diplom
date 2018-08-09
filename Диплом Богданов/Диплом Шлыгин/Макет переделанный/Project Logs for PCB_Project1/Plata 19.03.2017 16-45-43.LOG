@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C1 1V NewDesignator=C1.1V
+Change Component Designator: OldDesignator=C2 2V NewDesignator=C2.2V
+Change Component Designator: OldDesignator=ELPORT 1 NewDesignator=EL.P.1
+Change Component Designator: OldDesignator=P7 NewDesignator=AP7

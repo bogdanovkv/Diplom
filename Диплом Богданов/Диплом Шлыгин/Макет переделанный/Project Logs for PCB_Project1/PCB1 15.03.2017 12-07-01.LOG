@@ -1,0 +1,14 @@
+Added Component: Designator=1VOLT SCHEME(8SO PowerPAD)
+Added Component: Designator=ressb_2(CAT16-102J4LF_2)
+Added Pin To Net: NetName=GND Pin=1VOLT SCHEME-0
+Added Pin To Net: NetName=GND Pin=1VOLT SCHEME-2
+Added Pin To Net: NetName=GENERALVIN Pin=1VOLT SCHEME-3
+Added Pin To Net: NetName=GND Pin=1VOLT SCHEME-7
+Change Net Name : Old Net Name=GND New Net Name=LCDOE
+Added Pin To Net: NetName=VCC1 Pin=1VOLT SCHEME-4
+Added Pin To Net: NetName=VCC1 Pin=1VOLT SCHEME-5
+Added Pin To Net: NetName=VCC1 Pin=VccPlata-66
+Added Net: Name=VCC1
+Added Member To Class: ClassName=Sheet1 Member=Component 1VOLT SCHEME LP38853
+Added Member To Class: ClassName=Plata.~(40) Member=Component ressb_2 Bourns CAT16-102J4LF_1
+Added Room: Name=Plata.~(40)

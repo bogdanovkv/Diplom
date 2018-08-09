@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=PCI 106 Pin=*-110
+Removed Pin From Net: NetName=PCI 49 Pin=PCI-50
+Removed Pin From Net: NetName=PCI 57 Pin=PCI-59
+Removed Pin From Net: NetName=PCI 59 Pin=PCI-61
+Removed Pin From Net: NetName=PCI 64 Pin=PCI-67
+Removed Pin From Net: NetName=PCI 65 Pin=PCI-68
+Added Pin To Net: NetName=PCI 4 Pin=PCI-3
+Added Pin To Net: NetName=PCI 106 Pin=PCI-4
+Added Pin To Net: NetName=PCI 49 Pin=PCI-5
+Added Pin To Net: NetName=PCI 11 Pin=PCI-10
+Added Pin To Net: NetName=PCI 16 Pin=PCI-15
+Added Pin To Net: NetName=PCI 28 Pin=PCI-29
+Added Pin To Net: NetName=PCI 31 Pin=PCI-32
+Added Pin To Net: NetName=PCI 48 Pin=PCI-49
+Change Net Name : Old Net Name=PCI 49 New Net Name=PCI 6
+Change Net Name : Old Net Name=PCI 106 New Net Name=PCI 5
+Added Pin To Net: NetName=PCI 2 Pin=PCI-1
+Added Net: Name=PCI 2

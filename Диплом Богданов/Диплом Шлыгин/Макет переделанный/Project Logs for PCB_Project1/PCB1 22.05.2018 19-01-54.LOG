@@ -1,0 +1,486 @@
+Removed Pin From Net: NetName=VCCPLATA Pin=C12-1
+Removed Pin From Net: NetName=VCCPLATA Pin=C13-1
+Removed Pin From Net: NetName=LCDOE Pin=C13-2
+Removed Pin From Net: NetName=VCCPLATA Pin=C14-1
+Removed Pin From Net: NetName=VCCPLATA Pin=C15-1
+Removed Pin From Net: NetName=LCDOE Pin=C15-2
+Removed Pin From Net: NetName=VCCPLATA Pin=C16-2
+Removed Pin From Net: NetName=VCCPLATA Pin=R1-2
+Removed Pin From Net: NetName=IDC10.3. 4 Pin=R1_4-4
+Removed Pin From Net: NetName=IDC10.3. 3 Pin=R1_4-5
+Removed Pin From Net: NetName=IDC10.3. 2 Pin=R1_4-6
+Removed Pin From Net: NetName=IDC10.3. 1 Pin=R1_4-7
+Removed Pin From Net: NetName=VCCPLATA Pin=R2-2
+Removed Pin From Net: NetName=VCCPLATA Pin=R3-2
+Removed Pin From Net: NetName=VCCPLATA Pin=R13-1
+Removed Pin From Net: NetName=VCCPLATA Pin=R14-1
+Removed Pin From Net: NetName=IDC10.1. 4 Pin=RA5-4
+Removed Pin From Net: NetName=IDC10.1. 3 Pin=RA5-5
+Removed Pin From Net: NetName=IDC10.1. 2 Pin=RA5-6
+Removed Pin From Net: NetName=IDC10.1. 1 Pin=RA5-7
+Removed Pin From Net: NetName=IDC10.2. 4 Pin=RA6-4
+Removed Pin From Net: NetName=IDC10.2. 3 Pin=RA6-5
+Removed Pin From Net: NetName=IDC10.2. 2 Pin=RA6-6
+Removed Pin From Net: NetName=IDC10.2. 1 Pin=RA6-7
+Removed Pin From Net: NetName=IDC10.4. 4 Pin=RA8-4
+Removed Pin From Net: NetName=IDC10.4. 3 Pin=RA8-5
+Removed Pin From Net: NetName=IDC10.4. 2 Pin=RA8-6
+Removed Pin From Net: NetName=IDC10.4. 1 Pin=RA8-7
+Removed Pin From Net: NetName=IDC10.5. 4 Pin=RA10-4
+Removed Pin From Net: NetName=IDC10.5. 3 Pin=RA10-5
+Removed Pin From Net: NetName=IDC10.5. 2 Pin=RA10-6
+Removed Pin From Net: NetName=IDC10.5. 1 Pin=RA10-7
+Removed Pin From Net: NetName=IDC10.6. 4 Pin=RA11-4
+Removed Pin From Net: NetName=IDC10.6. 3 Pin=RA11-5
+Removed Pin From Net: NetName=IDC10.6. 2 Pin=RA11-6
+Removed Pin From Net: NetName=IDC10.6. 1 Pin=RA11-7
+Removed Pin From Net: NetName=IDC10.7. 4 Pin=RA15-4
+Removed Pin From Net: NetName=IDC10.7. 3 Pin=RA15-5
+Removed Pin From Net: NetName=IDC10.7. 2 Pin=RA15-6
+Removed Pin From Net: NetName=IDC10.7. 1 Pin=RA15-7
+Removed Pin From Net: NetName=VCCPLATA Pin=Rvar1-0
+Removed Pin From Net: NetName=VCCPLATA Pin=Rvar2-2
+Removed Pin From Net: NetName=VCCPLATA Pin=SREG1-9
+Removed Pin From Net: NetName=VCCPLATA Pin=SREG1-14
+Removed Pin From Net: NetName=VCCPLATA Pin=SREG2-9
+Removed Pin From Net: NetName=VCCPLATA Pin=SREG2-14
+Removed Pin From Net: NetName=VCCPLATA Pin=SREG3-9
+Removed Pin From Net: NetName=VCCPLATA Pin=SREG3-14
+Removed Pin From Net: NetName=VCCPLATA Pin=SREG4-9
+Removed Pin From Net: NetName=VCCPLATA Pin=SREG4-14
+Removed Pin From Net: NetName=VCCPLATA Pin=SREGLCD-9
+Removed Pin From Net: NetName=VCCPLATA Pin=SREGLCD-14
+Added Component: Designator=7Segmind(CA56-11EWA)
+Added Component: Designator=Connector(Connect)
+Added Component: Designator=CT1(tantal cap)
+Added Component: Designator=R1_4(CAT16-102J4LF)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=RA1(CAT16-102J4LF)
+Added Component: Designator=RA3(CAT16-102J4LF_2)
+Added Component: Designator=RA4(CAT16-102J4LF_2)
+Added Component: Designator=RA5(CAT16-102J4LF)
+Added Component: Designator=RA6(CAT16-102J4LF)
+Added Component: Designator=RA7(CAT16-102J4LF_2)
+Added Component: Designator=RA8(CAT16-102J4LF)
+Added Component: Designator=RA9(CAT16-102J4LF_2)
+Added Component: Designator=RA10(CAT16-102J4LF)
+Added Component: Designator=RA11(CAT16-102J4LF)
+Added Component: Designator=RA12(CAT16-102J4LF_2)
+Added Component: Designator=RA13(CAT16-102J4LF_2)
+Added Component: Designator=RA14(CAT16-102J4LF_2)
+Added Component: Designator=RA15(CAT16-102J4LF)
+Added Component: Designator=RA16(CAT16-102J4LF_2)
+Added Component: Designator=SREG1(SN74HC164DR-D)
+Added Component: Designator=SREG2(SN74HC164DR-D)
+Added Component: Designator=SREG3(SN74HC164DR-D)
+Added Component: Designator=SREG4(SN74HC164DR-D)
+Added Component: Designator=Vin(ds-313)
+Added Pin To Net: NetName=A.RESET Pin=C16-2
+Added Pin To Net: NetName=VCC1 Pin=Connector-66
+Added Pin To Net: NetName=VCC1.8 Pin=Connector-67
+Added Pin To Net: NetName=BUTTON_2 Pin=Connector-73
+Added Pin To Net: NetName=NET_VD1 Pin=Connector-74
+Added Pin To Net: NetName=NET_VD2 Pin=Connector-75
+Added Pin To Net: NetName=LCDDATA Pin=Connector-77
+Added Pin To Net: NetName=LCDRST Pin=Connector-78
+Added Pin To Net: NetName=LCDCS1 Pin=Connector-79
+Added Pin To Net: NetName=LCDCS2 Pin=Connector-80
+Added Pin To Net: NetName=UARTRX1 Pin=Connector-81
+Added Pin To Net: NetName=UARTRX2 Pin=Connector-82
+Added Pin To Net: NetName=MOSI Pin=Connector-83
+Added Pin To Net: NetName=MISO Pin=Connector-84
+Added Pin To Net: NetName=AO4 Pin=Connector-93
+Added Pin To Net: NetName=AO3 Pin=Connector-94
+Added Pin To Net: NetName=AO2 Pin=Connector-95
+Added Pin To Net: NetName=AO1 Pin=Connector-96
+Added Pin To Net: NetName=AI1 Pin=Connector-97
+Added Pin To Net: NetName=AI2 Pin=Connector-98
+Added Pin To Net: NetName=AI3 Pin=Connector-99
+Added Pin To Net: NetName=AI4 Pin=Connector-100
+Added Pin To Net: NetName=SS Pin=Connector-109
+Added Pin To Net: NetName=SCK Pin=Connector-110
+Added Pin To Net: NetName=UARTTX2 Pin=Connector-111
+Added Pin To Net: NetName=UARTTX1 Pin=Connector-112
+Added Pin To Net: NetName=LCDOE Pin=Connector-113
+Added Pin To Net: NetName=LCDD/I Pin=Connector-114
+Added Pin To Net: NetName=LCDR/W Pin=Connector-115
+Added Pin To Net: NetName=LCDCLK Pin=Connector-116
+Added Pin To Net: NetName=BUTTON_1 Pin=Connector-117
+Added Pin To Net: NetName=7SEG_CLK Pin=Connector-118
+Added Pin To Net: NetName=BUTTON_3 Pin=Connector-119
+Added Pin To Net: NetName=SOUND Pin=Connector-120
+Added Pin To Net: NetName=BUTTON_RESET Pin=Connector-121
+Added Pin To Net: NetName=A.RESET Pin=Connector-128
+Added Pin To Net: NetName=LCDOE Pin=CT1-0
+Added Pin To Net: NetName=A.RESET Pin=CT1-1
+Added Pin To Net: NetName=VCC3.3 Pin=R1-2
+Added Pin To Net: NetName=IDC10.3. 4 Pin=R1_4-4
+Added Pin To Net: NetName=IDC10.3. 3 Pin=R1_4-5
+Added Pin To Net: NetName=IDC10.3. 2 Pin=R1_4-6
+Added Pin To Net: NetName=IDC10.3. 1 Pin=R1_4-7
+Added Pin To Net: NetName=VCC3.3 Pin=R2-2
+Added Pin To Net: NetName=VCC3.3 Pin=R3-2
+Added Pin To Net: NetName=A.RESET Pin=R13-1
+Added Pin To Net: NetName=A.RESET Pin=R14-1
+Added Pin To Net: NetName=IDC10.8. 4 Pin=RA1-4
+Added Pin To Net: NetName=IDC10.8. 3 Pin=RA1-5
+Added Pin To Net: NetName=IDC10.8. 2 Pin=RA1-6
+Added Pin To Net: NetName=IDC10.8. 1 Pin=RA1-7
+Added Pin To Net: NetName=IDC10.8. 5 Pin=RA3-4
+Added Pin To Net: NetName=IDC10.8. 6 Pin=RA3-5
+Added Pin To Net: NetName=IDC10.8. 7 Pin=RA3-6
+Added Pin To Net: NetName=IDC10.8. 8 Pin=RA3-7
+Added Pin To Net: NetName=IDC10.1. 5 Pin=RA4-4
+Added Pin To Net: NetName=IDC10.1. 6 Pin=RA4-5
+Added Pin To Net: NetName=IDC10.1. 7 Pin=RA4-6
+Added Pin To Net: NetName=IDC10.1. 8 Pin=RA4-7
+Added Pin To Net: NetName=IDC10.1. 4 Pin=RA5-4
+Added Pin To Net: NetName=IDC10.1. 3 Pin=RA5-5
+Added Pin To Net: NetName=IDC10.1. 2 Pin=RA5-6
+Added Pin To Net: NetName=IDC10.1. 1 Pin=RA5-7
+Added Pin To Net: NetName=IDC10.2. 4 Pin=RA6-4
+Added Pin To Net: NetName=IDC10.2. 3 Pin=RA6-5
+Added Pin To Net: NetName=IDC10.2. 2 Pin=RA6-6
+Added Pin To Net: NetName=IDC10.2. 1 Pin=RA6-7
+Added Pin To Net: NetName=IDC10.2. 5 Pin=RA7-4
+Added Pin To Net: NetName=IDC10.2. 6 Pin=RA7-5
+Added Pin To Net: NetName=IDC10.2. 7 Pin=RA7-6
+Added Pin To Net: NetName=IDC10.2. 8 Pin=RA7-7
+Added Pin To Net: NetName=IDC10.4. 4 Pin=RA8-4
+Added Pin To Net: NetName=IDC10.4. 3 Pin=RA8-5
+Added Pin To Net: NetName=IDC10.4. 2 Pin=RA8-6
+Added Pin To Net: NetName=IDC10.4. 1 Pin=RA8-7
+Added Pin To Net: NetName=IDC10.3. 5 Pin=RA9-4
+Added Pin To Net: NetName=IDC10.3. 6 Pin=RA9-5
+Added Pin To Net: NetName=IDC10.3. 7 Pin=RA9-6
+Added Pin To Net: NetName=IDC10.3. 8 Pin=RA9-7
+Added Pin To Net: NetName=IDC10.5. 4 Pin=RA10-4
+Added Pin To Net: NetName=IDC10.5. 3 Pin=RA10-5
+Added Pin To Net: NetName=IDC10.5. 2 Pin=RA10-6
+Added Pin To Net: NetName=IDC10.5. 1 Pin=RA10-7
+Added Pin To Net: NetName=IDC10.6. 4 Pin=RA11-4
+Added Pin To Net: NetName=IDC10.6. 3 Pin=RA11-5
+Added Pin To Net: NetName=IDC10.6. 1 Pin=RA11-7
+Added Pin To Net: NetName=IDC10.5. 5 Pin=RA12-4
+Added Pin To Net: NetName=IDC10.5. 6 Pin=RA12-5
+Added Pin To Net: NetName=IDC10.5. 7 Pin=RA12-6
+Added Pin To Net: NetName=IDC10.5. 8 Pin=RA12-7
+Added Pin To Net: NetName=IDC10.4. 5 Pin=RA13-4
+Added Pin To Net: NetName=IDC10.4. 6 Pin=RA13-5
+Added Pin To Net: NetName=IDC10.4. 7 Pin=RA13-6
+Added Pin To Net: NetName=IDC10.4. 8 Pin=RA13-7
+Added Pin To Net: NetName=IDC10.6. 5 Pin=RA14-4
+Added Pin To Net: NetName=IDC10.6. 6 Pin=RA14-5
+Added Pin To Net: NetName=IDC10.6. 7 Pin=RA14-6
+Added Pin To Net: NetName=IDC10.6. 8 Pin=RA14-7
+Added Pin To Net: NetName=IDC10.7. 4 Pin=RA15-4
+Added Pin To Net: NetName=IDC10.7. 2 Pin=RA15-6
+Added Pin To Net: NetName=IDC10.7. 1 Pin=RA15-7
+Added Pin To Net: NetName=IDC10.7. 5 Pin=RA16-4
+Added Pin To Net: NetName=IDC10.7. 6 Pin=RA16-5
+Added Pin To Net: NetName=IDC10.7. 7 Pin=RA16-6
+Added Pin To Net: NetName=IDC10.7. 8 Pin=RA16-7
+Added Pin To Net: NetName=A.RESET Pin=Rvar1-0
+Added Pin To Net: NetName=A.RESET Pin=Rvar2-2
+Added Pin To Net: NetName=LCDOE Pin=SREG1-7
+Added Pin To Net: NetName=A.RESET Pin=SREG1-9
+Added Pin To Net: NetName=A.RESET Pin=SREG1-14
+Added Pin To Net: NetName=LCDOE Pin=SREG2-7
+Added Pin To Net: NetName=7SEG_CLK Pin=SREG2-8
+Added Pin To Net: NetName=A.RESET Pin=SREG2-9
+Added Pin To Net: NetName=A.RESET Pin=SREG2-14
+Added Pin To Net: NetName=LCDOE Pin=SREG3-7
+Added Pin To Net: NetName=A.RESET Pin=SREG3-9
+Added Pin To Net: NetName=A.RESET Pin=SREG3-14
+Added Pin To Net: NetName=LCDOE Pin=SREG4-7
+Added Pin To Net: NetName=7SEG_CLK Pin=SREG4-8
+Added Pin To Net: NetName=A.RESET Pin=SREG4-9
+Added Pin To Net: NetName=A.RESET Pin=SREG4-14
+Added Pin To Net: NetName=A.RESET Pin=SREGLCD-9
+Added Pin To Net: NetName=A.RESET Pin=SREGLCD-14
+Added Pin To Net: NetName=A.RESET Pin=Vin-2
+Added Pin To Net: NetName=PCI 3 Pin=Vin-3
+Added Pin To Net: NetName=7SEG_DATA Pin=Connector-76
+Added Pin To Net: NetName=7SEG_DATA Pin=SREG4-1
+Added Pin To Net: NetName=7SEG_DATA Pin=SREG4-2
+Added Net: Name=7SEG_DATA
+Added Pin To Net: NetName=I2C_SCL Pin=Connector-108
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=Connector-85
+Added Net: Name=I2C_SDA
+Added Pin To Net: NetName=KB_C1 Pin=Connector-124
+Added Net: Name=KB_C1
+Added Pin To Net: NetName=KB_C2 Pin=Connector-123
+Added Net: Name=KB_C2
+Added Pin To Net: NetName=KB_C3 Pin=Connector-122
+Added Net: Name=KB_C3
+Added Pin To Net: NetName=KB_S1 Pin=Connector-69
+Added Net: Name=KB_S1
+Added Pin To Net: NetName=KB_S2 Pin=Connector-70
+Added Net: Name=KB_S2
+Added Pin To Net: NetName=KB_S3 Pin=Connector-71
+Added Net: Name=KB_S3
+Added Pin To Net: NetName=KB_S4 Pin=Connector-72
+Added Net: Name=KB_S4
+Added Pin To Net: NetName=Net7Segmind_23 Pin=7Segmind-23
+Added Pin To Net: NetName=Net7Segmind_23 Pin=R?-2
+Added Net: Name=Net7Segmind_23
+Added Pin To Net: NetName=Net7Segmind_31 Pin=7Segmind-31
+Added Pin To Net: NetName=Net7Segmind_31 Pin=R?-2
+Added Net: Name=Net7Segmind_31
+Added Pin To Net: NetName=Net7Segmind_32 Pin=7Segmind-32
+Added Pin To Net: NetName=Net7Segmind_32 Pin=R?-2
+Added Net: Name=Net7Segmind_32
+Added Pin To Net: NetName=NetConnector_5 Pin=Connector-5
+Added Pin To Net: NetName=NetConnector_5 Pin=RA4-0
+Added Net: Name=NetConnector_5
+Added Pin To Net: NetName=NetConnector_6 Pin=Connector-6
+Added Pin To Net: NetName=NetConnector_6 Pin=RA4-1
+Added Net: Name=NetConnector_6
+Added Pin To Net: NetName=NetConnector_7 Pin=Connector-7
+Added Pin To Net: NetName=NetConnector_7 Pin=RA4-2
+Added Net: Name=NetConnector_7
+Added Pin To Net: NetName=NetConnector_8 Pin=Connector-8
+Added Pin To Net: NetName=NetConnector_8 Pin=RA4-3
+Added Net: Name=NetConnector_8
+Added Pin To Net: NetName=NetConnector_9 Pin=Connector-9
+Added Pin To Net: NetName=NetConnector_9 Pin=RA7-0
+Added Net: Name=NetConnector_9
+Added Pin To Net: NetName=NetConnector_11 Pin=Connector-11
+Added Pin To Net: NetName=NetConnector_11 Pin=RA7-2
+Added Net: Name=NetConnector_11
+Added Pin To Net: NetName=NetConnector_12 Pin=Connector-12
+Added Pin To Net: NetName=NetConnector_12 Pin=RA7-3
+Added Net: Name=NetConnector_12
+Added Pin To Net: NetName=NetConnector_13 Pin=Connector-13
+Added Pin To Net: NetName=NetConnector_13 Pin=RA9-0
+Added Net: Name=NetConnector_13
+Added Pin To Net: NetName=NetConnector_14 Pin=Connector-14
+Added Pin To Net: NetName=NetConnector_14 Pin=RA9-1
+Added Net: Name=NetConnector_14
+Added Pin To Net: NetName=NetConnector_15 Pin=Connector-15
+Added Pin To Net: NetName=NetConnector_15 Pin=RA9-2
+Added Net: Name=NetConnector_15
+Added Pin To Net: NetName=NetConnector_16 Pin=Connector-16
+Added Pin To Net: NetName=NetConnector_16 Pin=RA9-3
+Added Net: Name=NetConnector_16
+Added Pin To Net: NetName=NetConnector_17 Pin=Connector-17
+Added Pin To Net: NetName=NetConnector_17 Pin=RA13-0
+Added Net: Name=NetConnector_17
+Added Pin To Net: NetName=NetConnector_18 Pin=Connector-18
+Added Pin To Net: NetName=NetConnector_18 Pin=RA13-1
+Added Net: Name=NetConnector_18
+Added Pin To Net: NetName=NetConnector_19 Pin=Connector-19
+Added Pin To Net: NetName=NetConnector_19 Pin=RA13-2
+Added Net: Name=NetConnector_19
+Added Pin To Net: NetName=NetConnector_20 Pin=Connector-20
+Added Pin To Net: NetName=NetConnector_20 Pin=RA13-3
+Added Net: Name=NetConnector_20
+Added Pin To Net: NetName=NetConnector_21 Pin=Connector-21
+Added Pin To Net: NetName=NetConnector_21 Pin=RA12-0
+Added Net: Name=NetConnector_21
+Added Pin To Net: NetName=NetConnector_22 Pin=Connector-22
+Added Pin To Net: NetName=NetConnector_22 Pin=RA12-1
+Added Net: Name=NetConnector_22
+Added Pin To Net: NetName=NetConnector_23 Pin=Connector-23
+Added Pin To Net: NetName=NetConnector_23 Pin=RA12-2
+Added Net: Name=NetConnector_23
+Added Pin To Net: NetName=NetConnector_24 Pin=Connector-24
+Added Pin To Net: NetName=NetConnector_24 Pin=RA12-3
+Added Net: Name=NetConnector_24
+Added Pin To Net: NetName=NetConnector_25 Pin=Connector-25
+Added Pin To Net: NetName=NetConnector_25 Pin=RA14-0
+Added Net: Name=NetConnector_25
+Added Pin To Net: NetName=NetConnector_27 Pin=Connector-27
+Added Pin To Net: NetName=NetConnector_27 Pin=RA14-2
+Added Net: Name=NetConnector_27
+Added Pin To Net: NetName=NetConnector_28 Pin=Connector-28
+Added Pin To Net: NetName=NetConnector_28 Pin=RA14-3
+Added Net: Name=NetConnector_28
+Added Pin To Net: NetName=NetConnector_29 Pin=Connector-29
+Added Pin To Net: NetName=NetConnector_29 Pin=RA16-0
+Added Net: Name=NetConnector_29
+Added Pin To Net: NetName=NetConnector_30 Pin=Connector-30
+Added Pin To Net: NetName=NetConnector_30 Pin=RA16-1
+Added Net: Name=NetConnector_30
+Added Pin To Net: NetName=NetConnector_31 Pin=Connector-31
+Added Pin To Net: NetName=NetConnector_31 Pin=RA16-2
+Added Net: Name=NetConnector_31
+Added Pin To Net: NetName=NetConnector_32 Pin=Connector-32
+Added Pin To Net: NetName=NetConnector_32 Pin=RA16-3
+Added Net: Name=NetConnector_32
+Added Pin To Net: NetName=NetConnector_33 Pin=Connector-33
+Added Pin To Net: NetName=NetConnector_33 Pin=RA15-3
+Added Net: Name=NetConnector_33
+Added Pin To Net: NetName=NetConnector_34 Pin=Connector-34
+Added Pin To Net: NetName=NetConnector_34 Pin=RA15-2
+Added Net: Name=NetConnector_34
+Added Pin To Net: NetName=NetConnector_35 Pin=Connector-35
+Added Pin To Net: NetName=NetConnector_35 Pin=RA15-1
+Added Net: Name=NetConnector_35
+Added Pin To Net: NetName=NetConnector_36 Pin=Connector-36
+Added Pin To Net: NetName=NetConnector_36 Pin=RA15-0
+Added Net: Name=NetConnector_36
+Added Pin To Net: NetName=NetConnector_37 Pin=Connector-37
+Added Pin To Net: NetName=NetConnector_37 Pin=RA11-3
+Added Net: Name=NetConnector_37
+Added Pin To Net: NetName=NetConnector_38 Pin=Connector-38
+Added Pin To Net: NetName=NetConnector_38 Pin=RA11-2
+Added Net: Name=NetConnector_38
+Added Pin To Net: NetName=NetConnector_39 Pin=Connector-39
+Added Pin To Net: NetName=NetConnector_39 Pin=RA11-1
+Added Net: Name=NetConnector_39
+Added Pin To Net: NetName=NetConnector_40 Pin=Connector-40
+Added Pin To Net: NetName=NetConnector_40 Pin=RA11-0
+Added Net: Name=NetConnector_40
+Added Pin To Net: NetName=NetConnector_41 Pin=Connector-41
+Added Pin To Net: NetName=NetConnector_41 Pin=RA10-3
+Added Net: Name=NetConnector_41
+Added Pin To Net: NetName=NetConnector_42 Pin=Connector-42
+Added Pin To Net: NetName=NetConnector_42 Pin=RA10-2
+Added Net: Name=NetConnector_42
+Added Pin To Net: NetName=NetConnector_43 Pin=Connector-43
+Added Pin To Net: NetName=NetConnector_43 Pin=RA10-1
+Added Net: Name=NetConnector_43
+Added Pin To Net: NetName=NetConnector_44 Pin=Connector-44
+Added Pin To Net: NetName=NetConnector_44 Pin=RA10-0
+Added Net: Name=NetConnector_44
+Added Pin To Net: NetName=NetConnector_45 Pin=Connector-45
+Added Pin To Net: NetName=NetConnector_45 Pin=RA8-3
+Added Net: Name=NetConnector_45
+Added Pin To Net: NetName=NetConnector_46 Pin=Connector-46
+Added Pin To Net: NetName=NetConnector_46 Pin=RA8-2
+Added Net: Name=NetConnector_46
+Added Pin To Net: NetName=NetConnector_47 Pin=Connector-47
+Added Pin To Net: NetName=NetConnector_47 Pin=RA8-1
+Added Net: Name=NetConnector_47
+Added Pin To Net: NetName=NetConnector_48 Pin=Connector-48
+Added Pin To Net: NetName=NetConnector_48 Pin=RA8-0
+Added Net: Name=NetConnector_48
+Added Pin To Net: NetName=NetConnector_49 Pin=Connector-49
+Added Pin To Net: NetName=NetConnector_49 Pin=R1_4-3
+Added Net: Name=NetConnector_49
+Added Pin To Net: NetName=NetConnector_50 Pin=Connector-50
+Added Pin To Net: NetName=NetConnector_50 Pin=R1_4-2
+Added Net: Name=NetConnector_50
+Added Pin To Net: NetName=NetConnector_51 Pin=Connector-51
+Added Pin To Net: NetName=NetConnector_51 Pin=R1_4-1
+Added Net: Name=NetConnector_51
+Added Pin To Net: NetName=NetConnector_52 Pin=Connector-52
+Added Pin To Net: NetName=NetConnector_52 Pin=R1_4-0
+Added Net: Name=NetConnector_52
+Added Pin To Net: NetName=NetConnector_53 Pin=Connector-53
+Added Pin To Net: NetName=NetConnector_53 Pin=RA6-3
+Added Net: Name=NetConnector_53
+Added Pin To Net: NetName=NetConnector_54 Pin=Connector-54
+Added Pin To Net: NetName=NetConnector_54 Pin=RA6-2
+Added Net: Name=NetConnector_54
+Added Pin To Net: NetName=NetConnector_55 Pin=Connector-55
+Added Pin To Net: NetName=NetConnector_55 Pin=RA6-1
+Added Net: Name=NetConnector_55
+Added Pin To Net: NetName=NetConnector_56 Pin=Connector-56
+Added Pin To Net: NetName=NetConnector_56 Pin=RA6-0
+Added Net: Name=NetConnector_56
+Added Pin To Net: NetName=NetConnector_57 Pin=Connector-57
+Added Pin To Net: NetName=NetConnector_57 Pin=RA5-3
+Added Net: Name=NetConnector_57
+Added Pin To Net: NetName=NetConnector_58 Pin=Connector-58
+Added Pin To Net: NetName=NetConnector_58 Pin=RA5-2
+Added Net: Name=NetConnector_58
+Added Pin To Net: NetName=NetConnector_59 Pin=Connector-59
+Added Pin To Net: NetName=NetConnector_59 Pin=RA5-1
+Added Net: Name=NetConnector_59
+Added Pin To Net: NetName=NetConnector_60 Pin=Connector-60
+Added Pin To Net: NetName=NetConnector_60 Pin=RA5-0
+Added Net: Name=NetConnector_60
+Added Pin To Net: NetName=NetConnector_89 Pin=Connector-89
+Added Pin To Net: NetName=NetConnector_89 Pin=RA3-0
+Added Net: Name=NetConnector_89
+Added Pin To Net: NetName=NetConnector_90 Pin=Connector-90
+Added Pin To Net: NetName=NetConnector_90 Pin=RA3-1
+Added Net: Name=NetConnector_90
+Added Pin To Net: NetName=NetConnector_91 Pin=Connector-91
+Added Pin To Net: NetName=NetConnector_91 Pin=RA3-2
+Added Net: Name=NetConnector_91
+Added Pin To Net: NetName=NetConnector_92 Pin=Connector-92
+Added Pin To Net: NetName=NetConnector_92 Pin=RA3-3
+Added Net: Name=NetConnector_92
+Added Pin To Net: NetName=NetConnector_101 Pin=Connector-101
+Added Pin To Net: NetName=NetConnector_101 Pin=RA1-3
+Added Net: Name=NetConnector_101
+Added Pin To Net: NetName=NetConnector_102 Pin=Connector-102
+Added Pin To Net: NetName=NetConnector_102 Pin=RA1-2
+Added Net: Name=NetConnector_102
+Added Pin To Net: NetName=NetConnector_103 Pin=Connector-103
+Added Pin To Net: NetName=NetConnector_103 Pin=RA1-1
+Added Net: Name=NetConnector_103
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=SREG3-12
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetSREG2_1 Pin=SREG2-1
+Added Pin To Net: NetName=NetSREG2_1 Pin=SREG2-2
+Added Net: Name=NetSREG2_1
+Added Pin To Net: NetName=V+5 Pin=C12-1
+Added Pin To Net: NetName=V+5 Pin=C13-1
+Added Pin To Net: NetName=V+5 Pin=C14-1
+Added Pin To Net: NetName=V+5 Pin=C15-1
+Added Pin To Net: NetName=V+5 Pin=SREG1-9
+Added Pin To Net: NetName=V+5 Pin=SREG1-14
+Added Pin To Net: NetName=V+5 Pin=SREG2-9
+Added Pin To Net: NetName=V+5 Pin=SREG2-14
+Added Pin To Net: NetName=V+5 Pin=SREG3-9
+Added Pin To Net: NetName=V+5 Pin=SREG3-14
+Added Pin To Net: NetName=V+5 Pin=SREG4-9
+Added Pin To Net: NetName=V+5 Pin=SREG4-14
+Added Net: Name=V+5
+Added Class: Name=7SEG_Plate
+Added Class: Name=STM32_Plate
+Added Member To Class: ClassName=Plata.~(40) Member=Component P3.2 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component R? R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R? R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component  AK-207
+Added Member To Class: ClassName=Plata.~(40) Member=Component  PCI
+Added Member To Class: ClassName=Plata.~(40) Member=Component VccPlata Connector
+Added Member To Class: ClassName=Plata.~(40) Member=Component VD1 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component VD2 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component Vin DS-313a
+Added Member To Class: ClassName=Plata.~(40) Member=Component WG12864A MT6464b
+Added Room: Name=7SEG_Plate
+Added Room: Name=STM32_Plate

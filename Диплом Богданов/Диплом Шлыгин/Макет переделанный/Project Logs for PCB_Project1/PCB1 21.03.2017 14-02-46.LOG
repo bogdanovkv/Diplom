@@ -1,0 +1,3 @@
+Change Physical Footprint: Designator=2.1 Old Footprint=GREBENKA New Footprint=GREBENKA
+Change Physical Footprint: Designator=VccPlata Old Footprint=Connect New Footprint=Connect
+Change Physical Footprint: Designator=WG12864A Old Footprint=WG12864A New Footprint=WG12864A

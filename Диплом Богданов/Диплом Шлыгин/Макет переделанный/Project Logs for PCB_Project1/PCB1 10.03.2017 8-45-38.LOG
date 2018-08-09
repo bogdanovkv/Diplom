@@ -1,0 +1,7 @@
+Added Component: Designator=ressb_2(CAT16-102J4LF_2)
+Added Pin To Net: NetName=LCDOE Pin=CapSound-1
+Added Pin To Net: NetName=SOUND Pin=RSound-1
+Added Pin To Net: NetName=Net*_1 Pin=CapSound-2
+Added Pin To Net: NetName=Net*_1 Pin=RSound-2
+Added Net: Name=Net*_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component ressb_2 Bourns CAT16-102J4LF_1

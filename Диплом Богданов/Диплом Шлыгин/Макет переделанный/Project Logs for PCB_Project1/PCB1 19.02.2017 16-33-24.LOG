@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SOUND Pin=Connector-117
+Removed Pin From Net: NetName=BUTTON_1 Pin=Connector-120
+Added Component: Designator=C3(CAPR5-4X5)
+Added Pin To Net: NetName=BUTTON_1 Pin=Connector-117
+Added Pin To Net: NetName=SOUND Pin=Connector-120
+Added Member To Class: ClassName=Plata.~(40) Member=Component C3 Cap2

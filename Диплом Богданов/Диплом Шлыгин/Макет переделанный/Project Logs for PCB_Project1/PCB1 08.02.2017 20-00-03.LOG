@@ -1,0 +1,14 @@
+Added Component: Designator=R?(R0805)
+Added Component: Designator=Rcon1(R0805)
+Added Component: Designator=Rcon2(R0805)
+Added Pin To Net: NetName=GND Pin=grlcd-0
+Added Pin To Net: NetName=VCC5 Pin=R?-1
+Added Pin To Net: NetName=Netgrlcd_1 Pin=R?-2
+Added Pin To Net: NetName=Netgrlcd_17 Pin=Rcon1-1
+Added Pin To Net: NetName=Netgrlcd_2 Pin=Rcon1-2
+Added Pin To Net: NetName=VCC5 Pin=Rcon2-1
+Added Pin To Net: NetName=Netgrlcd_17 Pin=Rcon2-2
+Added Pin To Net: NetName=GND Pin=WG12864A-19
+Added Member To Class: ClassName=Plata.~(40) Member=Component R? R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component Rcon1 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component Rcon2 R0805

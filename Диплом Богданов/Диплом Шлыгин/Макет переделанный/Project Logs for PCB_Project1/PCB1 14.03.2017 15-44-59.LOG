@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=GENERALVIN Pin=R1-2
+Removed Pin From Net: NetName=GENERALVIN Pin=R2-2
+Removed Pin From Net: NetName=GENERALVIN Pin=R3-2
+Change Component Designator: OldDesignator=Connector NewDesignator=VccPlata
+Change Net Name : Old Net Name=NetConnector_5 New Net Name=Netressb_2_6_0
+Change Net Name : Old Net Name=NetConnector_6 New Net Name=Netressb_2_6_1
+Change Net Name : Old Net Name=NetConnector_7 New Net Name=Netressb_2_6_2
+Change Net Name : Old Net Name=NetConnector_8 New Net Name=Netressb_2_6_3
+Change Net Name : Old Net Name=NetConnector_9 New Net Name=Netressb_2_5_0
+Change Net Name : Old Net Name=NetConnector_10 New Net Name=Netressb_2_5_1
+Change Net Name : Old Net Name=NetConnector_11 New Net Name=Netressb_2_5_2
+Change Net Name : Old Net Name=NetConnector_12 New Net Name=Netressb_2_5_3
+Change Net Name : Old Net Name=NetConnector_13 New Net Name=Netressb_2_4_0
+Change Net Name : Old Net Name=NetConnector_14 New Net Name=Netressb_2_4_1
+Change Net Name : Old Net Name=NetConnector_15 New Net Name=Netressb_2_4_2
+Change Net Name : Old Net Name=NetConnector_16 New Net Name=Netressb_2_4_3
+Change Net Name : Old Net Name=NetConnector_17 New Net Name=Netressb_2_3_0
+Change Net Name : Old Net Name=NetConnector_18 New Net Name=Netressb_2_3_1
+Change Net Name : Old Net Name=NetConnector_19 New Net Name=Netressb_2_3_2
+Change Net Name : Old Net Name=NetConnector_20 New Net Name=Netressb_2_3_3
+Change Net Name : Old Net Name=NetConnector_21 New Net Name=Netressb_2_2_0
+Change Net Name : Old Net Name=NetConnector_22 New Net Name=Netressb_2_2_1
+Change Net Name : Old Net Name=NetConnector_23 New Net Name=Netressb_2_2_2
+Change Net Name : Old Net Name=NetConnector_24 New Net Name=Netressb_2_2_3
+Change Net Name : Old Net Name=NetConnector_25 New Net Name=Netressb_2_1_0
+Change Net Name : Old Net Name=NetConnector_26 New Net Name=Netressb_2_1_1
+Change Net Name : Old Net Name=NetConnector_27 New Net Name=Netressb_2_1_2
+Change Net Name : Old Net Name=NetConnector_28 New Net Name=Netressb_2_1_3
+Change Net Name : Old Net Name=NetConnector_29 New Net Name=Netressb_2_0_0
+Change Net Name : Old Net Name=NetConnector_30 New Net Name=Netressb_2_0_1
+Change Net Name : Old Net Name=NetConnector_31 New Net Name=Netressb_2_0_2
+Change Net Name : Old Net Name=NetConnector_32 New Net Name=Netressb_2_0_3
+Change Net Name : Old Net Name=NetConnector_33 New Net Name=Netressb_1_0_0
+Change Net Name : Old Net Name=NetConnector_34 New Net Name=Netressb_1_0_1
+Change Net Name : Old Net Name=NetConnector_35 New Net Name=Netressb_1_0_2
+Change Net Name : Old Net Name=NetConnector_36 New Net Name=Netressb_1_0_3
+Change Net Name : Old Net Name=NetConnector_37 New Net Name=Netressb_1_1_0
+Change Net Name : Old Net Name=NetConnector_38 New Net Name=Netressb_1_1_1
+Change Net Name : Old Net Name=NetConnector_39 New Net Name=Netressb_1_1_2
+Change Net Name : Old Net Name=NetConnector_40 New Net Name=Netressb_1_1_3
+Change Net Name : Old Net Name=NetConnector_41 New Net Name=Netressb_1_2_0
+Change Net Name : Old Net Name=NetConnector_42 New Net Name=Netressb_1_2_1
+Change Net Name : Old Net Name=NetConnector_43 New Net Name=Netressb_1_2_2
+Change Net Name : Old Net Name=NetConnector_44 New Net Name=Netressb_1_2_3
+Change Net Name : Old Net Name=NetConnector_45 New Net Name=Netressb_1_3_0
+Change Net Name : Old Net Name=NetConnector_46 New Net Name=Netressb_1_3_1
+Change Net Name : Old Net Name=NetConnector_47 New Net Name=Netressb_1_3_2
+Change Net Name : Old Net Name=NetConnector_48 New Net Name=Netressb_1_3_3
+Change Net Name : Old Net Name=NetConnector_49 New Net Name=Netressb_1_4_0
+Change Net Name : Old Net Name=NetConnector_50 New Net Name=Netressb_1_4_1
+Change Net Name : Old Net Name=NetConnector_51 New Net Name=Netressb_1_4_2
+Change Net Name : Old Net Name=NetConnector_52 New Net Name=Netressb_1_4_3
+Change Net Name : Old Net Name=NetConnector_53 New Net Name=Netressb_1_5_0
+Change Net Name : Old Net Name=NetConnector_54 New Net Name=Netressb_1_5_1
+Change Net Name : Old Net Name=NetConnector_55 New Net Name=Netressb_1_5_2
+Change Net Name : Old Net Name=NetConnector_56 New Net Name=Netressb_1_5_3
+Change Net Name : Old Net Name=NetConnector_57 New Net Name=Netressb_1_6_0
+Change Net Name : Old Net Name=NetConnector_58 New Net Name=Netressb_1_6_1
+Change Net Name : Old Net Name=NetConnector_59 New Net Name=Netressb_1_6_2
+Change Net Name : Old Net Name=NetConnector_60 New Net Name=Netressb_1_6_3
+Change Net Name : Old Net Name=NetConnector_89 New Net Name=Netressb_2_7_0
+Change Net Name : Old Net Name=NetConnector_90 New Net Name=Netressb_2_7_1
+Change Net Name : Old Net Name=NetConnector_91 New Net Name=Netressb_2_7_2
+Change Net Name : Old Net Name=NetConnector_92 New Net Name=Netressb_2_7_3
+Change Net Name : Old Net Name=NetConnector_101 New Net Name=Netressb_1_7_0
+Change Net Name : Old Net Name=NetConnector_102 New Net Name=Netressb_1_7_1
+Change Net Name : Old Net Name=NetConnector_103 New Net Name=Netressb_1_7_2
+Change Net Name : Old Net Name=NetConnector_104 New Net Name=Netressb_1_7_3
+Added Pin To Net: NetName=VCCPLATA Pin=R1-2
+Added Pin To Net: NetName=VCCPLATA Pin=R2-2
+Added Pin To Net: NetName=VCCPLATA Pin=R3-2
+Added Pin To Net: NetName=VCCPLATA Pin=VccPlata-65
+Added Net: Name=VCCPLATA

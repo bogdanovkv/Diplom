@@ -1,0 +1,27 @@
+Added Component: Designator=*(SWD1-8)
+Added Component: Designator=*(PCI-120)
+Added Component: Designator=*(ds-313)
+Added Component: Designator=Connector(Connect)
+Added Component: Designator=KLAV(AK-207)
+Added Component: Designator=R1(R0805)
+Added Component: Designator=R2(R0805)
+Added Component: Designator=R3(R0805)
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=R1-2
+Added Pin To Net: NetName=Net*_1 Pin=R2-2
+Added Pin To Net: NetName=Net*_1 Pin=R3-2
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=NetConnector_101 Pin=Connector-101
+Added Pin To Net: NetName=NetConnector_101 Pin=KLAV-1
+Added Pin To Net: NetName=NetConnector_101 Pin=R3-1
+Added Net: Name=NetConnector_101
+Added Pin To Net: NetName=NetConnector_102 Pin=Connector-102
+Added Pin To Net: NetName=NetConnector_102 Pin=KLAV-2
+Added Pin To Net: NetName=NetConnector_102 Pin=R2-1
+Added Net: Name=NetConnector_102
+Added Pin To Net: NetName=NetConnector_103 Pin=Connector-103
+Added Pin To Net: NetName=NetConnector_103 Pin=KLAV-3
+Added Pin To Net: NetName=NetConnector_103 Pin=R1-1
+Added Net: Name=NetConnector_103
+Added Class: Name=Plata
+Added Room: Name=Plata

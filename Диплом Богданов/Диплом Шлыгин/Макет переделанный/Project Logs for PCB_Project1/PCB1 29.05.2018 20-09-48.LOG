@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=Net2_36 Pin=RA22-0
+Removed Pin From Net: NetName=Net2_35 Pin=RA22-1
+Removed Pin From Net: NetName=Net2_34 Pin=RA22-2
+Removed Pin From Net: NetName=Net2_33 Pin=RA22-3
+Added Pin To Net: NetName=Net2_33 Pin=RA22-4
+Added Pin To Net: NetName=Net2_34 Pin=RA22-5
+Added Pin To Net: NetName=Net2_35 Pin=RA22-6
+Added Pin To Net: NetName=Net2_36 Pin=RA22-7
+Added Pin To Net: NetName=NetRA22_0 Pin=RA22-0
+Added Pin To Net: NetName=NetRA22_0 Pin=SREG1-11
+Added Net: Name=NetRA22_0
+Added Pin To Net: NetName=NetRA22_1 Pin=RA22-1
+Added Pin To Net: NetName=NetRA22_1 Pin=SREG1-12
+Added Net: Name=NetRA22_1
+Added Pin To Net: NetName=NetRA22_2 Pin=RA22-2
+Added Pin To Net: NetName=NetRA22_2 Pin=SREG1-3
+Added Net: Name=NetRA22_2
+Added Pin To Net: NetName=NetRA22_3 Pin=RA22-3
+Added Pin To Net: NetName=NetRA22_3 Pin=SREG1-4
+Added Net: Name=NetRA22_3
+Added Member To Class: ClassName=Power Supplies Member=Component C17 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C18 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C18 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C19 10u
+Added Member To Class: ClassName=Power Supplies Member=Component R50 121R

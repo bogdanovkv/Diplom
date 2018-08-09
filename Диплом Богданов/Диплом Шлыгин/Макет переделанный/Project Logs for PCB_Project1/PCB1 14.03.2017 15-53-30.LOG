@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GENERALVIN Pin=Rcon2-1
+Removed Pin From Net: NetName=GENERALVIN Pin=SREGLCD-9
+Removed Pin From Net: NetName=GENERALVIN Pin=SREGLCD-14
+Removed Pin From Net: NetName=GENERALVIN Pin=varrev-2
+Removed Pin From Net: NetName=GENERALVIN Pin=WG12864A-1
+Added Pin To Net: NetName=VCCPLATA Pin=Rcon2-1
+Added Pin To Net: NetName=VCCPLATA Pin=SREGLCD-9
+Added Pin To Net: NetName=VCCPLATA Pin=SREGLCD-14
+Added Pin To Net: NetName=VCCPLATA Pin=varrev-2
+Added Pin To Net: NetName=VCCPLATA Pin=WG12864A-1

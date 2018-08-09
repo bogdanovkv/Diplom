@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VCC1 Pin=2.3-18
+Removed Pin From Net: NetName=VCC1.8 Pin=2.3-19
+Removed Pin From Net: NetName=VCC2.5 Pin=2.3-20
+Removed Pin From Net: NetName=VCC3.3 Pin=2.3-21
+Removed Pin From Net: NetName=GENERALVIN Pin=2.3-22
+Removed Pin From Net: NetName=LCDOE Pin=2.3-25
+Added Pin To Net: NetName=VCC1 Pin=2.3-17
+Added Pin To Net: NetName=VCC1.8 Pin=2.3-18
+Added Pin To Net: NetName=VCC2.5 Pin=2.3-19
+Added Pin To Net: NetName=VCC3.3 Pin=2.3-20
+Added Pin To Net: NetName=GENERALVIN Pin=2.3-21
+Added Pin To Net: NetName=LCDOE Pin=2.3-22

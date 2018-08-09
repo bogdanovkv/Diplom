@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GENERALVIN Pin=DS-1
+Removed Pin From Net: NetName=LCDOE Pin=DS-2
+Added Component: Designator=C3(CAPR5-4X5)
+Added Pin To Net: NetName=LCDOE Pin=DS-1
+Added Pin To Net: NetName=GENERALVIN Pin=DS-3
+Added Member To Class: ClassName=Plata.~(40) Member=Component C3 Cap2

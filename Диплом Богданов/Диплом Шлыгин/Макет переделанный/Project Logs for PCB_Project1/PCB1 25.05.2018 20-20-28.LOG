@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=Net2_4 Pin=RA24-4
+Removed Pin From Net: NetName=Net2_3 Pin=RA24-5
+Removed Pin From Net: NetName=Net2_2 Pin=RA24-6
+Removed Pin From Net: NetName=Net2_1 Pin=RA24-7
+Removed Pin From Net: NetName=NetRA25_3 Pin=RA25-3
+Removed Pin From Net: NetName=Net2_18 Pin=RA25-4
+Removed Pin From Net: NetName=Net2_17 Pin=RA25-5
+Removed Pin From Net: NetName=Net2_16 Pin=RA25-6
+Removed Pin From Net: NetName=Net2_15 Pin=RA25-7
+Removed Pin From Net: NetName=Net2_8 Pin=RA26-4
+Removed Pin From Net: NetName=Net2_7 Pin=RA26-5
+Removed Pin From Net: NetName=Net2_6 Pin=RA26-6
+Removed Pin From Net: NetName=Net2_5 Pin=RA26-7
+Removed Pin From Net: NetName=Net2_14 Pin=RA27-0
+Removed Pin From Net: NetName=Net2_13 Pin=RA27-1
+Removed Pin From Net: NetName=Net2_12 Pin=RA27-2
+Removed Pin From Net: NetName=Net2_11 Pin=RA27-3
+Removed Pin From Net: NetName=NetRA27_6 Pin=RA27-6
+Added Pin To Net: NetName=Net2_1 Pin=RA24-0
+Added Pin To Net: NetName=Net2_2 Pin=RA24-1
+Added Pin To Net: NetName=Net2_3 Pin=RA24-2
+Added Pin To Net: NetName=Net2_4 Pin=RA24-3
+Added Pin To Net: NetName=Net2_15 Pin=RA25-0
+Added Pin To Net: NetName=Net2_16 Pin=RA25-1
+Added Pin To Net: NetName=Net2_17 Pin=RA25-2
+Added Pin To Net: NetName=Net2_18 Pin=RA25-3
+Added Pin To Net: NetName=NetRA25_3 Pin=RA25-4
+Added Pin To Net: NetName=Net2_5 Pin=RA26-0
+Added Pin To Net: NetName=Net2_6 Pin=RA26-1
+Added Pin To Net: NetName=Net2_7 Pin=RA26-2
+Added Pin To Net: NetName=Net2_8 Pin=RA26-3
+Added Pin To Net: NetName=NetRA27_6 Pin=RA27-1
+Added Pin To Net: NetName=Net2_11 Pin=RA27-4
+Added Pin To Net: NetName=Net2_12 Pin=RA27-5
+Added Pin To Net: NetName=Net2_13 Pin=RA27-6
+Added Pin To Net: NetName=Net2_14 Pin=RA27-7
+Change Net Name : Old Net Name=NetRA25_3 New Net Name=NetRA25_4
+Change Net Name : Old Net Name=NetRA27_6 New Net Name=NetRA27_1
+Added Pin To Net: NetName=NetRA24_4 Pin=RA24-4
+Added Pin To Net: NetName=NetRA24_4 Pin=SREG1-13
+Added Net: Name=NetRA24_4
+Added Pin To Net: NetName=NetRA24_5 Pin=RA24-5
+Added Pin To Net: NetName=NetRA24_5 Pin=SREG1-5
+Added Net: Name=NetRA24_5
+Added Pin To Net: NetName=NetRA24_6 Pin=RA24-6
+Added Pin To Net: NetName=NetRA24_6 Pin=SREG1-6
+Added Net: Name=NetRA24_6
+Added Pin To Net: NetName=NetRA24_7 Pin=RA24-7
+Added Pin To Net: NetName=NetRA24_7 Pin=SREG1-10
+Added Net: Name=NetRA24_7
+Added Pin To Net: NetName=NetRA25_5 Pin=RA25-5
+Added Pin To Net: NetName=NetRA25_5 Pin=SREG4-5
+Added Net: Name=NetRA25_5
+Added Pin To Net: NetName=NetRA25_6 Pin=RA25-6
+Added Pin To Net: NetName=NetRA25_6 Pin=SREG4-12
+Added Net: Name=NetRA25_6
+Added Pin To Net: NetName=NetRA25_7 Pin=RA25-7
+Added Pin To Net: NetName=NetRA25_7 Pin=SREG4-6
+Added Net: Name=NetRA25_7
+Added Pin To Net: NetName=NetRA26_4 Pin=RA26-4
+Added Pin To Net: NetName=NetRA26_4 Pin=SREG2-5
+Added Net: Name=NetRA26_4
+Added Pin To Net: NetName=NetRA26_5 Pin=RA26-5
+Added Pin To Net: NetName=NetRA26_5 Pin=SREG2-12
+Added Net: Name=NetRA26_5
+Added Pin To Net: NetName=NetRA26_6 Pin=RA26-6
+Added Pin To Net: NetName=NetRA26_6 Pin=SREG2-6
+Added Net: Name=NetRA26_6
+Added Pin To Net: NetName=NetRA26_7 Pin=RA26-7
+Added Pin To Net: NetName=NetRA26_7 Pin=SREG2-10
+Added Net: Name=NetRA26_7
+Added Pin To Net: NetName=NetRA27_0 Pin=RA27-0
+Added Pin To Net: NetName=NetRA27_0 Pin=SREG4-10
+Added Net: Name=NetRA27_0
+Added Pin To Net: NetName=NetRA27_2 Pin=RA27-2
+Added Pin To Net: NetName=NetRA27_2 Pin=SREG3-5
+Added Net: Name=NetRA27_2
+Added Pin To Net: NetName=NetRA27_3 Pin=RA27-3
+Added Pin To Net: NetName=NetRA27_3 Pin=SREG3-6
+Added Net: Name=NetRA27_3
+Added Member To Class: ClassName=Power Supplies Member=Component C17 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C18 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C18 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C19 10u
+Added Member To Class: ClassName=Power Supplies Member=Component R50 121R

@@ -1,0 +1,67 @@
+Change Component Designator: OldDesignator=IDC10-1 NewDesignator=P1
+Change Component Designator: OldDesignator=IDC10-2 NewDesignator=P2
+Change Component Designator: OldDesignator=IDC10-3 NewDesignator=P3
+Change Component Designator: OldDesignator=IDC10-4 NewDesignator=P4
+Change Component Designator: OldDesignator=IDC10-5 NewDesignator=P5
+Change Component Designator: OldDesignator=IDC10-6 NewDesignator=P6
+Change Component Designator: OldDesignator=IDC10-7 NewDesignator=P7
+Change Component Designator: OldDesignator=IDC10-8 NewDesignator=P8
+Added Component: Designator=P9(IDC10)
+Added Component: Designator=R(dip) 1(R0805)
+Added Component: Designator=R(dip) 2(R0805)
+Added Component: Designator=R(dip) 3(R0805)
+Added Component: Designator=R(dip) 4(R0805)
+Added Component: Designator=R(dip) 5(R0805)
+Added Component: Designator=R(dip) 6(R0805)
+Added Component: Designator=R(dip) 7(R0805)
+Added Component: Designator=R(dip) 8(R0805)
+Added Pin To Net: NetName=GND Pin=P9-1
+Added Pin To Net: NetName=VCC5 Pin=P9-10
+Added Pin To Net: NetName=VCC5 Pin=R(dip) 1-2
+Added Pin To Net: NetName=VCC5 Pin=R(dip) 2-2
+Added Pin To Net: NetName=VCC5 Pin=R(dip) 3-2
+Added Pin To Net: NetName=VCC5 Pin=R(dip) 4-2
+Added Pin To Net: NetName=VCC5 Pin=R(dip) 5-2
+Added Pin To Net: NetName=VCC5 Pin=R(dip) 6-2
+Added Pin To Net: NetName=VCC5 Pin=R(dip) 7-2
+Added Pin To Net: NetName=VCC5 Pin=R(dip) 8-2
+Added Pin To Net: NetName=Netdip_1 Pin=dip-1
+Added Pin To Net: NetName=Netdip_1 Pin=P9-2
+Added Pin To Net: NetName=Netdip_1 Pin=R(dip) 1-1
+Added Net: Name=Netdip_1
+Added Pin To Net: NetName=Netdip_2 Pin=dip-2
+Added Pin To Net: NetName=Netdip_2 Pin=P9-3
+Added Pin To Net: NetName=Netdip_2 Pin=R(dip) 2-1
+Added Net: Name=Netdip_2
+Added Pin To Net: NetName=Netdip_3 Pin=dip-3
+Added Pin To Net: NetName=Netdip_3 Pin=P9-4
+Added Pin To Net: NetName=Netdip_3 Pin=R(dip) 3-1
+Added Net: Name=Netdip_3
+Added Pin To Net: NetName=Netdip_4 Pin=dip-4
+Added Pin To Net: NetName=Netdip_4 Pin=P9-5
+Added Pin To Net: NetName=Netdip_4 Pin=R(dip) 4-1
+Added Net: Name=Netdip_4
+Added Pin To Net: NetName=Netdip_5 Pin=dip-5
+Added Pin To Net: NetName=Netdip_5 Pin=P9-6
+Added Net: Name=Netdip_5
+Added Pin To Net: NetName=Netdip_6 Pin=dip-6
+Added Pin To Net: NetName=Netdip_6 Pin=P9-7
+Added Pin To Net: NetName=Netdip_6 Pin=R(dip) 6-1
+Added Net: Name=Netdip_6
+Added Pin To Net: NetName=Netdip_7 Pin=dip-7
+Added Pin To Net: NetName=Netdip_7 Pin=P9-8
+Added Pin To Net: NetName=Netdip_7 Pin=R(dip) 7-1
+Added Net: Name=Netdip_7
+Added Pin To Net: NetName=Netdip_8 Pin=dip-8
+Added Pin To Net: NetName=Netdip_8 Pin=P9-9
+Added Pin To Net: NetName=Netdip_8 Pin=R(dip) 8-1
+Added Net: Name=Netdip_8
+Added Member To Class: ClassName=Plata.~(40) Member=Component P9 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component R(dip) 1 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R(dip) 2 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R(dip) 3 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R(dip) 4 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R(dip) 5 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R(dip) 6 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R(dip) 7 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R(dip) 8 R0805

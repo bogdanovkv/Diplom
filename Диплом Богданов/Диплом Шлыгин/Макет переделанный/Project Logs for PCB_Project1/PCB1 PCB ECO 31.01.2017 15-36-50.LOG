@@ -1,0 +1,37 @@
+Added Component: Designator=7Segmind(CA56-11EWA)
+Added Pin To Net: NetName=Net7Segmind_1 Pin=7Segmind-1
+Added Pin To Net: NetName=Net7Segmind_2 Pin=7Segmind-2
+Added Pin To Net: NetName=Net7Segmind_3 Pin=7Segmind-3
+Added Pin To Net: NetName=Net7Segmind_4 Pin=7Segmind-4
+Added Pin To Net: NetName=Net7Segmind_5 Pin=7Segmind-5
+Added Pin To Net: NetName=Net7Segmind_6 Pin=7Segmind-6
+Added Pin To Net: NetName=Net7Segmind_7 Pin=7Segmind-7
+Added Pin To Net: NetName=Net7Segmind_8 Pin=7Segmind-8
+Added Pin To Net: NetName=Net7Segmind_9 Pin=7Segmind-9
+Added Pin To Net: NetName=Net7Segmind_11 Pin=7Segmind-11
+Added Pin To Net: NetName=Net7Segmind_12 Pin=7Segmind-12
+Added Pin To Net: NetName=Net7Segmind_13 Pin=7Segmind-13
+Added Pin To Net: NetName=Net7Segmind_14 Pin=7Segmind-14
+Added Pin To Net: NetName=Net7Segmind_15 Pin=7Segmind-15
+Added Pin To Net: NetName=Net7Segmind_16 Pin=7Segmind-16
+Added Pin To Net: NetName=Net7Segmind_17 Pin=7Segmind-17
+Added Pin To Net: NetName=Net7Segmind_18 Pin=7Segmind-18
+Added Pin To Net: NetName=Net7Segmind_19 Pin=7Segmind-19
+Added Pin To Net: NetName=Net7Segmind_20 Pin=7Segmind-20
+Added Pin To Net: NetName=Net7Segmind_21 Pin=7Segmind-21
+Added Pin To Net: NetName=Net7Segmind_22 Pin=7Segmind-22
+Added Pin To Net: NetName=Net7Segmind_22 Pin=7Segmind-23
+Added Pin To Net: NetName=Net7Segmind_24 Pin=7Segmind-24
+Added Pin To Net: NetName=Net7Segmind_25 Pin=7Segmind-25
+Added Pin To Net: NetName=Net7Segmind_26 Pin=7Segmind-26
+Added Pin To Net: NetName=Net7Segmind_27 Pin=7Segmind-27
+Added Pin To Net: NetName=Net7Segmind_28 Pin=7Segmind-28
+Added Pin To Net: NetName=Net7Segmind_29 Pin=7Segmind-29
+Added Pin To Net: NetName=Net7Segmind_30 Pin=7Segmind-30
+Added Pin To Net: NetName=Net7Segmind_22 Pin=7Segmind-31
+Added Pin To Net: NetName=Net7Segmind_22 Pin=7Segmind-32
+Added Pin To Net: NetName=Net7Segmind_33 Pin=7Segmind-33
+Added Pin To Net: NetName=Net7Segmind_34 Pin=7Segmind-34
+Added Pin To Net: NetName=Net7Segmind_35 Pin=7Segmind-35
+Added Pin To Net: NetName=Net7Segmind_36 Pin=7Segmind-36
+Added Member To Class: ClassName=Plata Member=Component 7Segmind CA56-11EWA

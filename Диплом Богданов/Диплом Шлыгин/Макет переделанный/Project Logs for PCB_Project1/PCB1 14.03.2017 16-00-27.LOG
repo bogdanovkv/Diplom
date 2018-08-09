@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GENERALVIN Pin=P9-10
+Added Pin To Net: NetName=VCCPLATA Pin=P9-10

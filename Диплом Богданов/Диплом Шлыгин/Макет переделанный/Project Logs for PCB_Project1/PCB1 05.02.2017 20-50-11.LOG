@@ -1,0 +1,27 @@
+Added Pin To Net: NetName=GND Pin=IDC10-8-1
+Added Pin To Net: NetName=VCC5 Pin=IDC10-8-10
+Added Pin To Net: NetName=IDC10.8. 1 Pin=Connector-97
+Added Pin To Net: NetName=IDC10.8. 1 Pin=IDC10-8-2
+Added Net: Name=IDC10.8. 1
+Added Pin To Net: NetName=IDC10.8. 2 Pin=Connector-98
+Added Pin To Net: NetName=IDC10.8. 2 Pin=IDC10-8-3
+Added Net: Name=IDC10.8. 2
+Added Pin To Net: NetName=IDC10.8. 3 Pin=Connector-99
+Added Pin To Net: NetName=IDC10.8. 3 Pin=IDC10-8-4
+Added Net: Name=IDC10.8. 3
+Added Pin To Net: NetName=IDC10.8. 4 Pin=Connector-100
+Added Pin To Net: NetName=IDC10.8. 4 Pin=IDC10-8-5
+Added Net: Name=IDC10.8. 4
+Added Pin To Net: NetName=IDC10.8. 5 Pin=Connector-96
+Added Pin To Net: NetName=IDC10.8. 5 Pin=IDC10-8-9
+Added Net: Name=IDC10.8. 5
+Added Pin To Net: NetName=IDC10.8. 6 Pin=Connector-95
+Added Pin To Net: NetName=IDC10.8. 6 Pin=IDC10-8-8
+Added Net: Name=IDC10.8. 6
+Added Pin To Net: NetName=IDC10.8. 7 Pin=Connector-94
+Added Pin To Net: NetName=IDC10.8. 7 Pin=IDC10-8-7
+Added Net: Name=IDC10.8. 7
+Added Pin To Net: NetName=IDC10.8. 8 Pin=Connector-93
+Added Pin To Net: NetName=IDC10.8. 8 Pin=IDC10-8-6
+Added Net: Name=IDC10.8. 8
+Added Member To Class: ClassName=Plata.~(40) Member=Component Connector

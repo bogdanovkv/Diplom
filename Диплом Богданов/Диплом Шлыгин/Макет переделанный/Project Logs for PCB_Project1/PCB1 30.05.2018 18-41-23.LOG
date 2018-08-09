@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetRA20_5 Pin=RA20-5
+Added Pin To Net: NetName=NetRA20_5 Pin=SREG2-3
+Added Net: Name=NetRA20_5
+Added Member To Class: ClassName=Power Supplies Member=Component C17 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C18 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C18 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C19 10u
+Added Member To Class: ClassName=Power Supplies Member=Component R50 121R

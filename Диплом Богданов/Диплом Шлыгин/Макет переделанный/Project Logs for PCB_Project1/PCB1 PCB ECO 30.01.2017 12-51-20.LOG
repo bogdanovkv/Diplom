@@ -1,0 +1,51 @@
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Pin To Net: NetName=NetConnector_128 Pin=Connector-128
+Added Pin To Net: NetName=NetConnector_128 Pin=R1-2
+Added Pin To Net: NetName=NetConnector_128 Pin=R2-2
+Added Pin To Net: NetName=NetConnector_128 Pin=R3-2
+Added Pin To Net: NetName=NetConnector_128 Pin=R?-1
+Added Pin To Net: NetName=NetConnector_128 Pin=R?-1
+Added Pin To Net: NetName=NetConnector_128 Pin=R?-1
+Added Pin To Net: NetName=NetConnector_128 Pin=R?-1
+Added Net: Name=NetConnector_128
+Added Pin To Net: NetName=NetGrebkl_0 Pin=Grebkl-0
+Added Pin To Net: NetName=NetGrebkl_0 Pin=KLAV-1
+Added Net: Name=NetGrebkl_0
+Added Pin To Net: NetName=NetGrebkl_1 Pin=Grebkl-1
+Added Pin To Net: NetName=NetGrebkl_1 Pin=KLAV-2
+Added Net: Name=NetGrebkl_1
+Added Pin To Net: NetName=NetGrebkl_2 Pin=Grebkl-2
+Added Pin To Net: NetName=NetGrebkl_2 Pin=KLAV-3
+Added Net: Name=NetGrebkl_2
+Added Pin To Net: NetName=NetGrebkl_3 Pin=Grebkl-3
+Added Pin To Net: NetName=NetGrebkl_3 Pin=KLAV-4
+Added Net: Name=NetGrebkl_3
+Added Pin To Net: NetName=NetGrebkl_4 Pin=Grebkl-4
+Added Pin To Net: NetName=NetGrebkl_4 Pin=KLAV-5
+Added Net: Name=NetGrebkl_4
+Added Pin To Net: NetName=NetGrebkl_5 Pin=Grebkl-5
+Added Pin To Net: NetName=NetGrebkl_5 Pin=KLAV-6
+Added Net: Name=NetGrebkl_5
+Added Pin To Net: NetName=NetGrebkl_6 Pin=Grebkl-6
+Added Pin To Net: NetName=NetGrebkl_6 Pin=KLAV-7
+Added Net: Name=NetGrebkl_6
+Added Pin To Net: NetName=Netps850l-1_1 Pin=ps850l-1-1
+Added Pin To Net: NetName=Netps850l-1_1 Pin=ps850l-1-4
+Added Pin To Net: NetName=Netps850l-1_1 Pin=R?-2
+Added Net: Name=Netps850l-1_1
+Added Pin To Net: NetName=Netps850l-2_1 Pin=ps850l-2-1
+Added Pin To Net: NetName=Netps850l-2_1 Pin=ps850l-2-4
+Added Pin To Net: NetName=Netps850l-2_1 Pin=R?-2
+Added Net: Name=Netps850l-2_1
+Added Pin To Net: NetName=Netps850l-3_1 Pin=ps850l-3-1
+Added Pin To Net: NetName=Netps850l-3_1 Pin=ps850l-3-4
+Added Pin To Net: NetName=Netps850l-3_1 Pin=R?-2
+Added Net: Name=Netps850l-3_1
+Added Pin To Net: NetName=Netps850lreset_1 Pin=ps850lreset-1
+Added Pin To Net: NetName=Netps850lreset_1 Pin=R?-2
+Added Net: Name=Netps850lreset_1
+Added Member To Class: ClassName=Plata Member=Component ps850l-3 ps850l
+Added Member To Class: ClassName=Plata Member=Component R? R0805

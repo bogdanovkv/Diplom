@@ -1,0 +1,273 @@
+Added Component: Designator=*(GrebForPCI)
+Added Pin To Net: NetName=PCI 1 Pin=*-0
+Added Pin To Net: NetName=PCI 1 Pin=PCI-0
+Added Net: Name=PCI 1
+Added Pin To Net: NetName=PCI 2 Pin=*-1
+Added Pin To Net: NetName=PCI 2 Pin=PCI-1
+Added Net: Name=PCI 2
+Added Pin To Net: NetName=PCI 3 Pin=*-2
+Added Pin To Net: NetName=PCI 3 Pin=PCI-2
+Added Net: Name=PCI 3
+Added Pin To Net: NetName=PCI 4 Pin=*-3
+Added Pin To Net: NetName=PCI 4 Pin=PCI-3
+Added Net: Name=PCI 4
+Added Pin To Net: NetName=PCI 5 Pin=*-4
+Added Pin To Net: NetName=PCI 5 Pin=PCI-4
+Added Net: Name=PCI 5
+Added Pin To Net: NetName=PCI 6 Pin=*-5
+Added Pin To Net: NetName=PCI 6 Pin=PCI-5
+Added Net: Name=PCI 6
+Added Pin To Net: NetName=PCI 7 Pin=*-6
+Added Pin To Net: NetName=PCI 7 Pin=PCI-6
+Added Net: Name=PCI 7
+Added Pin To Net: NetName=PCI 8 Pin=*-7
+Added Pin To Net: NetName=PCI 8 Pin=PCI-7
+Added Net: Name=PCI 8
+Added Pin To Net: NetName=PCI 9 Pin=*-8
+Added Pin To Net: NetName=PCI 9 Pin=PCI-8
+Added Net: Name=PCI 9
+Added Pin To Net: NetName=PCI 10 Pin=*-9
+Added Pin To Net: NetName=PCI 10 Pin=PCI-9
+Added Net: Name=PCI 10
+Added Pin To Net: NetName=PCI 11 Pin=*-10
+Added Pin To Net: NetName=PCI 11 Pin=PCI-10
+Added Net: Name=PCI 11
+Added Pin To Net: NetName=PCI 12 Pin=*-11
+Added Pin To Net: NetName=PCI 12 Pin=PCI-11
+Added Net: Name=PCI 12
+Added Pin To Net: NetName=PCI 13 Pin=*-12
+Added Pin To Net: NetName=PCI 13 Pin=PCI-12
+Added Net: Name=PCI 13
+Added Pin To Net: NetName=PCI 14 Pin=*-13
+Added Pin To Net: NetName=PCI 14 Pin=PCI-13
+Added Net: Name=PCI 14
+Added Pin To Net: NetName=PCI 15 Pin=*-14
+Added Pin To Net: NetName=PCI 15 Pin=PCI-14
+Added Net: Name=PCI 15
+Added Pin To Net: NetName=PCI 16 Pin=*-15
+Added Pin To Net: NetName=PCI 16 Pin=PCI-15
+Added Net: Name=PCI 16
+Added Pin To Net: NetName=PCI 17 Pin=*-16
+Added Pin To Net: NetName=PCI 17 Pin=PCI-16
+Added Net: Name=PCI 17
+Added Pin To Net: NetName=PCI 18 Pin=*-17
+Added Pin To Net: NetName=PCI 18 Pin=PCI-17
+Added Net: Name=PCI 18
+Added Pin To Net: NetName=PCI 19 Pin=*-18
+Added Pin To Net: NetName=PCI 19 Pin=PCI-18
+Added Net: Name=PCI 19
+Added Pin To Net: NetName=PCI 20 Pin=*-19
+Added Pin To Net: NetName=PCI 20 Pin=PCI-19
+Added Net: Name=PCI 20
+Added Pin To Net: NetName=PCI 21 Pin=*-20
+Added Pin To Net: NetName=PCI 21 Pin=PCI-20
+Added Net: Name=PCI 21
+Added Pin To Net: NetName=PCI 22 Pin=*-22
+Added Pin To Net: NetName=PCI 22 Pin=PCI-22
+Added Net: Name=PCI 22
+Added Pin To Net: NetName=PCI 23 Pin=*-23
+Added Pin To Net: NetName=PCI 23 Pin=PCI-23
+Added Net: Name=PCI 23
+Added Pin To Net: NetName=PCI 24 Pin=*-24
+Added Pin To Net: NetName=PCI 24 Pin=PCI-24
+Added Net: Name=PCI 24
+Added Pin To Net: NetName=PCI 25 Pin=*-25
+Added Pin To Net: NetName=PCI 25 Pin=PCI-25
+Added Net: Name=PCI 25
+Added Pin To Net: NetName=PCI 26 Pin=*-27
+Added Pin To Net: NetName=PCI 26 Pin=PCI-27
+Added Net: Name=PCI 26
+Added Pin To Net: NetName=PCI 27 Pin=*-28
+Added Pin To Net: NetName=PCI 27 Pin=PCI-28
+Added Net: Name=PCI 27
+Added Pin To Net: NetName=PCI 28 Pin=*-29
+Added Pin To Net: NetName=PCI 28 Pin=PCI-29
+Added Net: Name=PCI 28
+Added Pin To Net: NetName=PCI 29 Pin=*-30
+Added Pin To Net: NetName=PCI 29 Pin=PCI-30
+Added Net: Name=PCI 29
+Added Pin To Net: NetName=PCI 30 Pin=*-31
+Added Pin To Net: NetName=PCI 30 Pin=PCI-31
+Added Net: Name=PCI 30
+Added Pin To Net: NetName=PCI 31 Pin=*-32
+Added Pin To Net: NetName=PCI 31 Pin=PCI-32
+Added Net: Name=PCI 31
+Added Pin To Net: NetName=PCI 32 Pin=*-33
+Added Pin To Net: NetName=PCI 32 Pin=PCI-33
+Added Net: Name=PCI 32
+Added Pin To Net: NetName=PCI 33 Pin=*-34
+Added Pin To Net: NetName=PCI 33 Pin=PCI-34
+Added Net: Name=PCI 33
+Added Pin To Net: NetName=PCI 34 Pin=*-35
+Added Pin To Net: NetName=PCI 34 Pin=PCI-35
+Added Net: Name=PCI 34
+Added Pin To Net: NetName=PCI 35 Pin=*-36
+Added Pin To Net: NetName=PCI 35 Pin=PCI-36
+Added Net: Name=PCI 35
+Added Pin To Net: NetName=PCI 36 Pin=*-37
+Added Pin To Net: NetName=PCI 36 Pin=PCI-37
+Added Net: Name=PCI 36
+Added Pin To Net: NetName=PCI 37 Pin=*-38
+Added Pin To Net: NetName=PCI 37 Pin=PCI-38
+Added Net: Name=PCI 37
+Added Pin To Net: NetName=PCI 38 Pin=*-39
+Added Pin To Net: NetName=PCI 38 Pin=PCI-39
+Added Net: Name=PCI 38
+Added Pin To Net: NetName=PCI 39 Pin=*-40
+Added Pin To Net: NetName=PCI 39 Pin=PCI-40
+Added Net: Name=PCI 39
+Added Pin To Net: NetName=PCI 40 Pin=*-41
+Added Pin To Net: NetName=PCI 40 Pin=PCI-41
+Added Net: Name=PCI 40
+Added Pin To Net: NetName=PCI 41 Pin=*-42
+Added Pin To Net: NetName=PCI 41 Pin=PCI-42
+Added Net: Name=PCI 41
+Added Pin To Net: NetName=PCI 42 Pin=*-43
+Added Pin To Net: NetName=PCI 42 Pin=PCI-43
+Added Net: Name=PCI 42
+Added Pin To Net: NetName=PCI 43 Pin=*-44
+Added Pin To Net: NetName=PCI 43 Pin=PCI-44
+Added Net: Name=PCI 43
+Added Pin To Net: NetName=PCI 44 Pin=*-45
+Added Pin To Net: NetName=PCI 44 Pin=PCI-45
+Added Net: Name=PCI 44
+Added Pin To Net: NetName=PCI 45 Pin=*-46
+Added Pin To Net: NetName=PCI 45 Pin=PCI-46
+Added Net: Name=PCI 45
+Added Pin To Net: NetName=PCI 46 Pin=*-47
+Added Pin To Net: NetName=PCI 46 Pin=PCI-47
+Added Net: Name=PCI 46
+Added Pin To Net: NetName=PCI 47 Pin=PCI-118
+Added Net: Name=PCI 47
+Added Pin To Net: NetName=PCI 48 Pin=*-49
+Added Pin To Net: NetName=PCI 48 Pin=PCI-49
+Added Net: Name=PCI 48
+Added Pin To Net: NetName=PCI 49 Pin=*-50
+Added Pin To Net: NetName=PCI 49 Pin=PCI-50
+Added Net: Name=PCI 49
+Added Pin To Net: NetName=PCI 50 Pin=*-51
+Added Pin To Net: NetName=PCI 50 Pin=PCI-51
+Added Net: Name=PCI 50
+Added Pin To Net: NetName=PCI 51 Pin=*-53
+Added Pin To Net: NetName=PCI 51 Pin=PCI-53
+Added Net: Name=PCI 51
+Added Pin To Net: NetName=PCI 52 Pin=*-54
+Added Pin To Net: NetName=PCI 52 Pin=PCI-54
+Added Net: Name=PCI 52
+Added Pin To Net: NetName=PCI 53 Pin=*-55
+Added Pin To Net: NetName=PCI 53 Pin=PCI-55
+Added Net: Name=PCI 53
+Added Pin To Net: NetName=PCI 54 Pin=*-56
+Added Pin To Net: NetName=PCI 54 Pin=PCI-56
+Added Net: Name=PCI 54
+Added Pin To Net: NetName=PCI 55 Pin=*-57
+Added Pin To Net: NetName=PCI 55 Pin=PCI-57
+Added Net: Name=PCI 55
+Added Pin To Net: NetName=PCI 56 Pin=*-58
+Added Pin To Net: NetName=PCI 56 Pin=PCI-58
+Added Net: Name=PCI 56
+Added Pin To Net: NetName=PCI 57 Pin=*-59
+Added Net: Name=PCI 57
+Added Pin To Net: NetName=PCI 58 Pin=*-60
+Added Net: Name=PCI 58
+Added Pin To Net: NetName=PCI 59 Pin=*-61
+Added Net: Name=PCI 59
+Added Pin To Net: NetName=PCI 60 Pin=*-62
+Added Net: Name=PCI 60
+Added Pin To Net: NetName=PCI 61 Pin=*-63
+Added Net: Name=PCI 61
+Added Pin To Net: NetName=PCI 62 Pin=*-65
+Added Net: Name=PCI 62
+Added Pin To Net: NetName=PCI 63 Pin=*-66
+Added Net: Name=PCI 63
+Added Pin To Net: NetName=PCI 64 Pin=*-68
+Added Net: Name=PCI 64
+Added Net: Name=PCI 65
+Added Pin To Net: NetName=PCI 66 Pin=*-70
+Added Net: Name=PCI 66
+Added Pin To Net: NetName=PCI 67 Pin=*-72
+Added Net: Name=PCI 67
+Added Pin To Net: NetName=PCI 68 Pin=*-73
+Added Net: Name=PCI 68
+Added Pin To Net: NetName=PCI 69 Pin=*-74
+Added Net: Name=PCI 69
+Added Pin To Net: NetName=PCI 70 Pin=*-75
+Added Net: Name=PCI 70
+Added Pin To Net: NetName=PCI 71 Pin=*-76
+Added Net: Name=PCI 71
+Added Pin To Net: NetName=PCI 72 Pin=*-77
+Added Net: Name=PCI 72
+Added Pin To Net: NetName=PCI 73 Pin=*-78
+Added Net: Name=PCI 73
+Added Pin To Net: NetName=PCI 74 Pin=*-79
+Added Net: Name=PCI 74
+Added Pin To Net: NetName=PCI 75 Pin=*-80
+Added Net: Name=PCI 75
+Added Pin To Net: NetName=PCI 76 Pin=*-81
+Added Net: Name=PCI 76
+Added Pin To Net: NetName=PCI 77 Pin=*-82
+Added Net: Name=PCI 77
+Added Pin To Net: NetName=PCI 78 Pin=*-83
+Added Net: Name=PCI 78
+Added Pin To Net: NetName=PCI 79 Pin=*-84
+Added Net: Name=PCI 79
+Added Pin To Net: NetName=PCI 80 Pin=*-85
+Added Net: Name=PCI 80
+Added Pin To Net: NetName=PCI 81 Pin=*-86
+Added Net: Name=PCI 81
+Added Pin To Net: NetName=PCI 82 Pin=*-87
+Added Net: Name=PCI 82
+Added Pin To Net: NetName=PCI 83 Pin=PCI-88
+Added Net: Name=PCI 83
+Added Pin To Net: NetName=PCI 84 Pin=*-89
+Added Net: Name=PCI 84
+Added Pin To Net: NetName=PCI 85 Pin=*-90
+Added Net: Name=PCI 85
+Added Pin To Net: NetName=PCI 86 Pin=*-91
+Added Net: Name=PCI 86
+Added Pin To Net: NetName=PCI 87 Pin=*-92
+Added Net: Name=PCI 87
+Added Pin To Net: NetName=PCI 88 Pin=*-93
+Added Net: Name=PCI 88
+Added Pin To Net: NetName=PCI 89 Pin=*-94
+Added Net: Name=PCI 89
+Added Pin To Net: NetName=PCI 90 Pin=*-95
+Added Net: Name=PCI 90
+Added Pin To Net: NetName=PCI 91 Pin=*-96
+Added Net: Name=PCI 91
+Added Pin To Net: NetName=PCI 92 Pin=*-97
+Added Net: Name=PCI 92
+Added Pin To Net: NetName=PCI 93 Pin=*-98
+Added Net: Name=PCI 93
+Added Pin To Net: NetName=PCI 94 Pin=*-99
+Added Net: Name=PCI 94
+Added Pin To Net: NetName=PCI 95 Pin=*-100
+Added Net: Name=PCI 95
+Added Pin To Net: NetName=PCI 96 Pin=*-101
+Added Net: Name=PCI 96
+Added Pin To Net: NetName=PCI 97 Pin=*-102
+Added Net: Name=PCI 97
+Added Pin To Net: NetName=PCI 98 Pin=*-103
+Added Net: Name=PCI 98
+Added Pin To Net: NetName=PCI 99 Pin=*-104
+Added Net: Name=PCI 99
+Added Pin To Net: NetName=PCI 100 Pin=*-105
+Added Net: Name=PCI 100
+Added Pin To Net: NetName=PCI 101 Pin=*-106
+Added Net: Name=PCI 101
+Added Pin To Net: NetName=PCI 102 Pin=*-107
+Added Net: Name=PCI 102
+Added Pin To Net: NetName=PCI 103 Pin=*-108
+Added Net: Name=PCI 103
+Added Pin To Net: NetName=PCI 104 Pin=*-109
+Added Net: Name=PCI 104
+Added Net: Name=PCI 105
+Added Net: Name=PCI 106
+Added Net: Name=PCI 107
+Added Net: Name=PCI 108
+Added Net: Name=PCI 109
+Added Net: Name=PCI 110
+Added Net: Name=PCI 111
+Added Pin To Net: NetName=PCI 112 Pin=PCI-117
+Added Net: Name=PCI 112
+Added Member To Class: ClassName=Plata.~(40) Member=Component * greb

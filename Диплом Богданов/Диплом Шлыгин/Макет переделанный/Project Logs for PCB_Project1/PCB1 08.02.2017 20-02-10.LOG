@@ -1,0 +1,9 @@
+Added Component: Designator=reoat(R-0904N-A10K, L20KC)
+Added Component: Designator=varrev(R-0904N-A10K, L20KC)
+Added Pin To Net: NetName=VCC5 Pin=reoat-0
+Added Pin To Net: NetName=Netgrlcd_1 Pin=reoat-2
+Added Pin To Net: NetName=Netgrlcd_2 Pin=varrev-0
+Added Pin To Net: NetName=Netgrlcd_17 Pin=varrev-1
+Added Pin To Net: NetName=VCC5 Pin=varrev-2
+Added Member To Class: ClassName=Plata.~(40) Member=Component reoat R-0904N-A10K, L20KC
+Added Member To Class: ClassName=Plata.~(40) Member=Component varrev R-0904N-A10K, L20KC

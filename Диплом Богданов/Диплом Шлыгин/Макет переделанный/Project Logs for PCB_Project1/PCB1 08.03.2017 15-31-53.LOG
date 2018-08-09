@@ -1,0 +1,18 @@
+Added Component: Designator=ressb_2_0(CAT16-102J4LF_2)
+Added Pin To Net: NetName=IDC10.7. 5 Pin=ressb_2_0-4
+Added Pin To Net: NetName=IDC10.7. 6 Pin=ressb_2_0-5
+Added Pin To Net: NetName=IDC10.7. 7 Pin=ressb_2_0-6
+Added Pin To Net: NetName=IDC10.7. 8 Pin=ressb_2_0-7
+Added Pin To Net: NetName=NetConnector_29 Pin=Connector-29
+Added Pin To Net: NetName=NetConnector_29 Pin=ressb_2_0-0
+Added Net: Name=NetConnector_29
+Added Pin To Net: NetName=NetConnector_30 Pin=Connector-30
+Added Pin To Net: NetName=NetConnector_30 Pin=ressb_2_0-1
+Added Net: Name=NetConnector_30
+Added Pin To Net: NetName=NetConnector_31 Pin=Connector-31
+Added Pin To Net: NetName=NetConnector_31 Pin=ressb_2_0-2
+Added Net: Name=NetConnector_31
+Added Pin To Net: NetName=NetConnector_32 Pin=Connector-32
+Added Pin To Net: NetName=NetConnector_32 Pin=ressb_2_0-3
+Added Net: Name=NetConnector_32
+Added Member To Class: ClassName=Plata.~(40) Member=Component ressb_2_0 Bourns CAT16-102J4LF_1

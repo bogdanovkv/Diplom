@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=Net7Segmind_7 Pin=7Segmind-7
+Added Pin To Net: NetName=Net7Segmind_7 Pin=SREG2-12
+Added Net: Name=Net7Segmind_7
+Added Member To Class: ClassName=Plata Member=Component * PCI

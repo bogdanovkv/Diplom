@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=LCDOE Pin=Connector-65
+Added Pin To Net: NetName=LCDOE Pin=Connector-66
+Added Pin To Net: NetName=LCDOE Pin=Connector-67
+Added Pin To Net: NetName=Net1.8v_2 Pin=Connector-126
+Added Pin To Net: NetName=Net3.3v_2 Pin=Connector-127
+Added Pin To Net: NetName=VCC Pin=Connector-128
+Change Net Name : Old Net Name=Net1.8v_2 New Net Name=VCC 1.8
+Change Net Name : Old Net Name=Net3.3v_2 New Net Name=VCC 3.3

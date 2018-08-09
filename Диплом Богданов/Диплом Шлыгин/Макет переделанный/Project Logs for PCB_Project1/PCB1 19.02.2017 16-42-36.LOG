@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LCDR/W Pin=Connector-114
+Removed Pin From Net: NetName=LCDD/I Pin=Connector-115
+Added Pin To Net: NetName=LCDD/I Pin=Connector-114
+Added Pin To Net: NetName=LCDR/W Pin=Connector-115

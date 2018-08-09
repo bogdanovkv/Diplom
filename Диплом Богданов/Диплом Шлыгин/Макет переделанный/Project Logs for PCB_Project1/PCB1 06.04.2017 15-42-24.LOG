@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=LCDOE Pin=AR1-3
+Added Component: Designator=A.AP(IDC10)
+Added Pin To Net: NetName=LCDOE Pin=2.4-8
+Added Pin To Net: NetName=LCDOE Pin=2.4-9
+Added Pin To Net: NetName=GENERALVIN Pin=2.4-10
+Added Pin To Net: NetName=VCC3.3 Pin=2.4-11
+Added Pin To Net: NetName=LCDOE Pin=AR1-4
+Added Pin To Net: NetName=UARTTX2 Pin=AR1-16
+Added Pin To Net: NetName=UARTRX2 Pin=AR1-17
+Added Pin To Net: NetName=A.AO 1 Pin=2.4-1
+Added Pin To Net: NetName=A.AO 1 Pin=A.AP-1
+Added Net: Name=A.AO 1
+Added Pin To Net: NetName=A.AO 2 Pin=2.4-2
+Added Pin To Net: NetName=A.AO 2 Pin=A.AP-2
+Added Net: Name=A.AO 2
+Added Pin To Net: NetName=A.AO 3 Pin=2.4-3
+Added Pin To Net: NetName=A.AO 3 Pin=A.AP-3
+Added Net: Name=A.AO 3
+Added Pin To Net: NetName=A.AO 4 Pin=2.4-4
+Added Pin To Net: NetName=A.AO 4 Pin=A.AP-4
+Added Net: Name=A.AO 4
+Added Pin To Net: NetName=A.AO 5 Pin=2.4-5
+Added Pin To Net: NetName=A.AO 5 Pin=A.AP-5
+Added Net: Name=A.AO 5
+Added Pin To Net: NetName=A.AO 6 Pin=2.4-6
+Added Pin To Net: NetName=A.AO 6 Pin=A.AP-6
+Added Net: Name=A.AO 6
+Added Pin To Net: NetName=A.RESET Pin=2.4-12
+Added Net: Name=A.RESET
+Added Pin To Net: NetName=IOREF Pin=2.4-13
+Added Net: Name=IOREF
+Added Pin To Net: NetName=NC Pin=2.4-7
+Added Net: Name=NC
+Added Pin To Net: NetName=NETLABEL8 Pin=AR1-15
+Added Net: Name=NETLABEL8
+Added Member To Class: ClassName=Plata.~(40) Member=Component A.AP IDC10

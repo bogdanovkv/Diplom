@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=ressb_1 NewDesignator=ressb_1_1
+Change Component Designator: OldDesignator=ressb_2 NewDesignator=ressb_2_1
+Added Component: Designator=C3(CAPR5-4X5)
+Added Component: Designator=ressb_1_0(CAT16-102J4LF)
+Added Component: Designator=ressb_2_0(CAT16-102J4LF_2)
+Added Pin To Net: NetName=NetConnector_33 Pin=ressb_1_0-0
+Added Pin To Net: NetName=NetConnector_34 Pin=ressb_1_0-1
+Added Pin To Net: NetName=NetConnector_35 Pin=ressb_1_0-2
+Added Pin To Net: NetName=NetConnector_36 Pin=ressb_1_0-3
+Added Pin To Net: NetName=IDC10.7. 4 Pin=ressb_1_0-4
+Added Pin To Net: NetName=IDC10.7. 3 Pin=ressb_1_0-5
+Added Pin To Net: NetName=IDC10.7. 2 Pin=ressb_1_0-6
+Added Pin To Net: NetName=IDC10.7. 1 Pin=ressb_1_0-7
+Added Pin To Net: NetName=NetConnector_29 Pin=ressb_2_0-0
+Added Pin To Net: NetName=NetConnector_30 Pin=ressb_2_0-1
+Added Pin To Net: NetName=NetConnector_31 Pin=ressb_2_0-2
+Added Pin To Net: NetName=NetConnector_32 Pin=ressb_2_0-3
+Added Pin To Net: NetName=IDC10.7. 5 Pin=ressb_2_0-4
+Added Pin To Net: NetName=IDC10.7. 6 Pin=ressb_2_0-5
+Added Pin To Net: NetName=IDC10.7. 7 Pin=ressb_2_0-6
+Added Pin To Net: NetName=IDC10.7. 8 Pin=ressb_2_0-7
+Added Member To Class: ClassName=Plata.~(40) Member=Component C3 Cap2
+Added Member To Class: ClassName=Plata.~(40) Member=Component ressb_1_0 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component ressb_2_0 Bourns CAT16-102J4LF_1

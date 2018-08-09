@@ -1,0 +1,6 @@
+Change Component Comment : Designator=C1 5v Old Comment=CAPACITY 2,2 ìêô New Comment=CAPACITY
+Change Component Comment : Designator=C2 5v Old Comment=CAPACITY 2,2 ìêô New Comment=CAPACITY
+Added Component: Designator=*(SCS-17-P10)
+Added Pin To Net: NetName=LCDOE Pin=*-0
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Member To Class: ClassName=Plata.~(40) Member=Component * SCS-17-P10

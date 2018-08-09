@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetCap1 pol 22mf+ 1.8_1 Pin=Cap1 pol 22mf+ 1.8-1
+Removed Pin From Net: NetName=NetCap1 pol 22mf+ 3.3_1 Pin=Cap1 pol 22mf+ 3.3-1
+Removed Pin From Net: NetName=NetCap1 pol 22mf+ 1.8_1 Pin=L1 1.8-1
+Removed Pin From Net: NetName=NetCap1 pol 22mf+ 3.3_1 Pin=L1 3.3-1
+Removed Pin From Net: NetName=NetCap1 pol 22mf+ 1.8_1 Pin=RVcc3  1.8-2
+Removed Pin From Net: NetName=NetCap1 pol 22mf+ 3.3_1 Pin=RVcc3  3.3-2
+Added Component: Designator=C1(RB7.6-15)
+Added Component: Designator=C3(CAPR5-4X5)
+Added Component: Designator=C4(CAPR5-4X5)
+Added Pin To Net: NetName=NetCap1 pol 22mf+_1 Pin=Cap1 pol 22mf+ 1.8-1
+Added Pin To Net: NetName=NetCap1 pol 22mf+_1 Pin=Cap1 pol 22mf+ 3.3-1
+Added Pin To Net: NetName=NetCap1 pol 22mf+_1 Pin=DS-1
+Added Pin To Net: NetName=NetCap1 pol 22mf+ 3.3_1 Pin=DS-2
+Added Pin To Net: NetName=NetCap1 pol 22mf+ 1.8_1 Pin=DS-3
+Added Pin To Net: NetName=NetCap1 pol 22mf+_1 Pin=L1 1.8-1
+Added Pin To Net: NetName=NetCap1 pol 22mf+_1 Pin=L1 3.3-1
+Added Pin To Net: NetName=NetCap1 pol 22mf+_1 Pin=RVcc3  1.8-2
+Added Pin To Net: NetName=NetCap1 pol 22mf+_1 Pin=RVcc3  3.3-2
+Change Net Name : Old Net Name=NetCap1 pol 22mf+ 1.8_1 New Net Name=GENDEF
+Change Net Name : Old Net Name=NetCap1 pol 22mf+ 3.3_1 New Net Name=GENCON
+Change Net Name : Old Net Name=NetCap1 pol 22mf+_1 New Net Name=GENERALVIN
+Added Member To Class: ClassName=Plata.~(40) Member=Component C1 Cap Pol1
+Added Member To Class: ClassName=Plata.~(40) Member=Component C3 Cap2
+Added Member To Class: ClassName=Plata.~(40) Member=Component C4 Cap2

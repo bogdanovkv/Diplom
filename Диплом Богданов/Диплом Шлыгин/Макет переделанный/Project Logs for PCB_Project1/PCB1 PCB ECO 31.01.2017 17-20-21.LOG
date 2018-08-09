@@ -1,0 +1,26 @@
+Added Pin To Net: NetName=GND Pin=IDC10-2-1
+Added Pin To Net: NetName=VCC Pin=IDC10-2-10
+Added Pin To Net: NetName=IDC10.2. 1 Pin=Connector-53
+Added Pin To Net: NetName=IDC10.2. 1 Pin=IDC10-2-2
+Added Net: Name=IDC10.2. 1
+Added Pin To Net: NetName=IDC10.2. 2 Pin=Connector-54
+Added Pin To Net: NetName=IDC10.2. 2 Pin=IDC10-2-3
+Added Net: Name=IDC10.2. 2
+Added Pin To Net: NetName=IDC10.2. 3 Pin=Connector-55
+Added Pin To Net: NetName=IDC10.2. 3 Pin=IDC10-2-4
+Added Net: Name=IDC10.2. 3
+Added Pin To Net: NetName=IDC10.2. 4 Pin=Connector-56
+Added Pin To Net: NetName=IDC10.2. 4 Pin=IDC10-2-5
+Added Net: Name=IDC10.2. 4
+Added Pin To Net: NetName=IDC10.2. 5 Pin=Connector-12
+Added Pin To Net: NetName=IDC10.2. 5 Pin=IDC10-2-9
+Added Net: Name=IDC10.2. 5
+Added Pin To Net: NetName=IDC10.2. 6 Pin=Connector-11
+Added Pin To Net: NetName=IDC10.2. 6 Pin=IDC10-2-8
+Added Net: Name=IDC10.2. 6
+Added Pin To Net: NetName=IDC10.2. 7 Pin=Connector-10
+Added Pin To Net: NetName=IDC10.2. 7 Pin=IDC10-2-7
+Added Net: Name=IDC10.2. 7
+Added Pin To Net: NetName=IDC10.2. 8 Pin=Connector-9
+Added Pin To Net: NetName=IDC10.2. 8 Pin=IDC10-2-6
+Added Net: Name=IDC10.2. 8

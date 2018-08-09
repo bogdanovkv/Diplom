@@ -1,0 +1,20 @@
+Added Component: Designator=SB 1(CAT16-102J4LF)
+Added Component: Designator=SB 2(CAT16-102J4LF)
+Added Pin To Net: NetName=NetConnector_36 Pin=SB 1-0
+Added Pin To Net: NetName=NetConnector_35 Pin=SB 1-1
+Added Pin To Net: NetName=NetConnector_34 Pin=SB 1-2
+Added Pin To Net: NetName=NetConnector_33 Pin=SB 1-3
+Added Pin To Net: NetName=IDC10.7. 4 Pin=SB 1-4
+Added Pin To Net: NetName=IDC10.7. 3 Pin=SB 1-5
+Added Pin To Net: NetName=IDC10.7. 2 Pin=SB 1-6
+Added Pin To Net: NetName=IDC10.7. 1 Pin=SB 1-7
+Added Pin To Net: NetName=NetConnector_32 Pin=SB 2-0
+Added Pin To Net: NetName=NetConnector_31 Pin=SB 2-1
+Added Pin To Net: NetName=NetConnector_30 Pin=SB 2-2
+Added Pin To Net: NetName=NetConnector_29 Pin=SB 2-3
+Added Pin To Net: NetName=IDC10.7. 5 Pin=SB 2-4
+Added Pin To Net: NetName=IDC10.7. 6 Pin=SB 2-5
+Added Pin To Net: NetName=IDC10.7. 7 Pin=SB 2-6
+Added Pin To Net: NetName=IDC10.7. 8 Pin=SB 2-7
+Added Member To Class: ClassName=Plata.~(40) Member=Component SB 1 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component SB 2 Bourns CAT16-102J4LF

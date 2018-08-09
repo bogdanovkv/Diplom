@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=IDC10.1. 8 Pin=Connector-5
+Removed Pin From Net: NetName=IDC10.1. 7 Pin=Connector-6
+Removed Pin From Net: NetName=IDC10.1. 6 Pin=Connector-7
+Removed Pin From Net: NetName=IDC10.1. 5 Pin=Connector-8
+Removed Pin From Net: NetName=IDC10.2. 8 Pin=Connector-9
+Removed Pin From Net: NetName=IDC10.2. 7 Pin=Connector-10
+Removed Pin From Net: NetName=IDC10.2. 6 Pin=Connector-11
+Removed Pin From Net: NetName=IDC10.2. 5 Pin=Connector-12
+Removed Pin From Net: NetName=IDC10.3. 8 Pin=Connector-13
+Removed Pin From Net: NetName=IDC10.3. 7 Pin=Connector-14
+Removed Pin From Net: NetName=IDC10.3. 6 Pin=Connector-15
+Removed Pin From Net: NetName=IDC10.3. 5 Pin=Connector-16
+Removed Pin From Net: NetName=IDC10.4. 7 Pin=Connector-18
+Removed Pin From Net: NetName=IDC10.4. 6 Pin=Connector-19
+Removed Pin From Net: NetName=IDC10.4. 5 Pin=Connector-20
+Added Component: Designator=ressb_2_3(CAT16-102J4LF_2)
+Added Component: Designator=ressb_2_4(CAT16-102J4LF_2)
+Added Component: Designator=ressb_2_5(CAT16-102J4LF_2)
+Added Component: Designator=ressb_2_6(CAT16-102J4LF_2)
+Added Pin To Net: NetName=IDC10.4. 5 Pin=ressb_2_3-4
+Added Pin To Net: NetName=IDC10.4. 6 Pin=ressb_2_3-5
+Added Pin To Net: NetName=IDC10.4. 7 Pin=ressb_2_3-6
+Added Pin To Net: NetName=IDC10.4. 8 Pin=ressb_2_3-7
+Added Pin To Net: NetName=IDC10.3. 5 Pin=ressb_2_4-4
+Added Pin To Net: NetName=IDC10.3. 6 Pin=ressb_2_4-5
+Added Pin To Net: NetName=IDC10.3. 7 Pin=ressb_2_4-6
+Added Pin To Net: NetName=IDC10.3. 8 Pin=ressb_2_4-7
+Added Pin To Net: NetName=IDC10.2. 5 Pin=ressb_2_5-4
+Added Pin To Net: NetName=IDC10.2. 6 Pin=ressb_2_5-5
+Added Pin To Net: NetName=IDC10.2. 7 Pin=ressb_2_5-6
+Added Pin To Net: NetName=IDC10.2. 8 Pin=ressb_2_5-7
+Added Pin To Net: NetName=IDC10.1. 5 Pin=ressb_2_6-4
+Added Pin To Net: NetName=IDC10.1. 6 Pin=ressb_2_6-5
+Added Pin To Net: NetName=IDC10.1. 7 Pin=ressb_2_6-6
+Added Pin To Net: NetName=IDC10.1. 8 Pin=ressb_2_6-7
+Added Pin To Net: NetName=NetConnector_5 Pin=Connector-5
+Added Pin To Net: NetName=NetConnector_5 Pin=ressb_2_6-0
+Added Net: Name=NetConnector_5
+Added Pin To Net: NetName=NetConnector_6 Pin=Connector-6
+Added Pin To Net: NetName=NetConnector_6 Pin=ressb_2_6-1
+Added Net: Name=NetConnector_6
+Added Pin To Net: NetName=NetConnector_7 Pin=Connector-7
+Added Pin To Net: NetName=NetConnector_7 Pin=ressb_2_6-2
+Added Net: Name=NetConnector_7
+Added Pin To Net: NetName=NetConnector_8 Pin=Connector-8
+Added Pin To Net: NetName=NetConnector_8 Pin=ressb_2_6-3
+Added Net: Name=NetConnector_8
+Added Pin To Net: NetName=NetConnector_9 Pin=Connector-9
+Added Pin To Net: NetName=NetConnector_9 Pin=ressb_2_5-0
+Added Net: Name=NetConnector_9
+Added Pin To Net: NetName=NetConnector_10 Pin=Connector-10
+Added Pin To Net: NetName=NetConnector_10 Pin=ressb_2_5-1
+Added Net: Name=NetConnector_10
+Added Pin To Net: NetName=NetConnector_11 Pin=Connector-11
+Added Pin To Net: NetName=NetConnector_11 Pin=ressb_2_5-2
+Added Net: Name=NetConnector_11
+Added Pin To Net: NetName=NetConnector_12 Pin=Connector-12
+Added Pin To Net: NetName=NetConnector_12 Pin=ressb_2_5-3
+Added Net: Name=NetConnector_12
+Added Pin To Net: NetName=NetConnector_13 Pin=Connector-13
+Added Pin To Net: NetName=NetConnector_13 Pin=ressb_2_4-0
+Added Net: Name=NetConnector_13
+Added Pin To Net: NetName=NetConnector_14 Pin=Connector-14
+Added Pin To Net: NetName=NetConnector_14 Pin=ressb_2_4-1
+Added Net: Name=NetConnector_14
+Added Pin To Net: NetName=NetConnector_15 Pin=Connector-15
+Added Pin To Net: NetName=NetConnector_15 Pin=ressb_2_4-2
+Added Net: Name=NetConnector_15
+Added Pin To Net: NetName=NetConnector_16 Pin=Connector-16
+Added Pin To Net: NetName=NetConnector_16 Pin=ressb_2_4-3
+Added Net: Name=NetConnector_16
+Added Pin To Net: NetName=NetConnector_17 Pin=Connector-17
+Added Pin To Net: NetName=NetConnector_17 Pin=ressb_2_3-0
+Added Net: Name=NetConnector_17
+Added Pin To Net: NetName=NetConnector_18 Pin=Connector-18
+Added Pin To Net: NetName=NetConnector_18 Pin=ressb_2_3-1
+Added Net: Name=NetConnector_18
+Added Pin To Net: NetName=NetConnector_19 Pin=Connector-19
+Added Pin To Net: NetName=NetConnector_19 Pin=ressb_2_3-2
+Added Net: Name=NetConnector_19
+Added Pin To Net: NetName=NetConnector_20 Pin=Connector-20
+Added Pin To Net: NetName=NetConnector_20 Pin=ressb_2_3-3
+Added Net: Name=NetConnector_20
+Added Member To Class: ClassName=Plata.~(40) Member=Component ressb_2_3 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component ressb_2_4 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component ressb_2_5 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component ressb_2_6 Bourns CAT16-102J4LF_1

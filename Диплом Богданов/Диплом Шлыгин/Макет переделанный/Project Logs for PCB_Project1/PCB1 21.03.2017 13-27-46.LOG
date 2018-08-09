@@ -1,0 +1,8 @@
+Added Component: Designator=ressb_2(CAT16-102J4LF_2)
+Added Pin To Net: NetName=Net_2 Pin=ressb_2-0
+Added Pin To Net: NetName=Net_7 Pin=ressb_2-1
+Added Pin To Net: NetName=Net_6 Pin=ressb_2-2
+Added Pin To Net: NetName=Net_4 Pin=ressb_2-3
+Added Pin To Net: NetName=KLAV_STR4 Pin=ressb_2-4
+Added Pin To Net: NetName=KLAV_STR2 Pin=ressb_2-6
+Added Pin To Net: NetName=KLAV_STR1 Pin=ressb_2-7

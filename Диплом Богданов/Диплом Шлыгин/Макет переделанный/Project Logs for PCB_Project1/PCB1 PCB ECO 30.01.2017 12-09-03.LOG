@@ -1,0 +1,67 @@
+Added Component: Designator=*(PCI-120)
+Added Component: Designator=6464b(MT-6464B)
+Added Component: Designator=Connector(Connect)
+Added Component: Designator=dip(SWD1-8)
+Added Component: Designator=DS(ds-313)
+Added Component: Designator=greb1.1(GREBENKA)
+Added Component: Designator=greb1.2(GREBENKA)
+Added Component: Designator=greb2.1(GREBENKA)
+Added Component: Designator=greb2.2(GREBENKA)
+Added Component: Designator=greb2.3(GREBENKA)
+Added Component: Designator=greb2.4(GREBENKA)
+Added Component: Designator=Grebkl(Greb_KL)
+Added Component: Designator=grlcd(GREB_LCD)
+Added Component: Designator=grlcd(GREB_LCD)
+Added Component: Designator=HC12G-04F(HC12G-04F)
+Added Component: Designator=IDC10-1(IDC10)
+Added Component: Designator=IDC10-2(IDC10)
+Added Component: Designator=IDC10-3(IDC10)
+Added Component: Designator=IDC10-4(IDC10)
+Added Component: Designator=IDC10-5(IDC10)
+Added Component: Designator=IDC10-6(IDC10)
+Added Component: Designator=IDC10-7(IDC10)
+Added Component: Designator=IDC10-8(IDC10)
+Added Component: Designator=KLAV(AK-207)
+Added Component: Designator=ps850l(ps850l)
+Added Component: Designator=ps850l(ps850l)
+Added Component: Designator=ps850l(ps850l)
+Added Component: Designator=ps850l(ps850l)
+Added Component: Designator=R1(R0805)
+Added Component: Designator=R2(R0805)
+Added Component: Designator=R3(R0805)
+Added Component: Designator=Rvd1(R0805)
+Added Component: Designator=Rvd2(R0805)
+Added Component: Designator=Rvd3(R0805)
+Added Component: Designator=Rvd(R0805)
+Added Member To Class: ClassName=Plata Member=Component * PCI
+Added Member To Class: ClassName=Plata Member=Component 6464b MT6464b
+Added Member To Class: ClassName=Plata Member=Component Connector
+Added Member To Class: ClassName=Plata Member=Component dip DIP
+Added Member To Class: ClassName=Plata Member=Component DS DS-313a
+Added Member To Class: ClassName=Plata Member=Component greb1.1 GREB-RAZ
+Added Member To Class: ClassName=Plata Member=Component greb1.2 GREB-RAZ
+Added Member To Class: ClassName=Plata Member=Component greb2.1 GREB-RAZ
+Added Member To Class: ClassName=Plata Member=Component greb2.2 GREB-RAZ
+Added Member To Class: ClassName=Plata Member=Component greb2.3 GREB-RAZ
+Added Member To Class: ClassName=Plata Member=Component greb2.4 GREB-RAZ
+Added Member To Class: ClassName=Plata Member=Component Grebkl GrebKL
+Added Member To Class: ClassName=Plata Member=Component grlcd GREBLCd
+Added Member To Class: ClassName=Plata Member=Component HC12G-04F
+Added Member To Class: ClassName=Plata Member=Component IDC10-1 IDC10
+Added Member To Class: ClassName=Plata Member=Component IDC10-2 IDC10
+Added Member To Class: ClassName=Plata Member=Component IDC10-3 IDC10
+Added Member To Class: ClassName=Plata Member=Component IDC10-4 IDC10
+Added Member To Class: ClassName=Plata Member=Component IDC10-5 IDC10
+Added Member To Class: ClassName=Plata Member=Component IDC10-6 IDC10
+Added Member To Class: ClassName=Plata Member=Component IDC10-7 IDC10
+Added Member To Class: ClassName=Plata Member=Component IDC10-8 IDC10
+Added Member To Class: ClassName=Plata Member=Component KLAV AK-207
+Added Member To Class: ClassName=Plata Member=Component ps850l
+Added Member To Class: ClassName=Plata Member=Component R1 R0805
+Added Member To Class: ClassName=Plata Member=Component R2 R0805
+Added Member To Class: ClassName=Plata Member=Component R3 R0805
+Added Member To Class: ClassName=Plata Member=Component Rvd1 R0805
+Added Member To Class: ClassName=Plata Member=Component Rvd2 R0805
+Added Member To Class: ClassName=Plata Member=Component Rvd3 R0805
+Added Member To Class: ClassName=Plata Member=Component Rvd R0805
+Added Room: Name=Plata

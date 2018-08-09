@@ -1,0 +1,47 @@
+Added Component: Designator=1.8v(VSSOP-8)
+Added Component: Designator=Cap1 pol 22mf+ 1.8(R0805)
+Added Component: Designator=Cap3 4.7pf+ 3 1.8(R0805)
+Added Component: Designator=Cap2 100mf 1.8(R0805)
+Added Component: Designator=D 5v 1 1.8(SMB)
+Added Component: Designator=L1 1.8(0402-A)
+Added Component: Designator=RVcc1 1.8(R0805)
+Added Component: Designator=RVcc2 1.8(R0805)
+Added Component: Designator=RVcc3  1.8(R0805)
+Added Pin To Net: NetName=LCDOE Pin=1.8v-1
+Added Pin To Net: NetName=LCDOE Pin=1.8v-5
+Added Pin To Net: NetName=LCDOE Pin=Cap1 pol 22mf+ 1.8-2
+Added Pin To Net: NetName=LCDOE Pin=Cap2 100mf 1.8-1
+Added Pin To Net: NetName=LCDOE Pin=RVcc2 1.8-1
+Added Pin To Net: NetName=Net1.8v_2 Pin=1.8v-2
+Added Pin To Net: NetName=Net1.8v_2 Pin=1.8v-6
+Added Pin To Net: NetName=Net1.8v_2 Pin=1.8v-7
+Added Pin To Net: NetName=Net1.8v_2 Pin=Cap2 100mf 1.8-2
+Added Pin To Net: NetName=Net1.8v_2 Pin=D 5v 1 1.8-2
+Added Pin To Net: NetName=Net1.8v_2 Pin=RVcc1 1.8-2
+Added Net: Name=Net1.8v_2
+Added Pin To Net: NetName=Net1.8v_3 Pin=1.8v-3
+Added Pin To Net: NetName=Net1.8v_3 Pin=Cap3 4.7pf+ 3 1.8-2
+Added Pin To Net: NetName=Net1.8v_3 Pin=RVcc3  1.8-1
+Added Net: Name=Net1.8v_3
+Added Pin To Net: NetName=Net1.8v_4 Pin=1.8v-4
+Added Pin To Net: NetName=Net1.8v_4 Pin=RVcc1 1.8-1
+Added Pin To Net: NetName=Net1.8v_4 Pin=RVcc2 1.8-2
+Added Net: Name=Net1.8v_4
+Added Pin To Net: NetName=Net1.8v_8 Pin=1.8v-8
+Added Pin To Net: NetName=Net1.8v_8 Pin=Cap3 4.7pf+ 3 1.8-1
+Added Pin To Net: NetName=Net1.8v_8 Pin=D 5v 1 1.8-1
+Added Pin To Net: NetName=Net1.8v_8 Pin=L1 1.8-2
+Added Net: Name=Net1.8v_8
+Added Pin To Net: NetName=NetCap1 pol 22mf+ 1.8_1 Pin=Cap1 pol 22mf+ 1.8-1
+Added Pin To Net: NetName=NetCap1 pol 22mf+ 1.8_1 Pin=L1 1.8-1
+Added Pin To Net: NetName=NetCap1 pol 22mf+ 1.8_1 Pin=RVcc3  1.8-2
+Added Net: Name=NetCap1 pol 22mf+ 1.8_1
+Added Member To Class: ClassName=Sheet1 Member=Component 1.8v LM2623
+Added Member To Class: ClassName=Sheet1 Member=Component Cap1 pol 22mf+ 1.8 R0805
+Added Member To Class: ClassName=Sheet1 Member=Component Cap3 4.7pf+ 3 1.8 R0805
+Added Member To Class: ClassName=Sheet1 Member=Component Cap2 100mf 1.8 R0805
+Added Member To Class: ClassName=Sheet1 Member=Component D 5v 1 1.8 D Schottky
+Added Member To Class: ClassName=Sheet1 Member=Component L1 1.8 Inductor
+Added Member To Class: ClassName=Sheet1 Member=Component RVcc1 1.8 R0805
+Added Member To Class: ClassName=Sheet1 Member=Component RVcc2 1.8 R0805
+Added Member To Class: ClassName=Sheet1 Member=Component RVcc3  1.8 R0805

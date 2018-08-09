@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=PCI 54 Pin=*-56
+Added Pin To Net: NetName=PCI 54 Pin=*-57

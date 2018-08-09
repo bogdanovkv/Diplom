@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=Connector-113
+Added Pin To Net: NetName=GND Pin=grlcd-14
+Added Pin To Net: NetName=GND Pin=WG12864A-5
+Change Net Name : Old Net Name=GND New Net Name=LCDOE

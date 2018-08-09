@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=BUTTON_RESET Pin=R?-2
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Added Pin To Net: NetName=VCC5 Pin=R11-1
+Added Pin To Net: NetName=BUTTON_3 Pin=R11-2
+Added Pin To Net: NetName=VCC5 Pin=R12-1
+Added Pin To Net: NetName=BUTTON_2 Pin=R12-2
+Added Pin To Net: NetName=BUTTON_1 Pin=R13-2
+Added Pin To Net: NetName=BUTTON_RESET Pin=R14-2
+Added Member To Class: ClassName=Plata Member=Component R11 R0805
+Added Member To Class: ClassName=Plata Member=Component R12 R0805
+Added Member To Class: ClassName=Plata Member=Component R13 R0805

@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=SREG3 NewDesignator=SREG4
+Change Component Designator: OldDesignator=SREG4 NewDesignator=SREG3
+Added Member To Class: ClassName=Power Supplies Member=Component C17 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C18 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C18 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C19 10u
+Added Member To Class: ClassName=Power Supplies Member=Component R50 121R

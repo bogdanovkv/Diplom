@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=PCI 1 Pin=*-0
+Removed Pin From Net: NetName=PCI 4 Pin=*-3
+Removed Pin From Net: NetName=PCI 8 Pin=*-7
+Removed Pin From Net: NetName=PCI 9 Pin=*-8
+Removed Pin From Net: NetName=PCI 10 Pin=*-9
+Removed Pin From Net: NetName=PCI 11 Pin=*-10
+Removed Pin From Net: NetName=PCI 13 Pin=*-12
+Removed Pin From Net: NetName=PCI 14 Pin=*-13
+Removed Pin From Net: NetName=PCI 15 Pin=*-14
+Removed Pin From Net: NetName=PCI 16 Pin=*-15
+Removed Pin From Net: NetName=PCI 23 Pin=*-23
+Removed Pin From Net: NetName=PCI 24 Pin=*-24
+Removed Pin From Net: NetName=PCI 25 Pin=*-25
+Removed Pin From Net: NetName=PCI 27 Pin=*-28
+Removed Pin From Net: NetName=PCI 28 Pin=*-29
+Removed Pin From Net: NetName=PCI 30 Pin=*-31
+Removed Pin From Net: NetName=PCI 31 Pin=*-32
+Removed Pin From Net: NetName=PCI 36 Pin=*-37
+Removed Pin From Net: NetName=PCI 37 Pin=*-38
+Removed Pin From Net: NetName=PCI 38 Pin=*-39
+Removed Pin From Net: NetName=PCI 39 Pin=*-40
+Removed Pin From Net: NetName=PCI 41 Pin=*-42
+Removed Pin From Net: NetName=PCI 42 Pin=*-43
+Removed Pin From Net: NetName=PCI 43 Pin=*-44
+Removed Pin From Net: NetName=PCI 44 Pin=*-45
+Removed Pin From Net: NetName=PCI 48 Pin=*-50
+Removed Pin From Net: NetName=PCI 54 Pin=*-57
+Removed Pin From Net: NetName=PCI 56 Pin=*-58
+Removed Pin From Net: NetName=PCI 57 Pin=*-59
+Removed Pin From Net: NetName=PCI 59 Pin=*-61
+Removed Pin From Net: NetName=PCI 64 Pin=*-67
+Removed Pin From Net: NetName=PCI 65 Pin=*-68
+Removed Pin From Net: NetName=PCI 83 Pin=*-87
+Removed Pin From Net: NetName=PCI 84 Pin=*-88
+Removed Pin From Net: NetName=PCI 86 Pin=*-90
+Removed Pin From Net: NetName=PCI 87 Pin=*-91
+Removed Pin From Net: NetName=PCI 89 Pin=*-93
+Removed Pin From Net: NetName=PCI 90 Pin=*-94
+Removed Pin From Net: NetName=PCI 91 Pin=*-95
+Removed Pin From Net: NetName=PCI 92 Pin=*-96
+Removed Pin From Net: NetName=PCI 99 Pin=*-103
+Removed Pin From Net: NetName=PCI 100 Pin=*-104
+Removed Pin From Net: NetName=PCI 101 Pin=*-105
+Removed Pin From Net: NetName=PCI 102 Pin=*-106
+Removed Pin From Net: NetName=PCI 104 Pin=*-108
+Removed Pin From Net: NetName=PCI 105 Pin=*-109
+Removed Pin From Net: NetName=PCI 106 Pin=*-110
+Removed Pin From Net: NetName=PCI 107 Pin=*-111
+Removed Pin From Net: NetName=PCI 111 Pin=*-115
+Removed Pin From Net: NetName=PCI 113 Pin=*-117
+Removed Pin From Net: NetName=GENERALVIN Pin=L1 3.3-1
+Removed Pin From Net: NetName=Net3.3v_8 Pin=L1 3.3-2
+Change Component DesignItemId : Designator=* Old DesignItemId=greb New DesignItemId=Induct
+Change Component Footprint: Designator=* Old Footprint=GrebForPCI New Footprint=B82464G4472M
+Change Component Comment : Designator=* Old Comment=greb New Comment=Induct
+Added Component: Designator=3.3 ind 4.7 mh(B82464G4472M)
+Added Component: Designator=grebpci(GrebForPCI)
+Added Pin To Net: NetName=GENERALVIN Pin=3.3 ind 4.7 mh-1
+Added Pin To Net: NetName=Net3.3v_8 Pin=3.3 ind 4.7 mh-1
+Added Pin To Net: NetName=PCI 1 Pin=grebpci-0
+Added Pin To Net: NetName=PCI 4 Pin=grebpci-3
+Added Pin To Net: NetName=PCI 8 Pin=grebpci-7
+Added Pin To Net: NetName=PCI 9 Pin=grebpci-8
+Added Pin To Net: NetName=PCI 10 Pin=grebpci-9
+Added Pin To Net: NetName=PCI 11 Pin=grebpci-10
+Added Pin To Net: NetName=PCI 13 Pin=grebpci-12
+Added Pin To Net: NetName=PCI 14 Pin=grebpci-13
+Added Pin To Net: NetName=PCI 15 Pin=grebpci-14
+Added Pin To Net: NetName=PCI 16 Pin=grebpci-15
+Added Pin To Net: NetName=PCI 23 Pin=grebpci-23
+Added Pin To Net: NetName=PCI 24 Pin=grebpci-24
+Added Pin To Net: NetName=PCI 25 Pin=grebpci-25
+Added Pin To Net: NetName=PCI 27 Pin=grebpci-28
+Added Pin To Net: NetName=PCI 28 Pin=grebpci-29
+Added Pin To Net: NetName=PCI 30 Pin=grebpci-31
+Added Pin To Net: NetName=PCI 31 Pin=grebpci-32
+Added Pin To Net: NetName=PCI 36 Pin=grebpci-37
+Added Pin To Net: NetName=PCI 37 Pin=grebpci-38
+Added Pin To Net: NetName=PCI 38 Pin=grebpci-39
+Added Pin To Net: NetName=PCI 39 Pin=grebpci-40
+Added Pin To Net: NetName=PCI 41 Pin=grebpci-42
+Added Pin To Net: NetName=PCI 42 Pin=grebpci-43
+Added Pin To Net: NetName=PCI 43 Pin=grebpci-44
+Added Pin To Net: NetName=PCI 44 Pin=grebpci-45
+Added Pin To Net: NetName=PCI 48 Pin=grebpci-50
+Added Pin To Net: NetName=PCI 54 Pin=grebpci-57
+Added Pin To Net: NetName=PCI 56 Pin=grebpci-58
+Added Pin To Net: NetName=PCI 57 Pin=grebpci-59
+Added Pin To Net: NetName=PCI 59 Pin=grebpci-61
+Added Pin To Net: NetName=PCI 64 Pin=grebpci-67
+Added Pin To Net: NetName=PCI 65 Pin=grebpci-68
+Added Pin To Net: NetName=PCI 83 Pin=grebpci-87
+Added Pin To Net: NetName=PCI 84 Pin=grebpci-88
+Added Pin To Net: NetName=PCI 86 Pin=grebpci-90
+Added Pin To Net: NetName=PCI 87 Pin=grebpci-91
+Added Pin To Net: NetName=PCI 89 Pin=grebpci-93
+Added Pin To Net: NetName=PCI 90 Pin=grebpci-94
+Added Pin To Net: NetName=PCI 91 Pin=grebpci-95
+Added Pin To Net: NetName=PCI 92 Pin=grebpci-96
+Added Pin To Net: NetName=PCI 99 Pin=grebpci-103
+Added Pin To Net: NetName=PCI 100 Pin=grebpci-104
+Added Pin To Net: NetName=PCI 101 Pin=grebpci-105
+Added Pin To Net: NetName=PCI 102 Pin=grebpci-106
+Added Pin To Net: NetName=PCI 104 Pin=grebpci-108
+Added Pin To Net: NetName=PCI 105 Pin=grebpci-109
+Added Pin To Net: NetName=PCI 106 Pin=grebpci-110
+Added Pin To Net: NetName=PCI 107 Pin=grebpci-111
+Added Pin To Net: NetName=PCI 111 Pin=grebpci-115
+Added Pin To Net: NetName=PCI 113 Pin=grebpci-117
+Change Net Name : Old Net Name=Net3.3v_8 New Net Name=Net3.3 ind 4.7 mh_1
+Added Member To Class: ClassName=Sheet1 Member=Component * Induct
+Added Member To Class: ClassName=Sheet1 Member=Component 3.3 ind 4.7 mh Induct
+Added Member To Class: ClassName=Plata.~(40) Member=Component grebpci greb

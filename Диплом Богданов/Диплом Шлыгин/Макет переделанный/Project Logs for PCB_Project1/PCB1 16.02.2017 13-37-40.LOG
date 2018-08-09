@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Net5v_8 Pin=D 5v 1-1
+Removed Pin From Net: NetName=VCC Pin=D 5v 1-2
+Removed Member From Class: ClassName=Plata.~(40) Member=D 5v 1
+Added Component: Designator=s1(1PS76SB10)
+Added Pin To Net: NetName=Net5v_8 Pin=s1-1
+Added Pin To Net: NetName=VCC Pin=s1-2
+Added Member To Class: ClassName=Plata.~(40) Member=Component s1 Shotki1PS76SB10

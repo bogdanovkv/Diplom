@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=BUTTON_RESET Pin=R?-2
+Added Pin To Net: NetName=VCC5 Pin=R?-1
+Added Pin To Net: NetName=VCC5 Pin=R?-1
+Added Pin To Net: NetName=BUTTON_1 Pin=R?-2
+Added Pin To Net: NetName=BUTTON_2 Pin=R?-2
+Added Pin To Net: NetName=BUTTON_3 Pin=R?-2
+Added Pin To Net: NetName=BUTTON_RESET Pin=R?-2
+Added Pin To Net: NetName=Net6464b_0 Pin=6464b-0
+Added Pin To Net: NetName=Net6464b_0 Pin=grlcd-0
+Added Net: Name=Net6464b_0
+Added Pin To Net: NetName=Net6464b_1 Pin=6464b-1
+Added Pin To Net: NetName=Net6464b_1 Pin=grlcd-1
+Added Net: Name=Net6464b_1
+Added Pin To Net: NetName=Net6464b_2 Pin=6464b-2
+Added Pin To Net: NetName=Net6464b_2 Pin=grlcd-2
+Added Net: Name=Net6464b_2
+Added Pin To Net: NetName=Net6464b_3 Pin=6464b-3
+Added Pin To Net: NetName=Net6464b_3 Pin=grlcd-3
+Added Net: Name=Net6464b_3
+Added Pin To Net: NetName=Net6464b_4 Pin=6464b-4
+Added Pin To Net: NetName=Net6464b_4 Pin=grlcd-4
+Added Net: Name=Net6464b_4
+Added Pin To Net: NetName=Net6464b_5 Pin=6464b-5
+Added Pin To Net: NetName=Net6464b_5 Pin=grlcd-5
+Added Net: Name=Net6464b_5
+Added Pin To Net: NetName=Net6464b_6 Pin=6464b-6
+Added Pin To Net: NetName=Net6464b_6 Pin=grlcd-6
+Added Net: Name=Net6464b_6
+Added Pin To Net: NetName=Net6464b_7 Pin=6464b-7
+Added Pin To Net: NetName=Net6464b_7 Pin=grlcd-7
+Added Net: Name=Net6464b_7
+Added Pin To Net: NetName=Net6464b_8 Pin=6464b-8
+Added Pin To Net: NetName=Net6464b_8 Pin=grlcd-8
+Added Net: Name=Net6464b_8
+Added Pin To Net: NetName=Net6464b_9 Pin=6464b-9
+Added Pin To Net: NetName=Net6464b_9 Pin=grlcd-9
+Added Net: Name=Net6464b_9
+Added Pin To Net: NetName=Net6464b_10 Pin=6464b-10
+Added Pin To Net: NetName=Net6464b_10 Pin=grlcd-10
+Added Net: Name=Net6464b_10
+Added Pin To Net: NetName=Net6464b_11 Pin=6464b-11
+Added Pin To Net: NetName=Net6464b_11 Pin=grlcd-11
+Added Net: Name=Net6464b_11
+Added Pin To Net: NetName=Net6464b_12 Pin=6464b-12
+Added Pin To Net: NetName=Net6464b_12 Pin=grlcd-12
+Added Net: Name=Net6464b_12
+Added Pin To Net: NetName=Net6464b_13 Pin=6464b-13
+Added Pin To Net: NetName=Net6464b_13 Pin=grlcd-13
+Added Net: Name=Net6464b_13
+Added Pin To Net: NetName=Net6464b_14 Pin=6464b-14
+Added Pin To Net: NetName=Net6464b_14 Pin=grlcd-14
+Added Net: Name=Net6464b_14
+Added Pin To Net: NetName=Net6464b_15 Pin=6464b-15
+Added Pin To Net: NetName=Net6464b_15 Pin=grlcd-15
+Added Net: Name=Net6464b_15
+Added Pin To Net: NetName=Net6464b_16 Pin=6464b-16
+Added Pin To Net: NetName=Net6464b_16 Pin=grlcd-16
+Added Net: Name=Net6464b_16
+Added Pin To Net: NetName=Net6464b_17 Pin=6464b-17
+Added Pin To Net: NetName=Net6464b_17 Pin=grlcd-17
+Added Net: Name=Net6464b_17
+Added Pin To Net: NetName=Net6464b_18 Pin=6464b-18
+Added Pin To Net: NetName=Net6464b_18 Pin=grlcd-18
+Added Net: Name=Net6464b_18
+Added Pin To Net: NetName=Net6464b_19 Pin=6464b-19
+Added Pin To Net: NetName=Net6464b_19 Pin=grlcd-19
+Added Net: Name=Net6464b_19

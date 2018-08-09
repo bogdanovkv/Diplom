@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=SREG2 Old Footprint=SN74HC164DRX New Footprint=SN74HC164DR-D
+Change Component Footprint: Designator=SREG3 Old Footprint=SN74HC164DRX New Footprint=SN74HC164DR-D
+Change Component Footprint: Designator=SREG4 Old Footprint=SN74HC164DRX New Footprint=SN74HC164DR-D
+Added Member To Class: ClassName=Plata.~(40) Member=Component P3.2 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component  AK-207
+Added Member To Class: ClassName=Plata.~(40) Member=Component  PCI

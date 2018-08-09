@@ -1,0 +1,60 @@
+Change Component Comment : Designator=C1 5v Old Comment=CAPACITY 2,2 ìêô  New Comment=CAPACITY 2,2 ìêô
+Change Component Comment : Designator=C2 5v Old Comment=CAPACITY 2,2 ìêô  New Comment=CAPACITY 2,2 ìêô
+Added Component: Designator=CapSound(R0805)
+Added Component: Designator=dip pull up1(CAT16-102J4LF_2)
+Added Component: Designator=dip pull up2(CAT16-102J4LF_2)
+Added Component: Designator=dip(SWD1-8)
+Added Component: Designator=P9(IDC10)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=ressb_2(CAT16-102J4LF_2)
+Added Component: Designator=RSound(R0805)
+Added Pin To Net: NetName=Netdip_1 Pin=dip-1
+Added Pin To Net: NetName=Netdip_2 Pin=dip-2
+Added Pin To Net: NetName=Netdip_3 Pin=dip-3
+Added Pin To Net: NetName=Netdip_4 Pin=dip-4
+Added Pin To Net: NetName=Netdip_5 Pin=dip-5
+Added Pin To Net: NetName=Netdip_6 Pin=dip-6
+Added Pin To Net: NetName=Netdip_7 Pin=dip-7
+Added Pin To Net: NetName=Netdip_8 Pin=dip-8
+Added Pin To Net: NetName=LCDOE Pin=dip-9
+Added Pin To Net: NetName=LCDOE Pin=dip-10
+Added Pin To Net: NetName=LCDOE Pin=dip-11
+Added Pin To Net: NetName=LCDOE Pin=dip-12
+Added Pin To Net: NetName=LCDOE Pin=dip-13
+Added Pin To Net: NetName=LCDOE Pin=dip-14
+Added Pin To Net: NetName=LCDOE Pin=dip-15
+Added Pin To Net: NetName=LCDOE Pin=dip-16
+Added Pin To Net: NetName=VCC5 Pin=dip pull up1-0
+Added Pin To Net: NetName=VCC5 Pin=dip pull up1-1
+Added Pin To Net: NetName=VCC5 Pin=dip pull up1-2
+Added Pin To Net: NetName=VCC5 Pin=dip pull up1-3
+Added Pin To Net: NetName=Netdip_8 Pin=dip pull up1-4
+Added Pin To Net: NetName=Netdip_7 Pin=dip pull up1-5
+Added Pin To Net: NetName=Netdip_6 Pin=dip pull up1-6
+Added Pin To Net: NetName=Netdip_5 Pin=dip pull up1-7
+Added Pin To Net: NetName=VCC5 Pin=dip pull up2-0
+Added Pin To Net: NetName=VCC5 Pin=dip pull up2-1
+Added Pin To Net: NetName=VCC5 Pin=dip pull up2-2
+Added Pin To Net: NetName=VCC5 Pin=dip pull up2-3
+Added Pin To Net: NetName=Netdip_4 Pin=dip pull up2-4
+Added Pin To Net: NetName=Netdip_3 Pin=dip pull up2-5
+Added Pin To Net: NetName=Netdip_2 Pin=dip pull up2-6
+Added Pin To Net: NetName=Netdip_1 Pin=dip pull up2-7
+Added Pin To Net: NetName=LCDOE Pin=P9-1
+Added Pin To Net: NetName=Netdip_1 Pin=P9-2
+Added Pin To Net: NetName=Netdip_2 Pin=P9-3
+Added Pin To Net: NetName=Netdip_3 Pin=P9-4
+Added Pin To Net: NetName=Netdip_4 Pin=P9-5
+Added Pin To Net: NetName=Netdip_5 Pin=P9-6
+Added Pin To Net: NetName=Netdip_6 Pin=P9-7
+Added Pin To Net: NetName=Netdip_7 Pin=P9-8
+Added Pin To Net: NetName=Netdip_8 Pin=P9-9
+Added Pin To Net: NetName=VCC5 Pin=P9-10
+Added Member To Class: ClassName=Plata.~(40) Member=Component CapSound CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component dip pull up1 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component dip pull up2 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component dip DIP
+Added Member To Class: ClassName=Plata.~(40) Member=Component P9 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component R? R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component ressb_2 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component RSound R0805

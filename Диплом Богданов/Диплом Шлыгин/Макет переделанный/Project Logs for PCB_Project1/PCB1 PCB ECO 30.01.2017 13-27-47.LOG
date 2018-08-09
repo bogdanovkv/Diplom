@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=Netps850l-3_2 Pin=R?-2
+Added Component: Designator=Grebkl(Greb_KL)
+Added Pin To Net: NetName=NetGrebkl_0 Pin=Grebkl-0
+Added Pin To Net: NetName=NetGrebkl_1 Pin=Grebkl-1
+Added Pin To Net: NetName=NetGrebkl_2 Pin=Grebkl-2
+Added Pin To Net: NetName=NetGrebkl_3 Pin=Grebkl-3
+Added Pin To Net: NetName=NetGrebkl_4 Pin=Grebkl-4
+Added Pin To Net: NetName=NetGrebkl_5 Pin=Grebkl-5
+Added Pin To Net: NetName=NetGrebkl_6 Pin=Grebkl-6
+Added Pin To Net: NetName=VCC5 Pin=Grebkl-7
+Added Pin To Net: NetName=GND Pin=Grebkl-8
+Added Pin To Net: NetName=VCC5 Pin=R?-1
+Added Pin To Net: NetName=VCC5 Pin=R?-1
+Added Pin To Net: NetName=VCC5 Pin=R?-1
+Added Pin To Net: NetName=Netps850l-1_2 Pin=R?-2
+Added Pin To Net: NetName=Netps850l-2_2 Pin=R?-2
+Added Pin To Net: NetName=Netps850l-3_2 Pin=R?-2
+Added Pin To Net: NetName=RSTBUT Pin=R?-2
+Added Member To Class: ClassName=Plata Member=Component Grebkl GrebKL

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GENERALVIN Pin=3.3v-2
+Removed Pin From Net: NetName=GENERALVIN Pin=C1vcc3.3-2
+Removed Pin From Net: NetName=VCC1.8 Pin=Connector-126
+Removed Pin From Net: NetName=GENERALVIN Pin=DS-2
+Added Component: Designator=*(SC1566I5M2.5TRT)
+Added Component: Designator=C?(R0805)
+Added Component: Designator=Ceram1(R0805)
+Added Pin To Net: NetName=LCDOE Pin=*-2
+Added Pin To Net: NetName=LCDOE Pin=*-3
+Added Pin To Net: NetName=LCDOE Pin=C?-1
+Added Pin To Net: NetName=LCDOE Pin=Ceram1-2
+Added Pin To Net: NetName=VCC1.8 Pin=Connector-67
+Change Net Name : Old Net Name=GENERALVIN New Net Name=VCC5
+Added Pin To Net: NetName=GENERALVIN Pin=*-0
+Added Pin To Net: NetName=GENERALVIN Pin=*-1
+Added Pin To Net: NetName=GENERALVIN Pin=3.3v-2
+Added Pin To Net: NetName=GENERALVIN Pin=C1vcc3.3-2
+Added Pin To Net: NetName=GENERALVIN Pin=Ceram1-1
+Added Pin To Net: NetName=GENERALVIN Pin=DS-2
+Added Net: Name=GENERALVIN
+Added Pin To Net: NetName=VCC2.5 Pin=*-4
+Added Pin To Net: NetName=VCC2.5 Pin=C?-2
+Added Pin To Net: NetName=VCC2.5 Pin=Connector-126
+Added Net: Name=VCC2.5
+Added Member To Class: ClassName=Sheet1 Member=Component * SC1566IM-2.5TRT
+Added Member To Class: ClassName=Sheet1 Member=Component C? ceram2
+Added Member To Class: ClassName=Sheet1 Member=Component Ceram1 CAPACITY

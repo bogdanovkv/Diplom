@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=POTENT Pin=Connector-96
+Removed Pin From Net: NetName=POTENT Pin=Potent-0
+Change Component Designator: OldDesignator=* NewDesignator=Sound
+Added Component: Designator=AP(IDC10)
+Added Pin To Net: NetName=LCDOE Pin=AP-1
+Added Pin To Net: NetName=POTENT Pin=AP-6
+Added Pin To Net: NetName=VCC5 Pin=AP-10
+Added Pin To Net: NetName=POTENT Pin=Connector-93
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetCapSound_2
+Change Net Name : Old Net Name=POTENT New Net Name=AO4
+Added Pin To Net: NetName=AI1 Pin=AP-2
+Added Pin To Net: NetName=AI1 Pin=Connector-97
+Added Net: Name=AI1
+Added Pin To Net: NetName=AI2 Pin=AP-3
+Added Pin To Net: NetName=AI2 Pin=Connector-98
+Added Net: Name=AI2
+Added Pin To Net: NetName=AI3 Pin=AP-4
+Added Pin To Net: NetName=AI3 Pin=Connector-99
+Added Net: Name=AI3
+Added Pin To Net: NetName=AI4 Pin=AP-5
+Added Pin To Net: NetName=AI4 Pin=Connector-100
+Added Net: Name=AI4
+Added Pin To Net: NetName=AO1 Pin=AP-9
+Added Pin To Net: NetName=AO1 Pin=Connector-96
+Added Pin To Net: NetName=AO1 Pin=Potent-0
+Added Net: Name=AO1
+Added Pin To Net: NetName=AO2 Pin=AP-8
+Added Pin To Net: NetName=AO2 Pin=Connector-95
+Added Net: Name=AO2
+Added Pin To Net: NetName=AO3 Pin=AP-7
+Added Pin To Net: NetName=AO3 Pin=Connector-94
+Added Net: Name=AO3
+Added Member To Class: ClassName=Plata.~(40) Member=Component AP IDC10

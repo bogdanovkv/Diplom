@@ -1,0 +1,1111 @@
+Added Component: Designator=1.1(GREBENKA)
+Added Component: Designator=1.2(GREBENKA)
+Added Component: Designator=2.1(GREBENKA)
+Added Component: Designator=2.2(GREBENKA)
+Added Component: Designator=2.3(GREBENKA)
+Added Component: Designator=2.4(GREBENKA)
+Added Component: Designator=3.3v(LM1085)
+Added Component: Designator=7Segmind(CA56-11EWA)
+Added Component: Designator=A.AP(IDC10)
+Added Component: Designator=AI(IDC10)
+Added Component: Designator=AP1(IDC10)
+Added Component: Designator=AP2(IDC10)
+Added Component: Designator=AR1(Arduino)
+Added Component: Designator=Button1(ps850l)
+Added Component: Designator=Button2(ps850l)
+Added Component: Designator=Button3(ps850l)
+Added Component: Designator=C1(R0805)
+Added Component: Designator=C2(R0805)
+Added Component: Designator=C3(R0805)
+Added Component: Designator=C4(R0805)
+Added Component: Designator=C5(R0805)
+Added Component: Designator=C6(R0805)
+Added Component: Designator=C7(R0805)
+Added Component: Designator=C8(R0805)
+Added Component: Designator=C10(R0805)
+Added Component: Designator=C11(R0805)
+Added Component: Designator=C12(R0805)
+Added Component: Designator=C13(R0805)
+Added Component: Designator=C14(R0805)
+Added Component: Designator=C15(R0805)
+Added Component: Designator=C16(R0805)
+Added Component: Designator=CT1(tantal cap)
+Added Component: Designator=CT2(tantal cap)
+Added Component: Designator=DIO1(IDC10)
+Added Component: Designator=DIO2(IDC10)
+Added Component: Designator=DIO3(IDC10)
+Added Component: Designator=Dip(SWD1-8)
+Added Component: Designator=EL.P.1(IDC10)
+Added Component: Designator=P1.1(IDC10)
+Added Component: Designator=P1.2(IDC10)
+Added Component: Designator=P1(IDC10)
+Added Component: Designator=P2.1.1(IDC10)
+Added Component: Designator=P2.2(IDC10)
+Added Component: Designator=P2(IDC10)
+Added Component: Designator=P3.2(IDC10)
+Added Component: Designator=P3.2(IDC10)
+Added Component: Designator=P3(IDC10)
+Added Component: Designator=P4(IDC10)
+Added Component: Designator=P5(IDC10)
+Added Component: Designator=P6(IDC10)
+Added Component: Designator=P8(IDC10)
+Added Component: Designator=P9(IDC10)
+Added Component: Designator=PFI(IDC10)
+Added Component: Designator=R1_4(CAT16-102J4LF)
+Added Component: Designator=R1(R0805)
+Added Component: Designator=R2(R0805)
+Added Component: Designator=R3(R0805)
+Added Component: Designator=R4(R0805)
+Added Component: Designator=R5(R0805)
+Added Component: Designator=R6(R0805)
+Added Component: Designator=R7(R0805)
+Added Component: Designator=R8(R0805)
+Added Component: Designator=R9(R0805)
+Added Component: Designator=R10(R0805)
+Added Component: Designator=R11(R0805)
+Added Component: Designator=R12(R0805)
+Added Component: Designator=R13(R0805)
+Added Component: Designator=R14(R0805)
+Added Component: Designator=R15(R0805)
+Added Component: Designator=RA1(CAT16-102J4LF)
+Added Component: Designator=RA2(CAT16-102J4LF)
+Added Component: Designator=RA3(CAT16-102J4LF_2)
+Added Component: Designator=RA4(CAT16-102J4LF_2)
+Added Component: Designator=RA5(CAT16-102J4LF)
+Added Component: Designator=RA6(CAT16-102J4LF)
+Added Component: Designator=RA7(CAT16-102J4LF_2)
+Added Component: Designator=RA8(CAT16-102J4LF)
+Added Component: Designator=RA9(CAT16-102J4LF_2)
+Added Component: Designator=RA10(CAT16-102J4LF)
+Added Component: Designator=RA11(CAT16-102J4LF)
+Added Component: Designator=RA12(CAT16-102J4LF_2)
+Added Component: Designator=RA13(CAT16-102J4LF_2)
+Added Component: Designator=RA14(CAT16-102J4LF_2)
+Added Component: Designator=RA15(CAT16-102J4LF)
+Added Component: Designator=RA16(CAT16-102J4LF_2)
+Added Component: Designator=RA17(CAT16-102J4LF_2)
+Added Component: Designator=RA18(CAT16-102J4LF_2)
+Added Component: Designator=RA19(CAT16-102J4LF_2)
+Added Component: Designator=RESET(ps850l)
+Added Component: Designator=ressb_2(CAT16-102J4LF_2)
+Added Component: Designator=Rvar1(R-0904N-A10K, L20KC)
+Added Component: Designator=Rvar2(R-0904N-A10K, L20KC)
+Added Component: Designator=Rvar3(R-0904N-A10K, L20KC)
+Added Component: Designator=Sound(SCS-17-P10)
+Added Component: Designator=SREG1(SN74HC164DR-D)
+Added Component: Designator=SREG2(SN74HC164DR-D)
+Added Component: Designator=SREG3(SN74HC164DR-D)
+Added Component: Designator=SREG4(SN74HC164DR-D)
+Added Component: Designator=SREGLCD(SN74HC164DRX)
+Added Component: Designator=(AK-207)
+Added Component: Designator=TPS 1v(SOT223-5)
+Added Component: Designator=Vcc1.8(IRU1010-18)
+Added Component: Designator=Vcc2.5(sot223)
+Added Component: Designator=VccPlata(Connect)
+Added Component: Designator=VD1(R0805)
+Added Component: Designator=VD2(R0805)
+Added Component: Designator=Vin(ds-313)
+Added Component: Designator=WG12864A(WG12864A)
+Added Pin To Net: NetName=Net_1 Pin=-1
+Added Pin To Net: NetName=Net_2 Pin=-2
+Added Pin To Net: NetName=Net_3 Pin=-3
+Added Pin To Net: NetName=Net_4 Pin=-4
+Added Pin To Net: NetName=Net_5 Pin=-5
+Added Pin To Net: NetName=Net_6 Pin=-6
+Added Pin To Net: NetName=Net_7 Pin=-7
+Added Pin To Net: NetName=G1.1_1 Pin=1.1-1
+Added Pin To Net: NetName=G1.1_2 Pin=1.1-2
+Added Pin To Net: NetName=G1.1_3 Pin=1.1-3
+Added Pin To Net: NetName=G1.1_4 Pin=1.1-4
+Added Pin To Net: NetName=G1.1_5 Pin=1.1-5
+Added Pin To Net: NetName=G1.1_6 Pin=1.1-6
+Added Pin To Net: NetName=G1.1_7 Pin=1.1-7
+Added Pin To Net: NetName=G1.1_8 Pin=1.1-8
+Added Pin To Net: NetName=G1.1_9 Pin=1.1-9
+Added Pin To Net: NetName=G1.1_10 Pin=1.1-10
+Added Pin To Net: NetName=G1.1_11 Pin=1.1-11
+Added Pin To Net: NetName=G1.1_12 Pin=1.1-12
+Added Pin To Net: NetName=G1.1_13 Pin=1.1-13
+Added Pin To Net: NetName=G1.1_14 Pin=1.1-14
+Added Pin To Net: NetName=G1.1_15 Pin=1.1-15
+Added Pin To Net: NetName=G1.1_16 Pin=1.1-16
+Added Pin To Net: NetName=VCC1 Pin=1.1-17
+Added Pin To Net: NetName=VCC1.8 Pin=1.1-18
+Added Pin To Net: NetName=VCC2.5 Pin=1.1-19
+Added Pin To Net: NetName=VCC3.3 Pin=1.1-20
+Added Pin To Net: NetName=A.RESET Pin=1.1-21
+Added Pin To Net: NetName=LCDOE Pin=1.1-22
+Added Pin To Net: NetName=LCDOE Pin=1.1-23
+Added Pin To Net: NetName=LCDOE Pin=1.1-24
+Added Pin To Net: NetName=UARTTX1 Pin=1.2-16
+Added Pin To Net: NetName=UARTTX2 Pin=1.2-17
+Added Pin To Net: NetName=SCK Pin=1.2-18
+Added Pin To Net: NetName=SS Pin=1.2-19
+Added Pin To Net: NetName=I2C SCK Pin=1.2-20
+Added Pin To Net: NetName=I2C SDA Pin=1.2-21
+Added Pin To Net: NetName=MISO Pin=1.2-22
+Added Pin To Net: NetName=MOSI Pin=1.2-23
+Added Pin To Net: NetName=UARTRX2 Pin=1.2-24
+Added Pin To Net: NetName=UARTRX1 Pin=1.2-25
+Added Pin To Net: NetName=G2.2_1 Pin=2.1-1
+Added Pin To Net: NetName=G2.2_2 Pin=2.1-2
+Added Pin To Net: NetName=G2.2_3 Pin=2.1-3
+Added Pin To Net: NetName=G2.2_4 Pin=2.1-4
+Added Pin To Net: NetName=G2.2_5 Pin=2.1-5
+Added Pin To Net: NetName=G2.2_6 Pin=2.1-6
+Added Pin To Net: NetName=G2.2_7 Pin=2.1-7
+Added Pin To Net: NetName=G2.2_8 Pin=2.1-8
+Added Pin To Net: NetName=G2.2_9 Pin=2.1-9
+Added Pin To Net: NetName=G2.2_10 Pin=2.1-10
+Added Pin To Net: NetName=G2.2_11 Pin=2.1-11
+Added Pin To Net: NetName=G2.2_12 Pin=2.1-12
+Added Pin To Net: NetName=G2.2_13 Pin=2.1-13
+Added Pin To Net: NetName=G2.2_14 Pin=2.1-14
+Added Pin To Net: NetName=G2.2_15 Pin=2.1-15
+Added Pin To Net: NetName=G2.2_16 Pin=2.1-16
+Added Pin To Net: NetName=VCC1 Pin=2.1-17
+Added Pin To Net: NetName=VCC1.8 Pin=2.1-18
+Added Pin To Net: NetName=VCC2.5 Pin=2.1-19
+Added Pin To Net: NetName=VCC3.3 Pin=2.1-20
+Added Pin To Net: NetName=A.RESET Pin=2.1-21
+Added Pin To Net: NetName=LCDOE Pin=2.1-22
+Added Pin To Net: NetName=LCDOE Pin=2.1-23
+Added Pin To Net: NetName=LCDOE Pin=2.1-24
+Added Pin To Net: NetName=UARTTX1 Pin=2.2-16
+Added Pin To Net: NetName=UARTTX2 Pin=2.2-17
+Added Pin To Net: NetName=SCK Pin=2.2-18
+Added Pin To Net: NetName=SS Pin=2.2-19
+Added Pin To Net: NetName=I2C SCK Pin=2.2-20
+Added Pin To Net: NetName=I2C SDA Pin=2.2-21
+Added Pin To Net: NetName=MISO Pin=2.2-22
+Added Pin To Net: NetName=MOSI Pin=2.2-23
+Added Pin To Net: NetName=UARTRX2 Pin=2.2-24
+Added Pin To Net: NetName=UARTRX1 Pin=2.2-25
+Added Pin To Net: NetName=G3.2_1 Pin=2.3-1
+Added Pin To Net: NetName=G3.2_2 Pin=2.3-2
+Added Pin To Net: NetName=G3.2_3 Pin=2.3-3
+Added Pin To Net: NetName=G3.2_4 Pin=2.3-4
+Added Pin To Net: NetName=G3.2_5 Pin=2.3-5
+Added Pin To Net: NetName=G3.2_6 Pin=2.3-6
+Added Pin To Net: NetName=G3.2_7 Pin=2.3-7
+Added Pin To Net: NetName=G3.2_8 Pin=2.3-8
+Added Pin To Net: NetName=G3.2_9 Pin=2.3-9
+Added Pin To Net: NetName=G3.2_10 Pin=2.3-10
+Added Pin To Net: NetName=G3.2_11 Pin=2.3-11
+Added Pin To Net: NetName=G3.2_12 Pin=2.3-12
+Added Pin To Net: NetName=G3.2_13 Pin=2.3-13
+Added Pin To Net: NetName=G3.2_14 Pin=2.3-14
+Added Pin To Net: NetName=G3.2_15 Pin=2.3-15
+Added Pin To Net: NetName=G3.2_16 Pin=2.3-16
+Added Pin To Net: NetName=VCC1 Pin=2.3-17
+Added Pin To Net: NetName=VCC1.8 Pin=2.3-18
+Added Pin To Net: NetName=VCC2.5 Pin=2.3-19
+Added Pin To Net: NetName=VCC3.3 Pin=2.3-20
+Added Pin To Net: NetName=A.RESET Pin=2.3-21
+Added Pin To Net: NetName=LCDOE Pin=2.3-22
+Added Pin To Net: NetName=LCDOE Pin=2.3-23
+Added Pin To Net: NetName=LCDOE Pin=2.3-24
+Added Pin To Net: NetName=A.AO 1 Pin=2.4-1
+Added Pin To Net: NetName=A.AO 2 Pin=2.4-2
+Added Pin To Net: NetName=A.AO 3 Pin=2.4-3
+Added Pin To Net: NetName=A.AO 4 Pin=2.4-4
+Added Pin To Net: NetName=A.AO 5 Pin=2.4-5
+Added Pin To Net: NetName=A.AO 6 Pin=2.4-6
+Added Pin To Net: NetName=NC Pin=2.4-7
+Added Pin To Net: NetName=LCDOE Pin=2.4-8
+Added Pin To Net: NetName=LCDOE Pin=2.4-9
+Added Pin To Net: NetName=A.RESET Pin=2.4-10
+Added Pin To Net: NetName=VCC3.3 Pin=2.4-11
+Added Pin To Net: NetName=A.RESET Pin=2.4-12
+Added Pin To Net: NetName=IOREF Pin=2.4-13
+Added Pin To Net: NetName=UARTTX1 Pin=2.4-16
+Added Pin To Net: NetName=UARTTX2 Pin=2.4-17
+Added Pin To Net: NetName=SCK Pin=2.4-18
+Added Pin To Net: NetName=SS Pin=2.4-19
+Added Pin To Net: NetName=I2C SCK Pin=2.4-20
+Added Pin To Net: NetName=I2C SDA Pin=2.4-21
+Added Pin To Net: NetName=MISO Pin=2.4-22
+Added Pin To Net: NetName=MOSI Pin=2.4-23
+Added Pin To Net: NetName=UARTRX2 Pin=2.4-24
+Added Pin To Net: NetName=UARTRX1 Pin=2.4-25
+Added Pin To Net: NetName=LCDOE Pin=3.3v-0
+Added Pin To Net: NetName=VCC3.3 Pin=3.3v-1
+Added Pin To Net: NetName=A.RESET Pin=3.3v-2
+Added Pin To Net: NetName=Net7Segmind_1 Pin=7Segmind-1
+Added Pin To Net: NetName=Net7Segmind_2 Pin=7Segmind-2
+Added Pin To Net: NetName=Net7Segmind_3 Pin=7Segmind-3
+Added Pin To Net: NetName=Net7Segmind_4 Pin=7Segmind-4
+Added Pin To Net: NetName=Net7Segmind_5 Pin=7Segmind-5
+Added Pin To Net: NetName=Net7Segmind_6 Pin=7Segmind-6
+Added Pin To Net: NetName=Net7Segmind_7 Pin=7Segmind-7
+Added Pin To Net: NetName=Net7Segmind_8 Pin=7Segmind-8
+Added Pin To Net: NetName=Net7Segmind_9 Pin=7Segmind-9
+Added Pin To Net: NetName=Net7Segmind_10 Pin=7Segmind-10
+Added Pin To Net: NetName=Net7Segmind_11 Pin=7Segmind-11
+Added Pin To Net: NetName=Net7Segmind_12 Pin=7Segmind-12
+Added Pin To Net: NetName=Net7Segmind_13 Pin=7Segmind-13
+Added Pin To Net: NetName=Net7Segmind_14 Pin=7Segmind-14
+Added Pin To Net: NetName=Net7Segmind_15 Pin=7Segmind-15
+Added Pin To Net: NetName=Net7Segmind_16 Pin=7Segmind-16
+Added Pin To Net: NetName=Net7Segmind_17 Pin=7Segmind-17
+Added Pin To Net: NetName=Net7Segmind_18 Pin=7Segmind-18
+Added Pin To Net: NetName=Net7Segmind_19 Pin=7Segmind-19
+Added Pin To Net: NetName=Net7Segmind_20 Pin=7Segmind-20
+Added Pin To Net: NetName=Net7Segmind_21 Pin=7Segmind-21
+Added Pin To Net: NetName=Net7Segmind_22 Pin=7Segmind-22
+Added Pin To Net: NetName=Net7Segmind_22 Pin=7Segmind-23
+Added Pin To Net: NetName=Net7Segmind_24 Pin=7Segmind-24
+Added Pin To Net: NetName=Net7Segmind_25 Pin=7Segmind-25
+Added Pin To Net: NetName=Net7Segmind_26 Pin=7Segmind-26
+Added Pin To Net: NetName=Net7Segmind_27 Pin=7Segmind-27
+Added Pin To Net: NetName=Net7Segmind_28 Pin=7Segmind-28
+Added Pin To Net: NetName=Net7Segmind_29 Pin=7Segmind-29
+Added Pin To Net: NetName=Net7Segmind_30 Pin=7Segmind-30
+Added Pin To Net: NetName=Net7Segmind_22 Pin=7Segmind-31
+Added Pin To Net: NetName=Net7Segmind_22 Pin=7Segmind-32
+Added Pin To Net: NetName=Net7Segmind_33 Pin=7Segmind-33
+Added Pin To Net: NetName=Net7Segmind_34 Pin=7Segmind-34
+Added Pin To Net: NetName=Net7Segmind_35 Pin=7Segmind-35
+Added Pin To Net: NetName=Net7Segmind_36 Pin=7Segmind-36
+Added Pin To Net: NetName=A.AO 1 Pin=A.AP-1
+Added Pin To Net: NetName=A.AO 2 Pin=A.AP-2
+Added Pin To Net: NetName=A.AO 3 Pin=A.AP-3
+Added Pin To Net: NetName=A.AO 4 Pin=A.AP-4
+Added Pin To Net: NetName=A.AO 5 Pin=A.AP-5
+Added Pin To Net: NetName=A.AO 6 Pin=A.AP-6
+Added Pin To Net: NetName=IOREF Pin=A.AP-7
+Added Pin To Net: NetName=LCDOE Pin=AI-1
+Added Pin To Net: NetName=PCI 44 Pin=AI-2
+Added Pin To Net: NetName=PCI 43 Pin=AI-3
+Added Pin To Net: NetName=PCI 42 Pin=AI-4
+Added Pin To Net: NetName=PCI 41 Pin=AI-5
+Added Pin To Net: NetName=PCI 39 Pin=AI-6
+Added Pin To Net: NetName=PCI 38 Pin=AI-7
+Added Pin To Net: NetName=PCI 37 Pin=AI-8
+Added Pin To Net: NetName=PCI 36 Pin=AI-9
+Added Pin To Net: NetName=VCCPLATA Pin=AI-10
+Added Pin To Net: NetName=LCDOE Pin=AP1-1
+Added Pin To Net: NetName=IDC10.7. 1 Pin=AP1-2
+Added Pin To Net: NetName=IDC10.7. 2 Pin=AP1-3
+Added Pin To Net: NetName=IDC10.7. 3 Pin=AP1-4
+Added Pin To Net: NetName=IDC10.7. 4 Pin=AP1-5
+Added Pin To Net: NetName=IDC10.7. 8 Pin=AP1-6
+Added Pin To Net: NetName=IDC10.7. 7 Pin=AP1-7
+Added Pin To Net: NetName=IDC10.7. 6 Pin=AP1-8
+Added Pin To Net: NetName=IDC10.7. 5 Pin=AP1-9
+Added Pin To Net: NetName=VCCPLATA Pin=AP1-10
+Added Pin To Net: NetName=LCDOE Pin=AP2-1
+Added Pin To Net: NetName=AI1 Pin=AP2-2
+Added Pin To Net: NetName=AI2 Pin=AP2-3
+Added Pin To Net: NetName=AI3 Pin=AP2-4
+Added Pin To Net: NetName=AI4 Pin=AP2-5
+Added Pin To Net: NetName=AO4 Pin=AP2-6
+Added Pin To Net: NetName=AO3 Pin=AP2-7
+Added Pin To Net: NetName=AO2 Pin=AP2-8
+Added Pin To Net: NetName=AO1 Pin=AP2-9
+Added Pin To Net: NetName=VCCPLATA Pin=AP2-10
+Added Pin To Net: NetName=G3.2_15 Pin=AR1-0
+Added Pin To Net: NetName=G3.2_14 Pin=AR1-1
+Added Pin To Net: NetName=G3.2_13 Pin=AR1-2
+Added Pin To Net: NetName=G3.2_12 Pin=AR1-3
+Added Pin To Net: NetName=LCDOE Pin=AR1-4
+Added Pin To Net: NetName=G3.2_11 Pin=AR1-5
+Added Pin To Net: NetName=G3.2_10 Pin=AR1-6
+Added Pin To Net: NetName=G3.2_9 Pin=AR1-7
+Added Pin To Net: NetName=G3.2_8 Pin=AR1-8
+Added Pin To Net: NetName=G3.2_7 Pin=AR1-9
+Added Pin To Net: NetName=G3.2_6 Pin=AR1-10
+Added Pin To Net: NetName=G3.2_5 Pin=AR1-11
+Added Pin To Net: NetName=G3.2_4 Pin=AR1-12
+Added Pin To Net: NetName=G3.2_3 Pin=AR1-13
+Added Pin To Net: NetName=G3.2_2 Pin=AR1-14
+Added Pin To Net: NetName=G3.2_1 Pin=AR1-15
+Added Pin To Net: NetName=UARTTX2 Pin=AR1-16
+Added Pin To Net: NetName=UARTRX2 Pin=AR1-17
+Added Pin To Net: NetName=BUTTON_1 Pin=Button1-2
+Added Pin To Net: NetName=LCDOE Pin=Button1-3
+Added Pin To Net: NetName=LCDOE Pin=Button1-4
+Added Pin To Net: NetName=BUTTON_1 Pin=Button1-5
+Added Pin To Net: NetName=BUTTON_3 Pin=Button2-2
+Added Pin To Net: NetName=LCDOE Pin=Button2-3
+Added Pin To Net: NetName=LCDOE Pin=Button2-4
+Added Pin To Net: NetName=BUTTON_3 Pin=Button2-5
+Added Pin To Net: NetName=BUTTON_2 Pin=Button3-2
+Added Pin To Net: NetName=LCDOE Pin=Button3-3
+Added Pin To Net: NetName=LCDOE Pin=Button3-4
+Added Pin To Net: NetName=BUTTON_2 Pin=Button3-5
+Added Pin To Net: NetName=LCDOE Pin=C1-1
+Added Pin To Net: NetName=VCC3.3 Pin=C1-2
+Added Pin To Net: NetName=LCDOE Pin=C2-1
+Added Pin To Net: NetName=A.RESET Pin=C2-2
+Added Pin To Net: NetName=LCDOE Pin=C3-1
+Added Pin To Net: NetName=VCC1.8 Pin=C3-2
+Added Pin To Net: NetName=LCDOE Pin=C4-1
+Added Pin To Net: NetName=VCC2.5 Pin=C4-2
+Added Pin To Net: NetName=LCDOE Pin=C5-1
+Added Pin To Net: NetName=A.RESET Pin=C5-2
+Added Pin To Net: NetName=LCDOE Pin=C6-1
+Added Pin To Net: NetName=A.RESET Pin=C6-2
+Added Pin To Net: NetName=LCDOE Pin=C7-1
+Added Pin To Net: NetName=VCC1 Pin=C7-2
+Added Pin To Net: NetName=LCDOE Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=VCCPLATA Pin=C10-1
+Added Pin To Net: NetName=LCDOE Pin=C10-2
+Added Pin To Net: NetName=Net7Segmind_22 Pin=C11-1
+Added Pin To Net: NetName=LCDOE Pin=C11-2
+Added Pin To Net: NetName=VCCPLATA Pin=C12-1
+Added Pin To Net: NetName=LCDOE Pin=C12-2
+Added Pin To Net: NetName=VCCPLATA Pin=C13-1
+Added Pin To Net: NetName=LCDOE Pin=C13-2
+Added Pin To Net: NetName=VCCPLATA Pin=C14-1
+Added Pin To Net: NetName=LCDOE Pin=C14-2
+Added Pin To Net: NetName=VCCPLATA Pin=C15-1
+Added Pin To Net: NetName=LCDOE Pin=C15-2
+Added Pin To Net: NetName=LCDOE Pin=C16-1
+Added Pin To Net: NetName=VCCPLATA Pin=C16-2
+Added Pin To Net: NetName=LCDOE Pin=CT1-0
+Added Pin To Net: NetName=A.RESET Pin=CT1-1
+Added Pin To Net: NetName=LCDOE Pin=CT2-0
+Added Pin To Net: NetName=PCI 3 Pin=CT2-1
+Added Pin To Net: NetName=LCDOE Pin=DIO1-1
+Added Pin To Net: NetName=DIO 0 Pin=DIO1-2
+Added Pin To Net: NetName=DIO 2 Pin=DIO1-3
+Added Pin To Net: NetName=DIO 4 Pin=DIO1-4
+Added Pin To Net: NetName=DIO 6 Pin=DIO1-5
+Added Pin To Net: NetName=DIO 7 Pin=DIO1-6
+Added Pin To Net: NetName=DIO 5 Pin=DIO1-7
+Added Pin To Net: NetName=DIO 3 Pin=DIO1-8
+Added Pin To Net: NetName=DIO 1 Pin=DIO1-9
+Added Pin To Net: NetName=VCCPLATA Pin=DIO1-10
+Added Pin To Net: NetName=LCDOE Pin=DIO2-1
+Added Pin To Net: NetName=DIO 8 Pin=DIO2-2
+Added Pin To Net: NetName=DIO 10 Pin=DIO2-3
+Added Pin To Net: NetName=DIO 12 Pin=DIO2-4
+Added Pin To Net: NetName=DIO 14 Pin=DIO2-5
+Added Pin To Net: NetName=DIO 15 Pin=DIO2-6
+Added Pin To Net: NetName=DIO 13 Pin=DIO2-7
+Added Pin To Net: NetName=DIO 11 Pin=DIO2-8
+Added Pin To Net: NetName=DIO 9 Pin=DIO2-9
+Added Pin To Net: NetName=VCCPLATA Pin=DIO2-10
+Added Pin To Net: NetName=LCDOE Pin=DIO3-1
+Added Pin To Net: NetName=DIO 16 Pin=DIO3-2
+Added Pin To Net: NetName=DIO 18 Pin=DIO3-3
+Added Pin To Net: NetName=DIO 20 Pin=DIO3-4
+Added Pin To Net: NetName=DIO22 Pin=DIO3-5
+Added Pin To Net: NetName=DIO23 Pin=DIO3-6
+Added Pin To Net: NetName=DIO 21 Pin=DIO3-7
+Added Pin To Net: NetName=DIO 19 Pin=DIO3-8
+Added Pin To Net: NetName=DIO 17 Pin=DIO3-9
+Added Pin To Net: NetName=VCCPLATA Pin=DIO3-10
+Added Pin To Net: NetName=NetDip_1 Pin=Dip-1
+Added Pin To Net: NetName=NetDip_2 Pin=Dip-2
+Added Pin To Net: NetName=NetDip_3 Pin=Dip-3
+Added Pin To Net: NetName=NetDip_4 Pin=Dip-4
+Added Pin To Net: NetName=NetDip_5 Pin=Dip-5
+Added Pin To Net: NetName=NetDip_6 Pin=Dip-6
+Added Pin To Net: NetName=NetDip_7 Pin=Dip-7
+Added Pin To Net: NetName=NetDip_8 Pin=Dip-8
+Added Pin To Net: NetName=LCDOE Pin=Dip-9
+Added Pin To Net: NetName=LCDOE Pin=Dip-10
+Added Pin To Net: NetName=LCDOE Pin=Dip-11
+Added Pin To Net: NetName=LCDOE Pin=Dip-12
+Added Pin To Net: NetName=LCDOE Pin=Dip-13
+Added Pin To Net: NetName=LCDOE Pin=Dip-14
+Added Pin To Net: NetName=LCDOE Pin=Dip-15
+Added Pin To Net: NetName=LCDOE Pin=Dip-16
+Added Pin To Net: NetName=LCDOE Pin=EL.P.1-1
+Added Pin To Net: NetName=PCI 65 Pin=EL.P.1-2
+Added Pin To Net: NetName=PCI 64 Pin=EL.P.1-3
+Added Pin To Net: NetName=PCI 57 Pin=EL.P.1-5
+Added Pin To Net: NetName=PCI 56 Pin=EL.P.1-6
+Added Pin To Net: NetName=PCI 54 Pin=EL.P.1-7
+Added Pin To Net: NetName=PCI 48 Pin=EL.P.1-8
+Added Pin To Net: NetName=VCCPLATA Pin=EL.P.1-10
+Added Pin To Net: NetName=LCDOE Pin=P1-1
+Added Pin To Net: NetName=IDC10.1. 1 Pin=P1-2
+Added Pin To Net: NetName=IDC10.1. 2 Pin=P1-3
+Added Pin To Net: NetName=IDC10.1. 3 Pin=P1-4
+Added Pin To Net: NetName=IDC10.1. 4 Pin=P1-5
+Added Pin To Net: NetName=IDC10.1. 8 Pin=P1-6
+Added Pin To Net: NetName=IDC10.1. 7 Pin=P1-7
+Added Pin To Net: NetName=IDC10.1. 6 Pin=P1-8
+Added Pin To Net: NetName=IDC10.1. 5 Pin=P1-9
+Added Pin To Net: NetName=VCCPLATA Pin=P1-10
+Added Pin To Net: NetName=G1.1_1 Pin=P1.1-2
+Added Pin To Net: NetName=G1.1_2 Pin=P1.1-3
+Added Pin To Net: NetName=G1.1_3 Pin=P1.1-4
+Added Pin To Net: NetName=G1.1_4 Pin=P1.1-5
+Added Pin To Net: NetName=G1.1_8 Pin=P1.1-6
+Added Pin To Net: NetName=G1.1_7 Pin=P1.1-7
+Added Pin To Net: NetName=G1.1_6 Pin=P1.1-8
+Added Pin To Net: NetName=G1.1_5 Pin=P1.1-9
+Added Pin To Net: NetName=VCCPLATA Pin=P1.1-10
+Added Pin To Net: NetName=LCDOE Pin=P1.2-1
+Added Pin To Net: NetName=G1.1_9 Pin=P1.2-2
+Added Pin To Net: NetName=G1.1_10 Pin=P1.2-3
+Added Pin To Net: NetName=G1.1_11 Pin=P1.2-4
+Added Pin To Net: NetName=G1.1_12 Pin=P1.2-5
+Added Pin To Net: NetName=G1.1_16 Pin=P1.2-6
+Added Pin To Net: NetName=G1.1_15 Pin=P1.2-7
+Added Pin To Net: NetName=G1.1_14 Pin=P1.2-8
+Added Pin To Net: NetName=G1.1_13 Pin=P1.2-9
+Added Pin To Net: NetName=VCCPLATA Pin=P1.2-10
+Added Pin To Net: NetName=LCDOE Pin=P2-1
+Added Pin To Net: NetName=IDC10.2. 1 Pin=P2-2
+Added Pin To Net: NetName=IDC10.2. 2 Pin=P2-3
+Added Pin To Net: NetName=IDC10.2. 3 Pin=P2-4
+Added Pin To Net: NetName=IDC10.2. 4 Pin=P2-5
+Added Pin To Net: NetName=IDC10.2. 8 Pin=P2-6
+Added Pin To Net: NetName=IDC10.2. 7 Pin=P2-7
+Added Pin To Net: NetName=IDC10.2. 6 Pin=P2-8
+Added Pin To Net: NetName=IDC10.2. 5 Pin=P2-9
+Added Pin To Net: NetName=VCCPLATA Pin=P2-10
+Added Pin To Net: NetName=LCDOE Pin=P2.1.1-1
+Added Pin To Net: NetName=G2.2_1 Pin=P2.1.1-2
+Added Pin To Net: NetName=G2.2_2 Pin=P2.1.1-3
+Added Pin To Net: NetName=G2.2_3 Pin=P2.1.1-4
+Added Pin To Net: NetName=G2.2_4 Pin=P2.1.1-5
+Added Pin To Net: NetName=G2.2_8 Pin=P2.1.1-6
+Added Pin To Net: NetName=G2.2_7 Pin=P2.1.1-7
+Added Pin To Net: NetName=G2.2_6 Pin=P2.1.1-8
+Added Pin To Net: NetName=G2.2_5 Pin=P2.1.1-9
+Added Pin To Net: NetName=VCCPLATA Pin=P2.1.1-10
+Added Pin To Net: NetName=LCDOE Pin=P2.2-1
+Added Pin To Net: NetName=G2.2_9 Pin=P2.2-2
+Added Pin To Net: NetName=G2.2_10 Pin=P2.2-3
+Added Pin To Net: NetName=G2.2_11 Pin=P2.2-4
+Added Pin To Net: NetName=G2.2_12 Pin=P2.2-5
+Added Pin To Net: NetName=G2.2_16 Pin=P2.2-6
+Added Pin To Net: NetName=G2.2_15 Pin=P2.2-7
+Added Pin To Net: NetName=G2.2_14 Pin=P2.2-8
+Added Pin To Net: NetName=G2.2_13 Pin=P2.2-9
+Added Pin To Net: NetName=VCCPLATA Pin=P2.2-10
+Added Pin To Net: NetName=LCDOE Pin=P3-1
+Added Pin To Net: NetName=IDC10.3. 1 Pin=P3-2
+Added Pin To Net: NetName=IDC10.3. 2 Pin=P3-3
+Added Pin To Net: NetName=IDC10.3. 3 Pin=P3-4
+Added Pin To Net: NetName=IDC10.3. 4 Pin=P3-5
+Added Pin To Net: NetName=IDC10.3. 8 Pin=P3-6
+Added Pin To Net: NetName=IDC10.3. 7 Pin=P3-7
+Added Pin To Net: NetName=IDC10.3. 6 Pin=P3-8
+Added Pin To Net: NetName=IDC10.3. 5 Pin=P3-9
+Added Pin To Net: NetName=VCCPLATA Pin=P3-10
+Added Pin To Net: NetName=LCDOE Pin=P3.2-1
+Added Pin To Net: NetName=LCDOE Pin=P3.2-1
+Added Pin To Net: NetName=G3.2_1 Pin=P3.2-2
+Added Pin To Net: NetName=G3.2_9 Pin=P3.2-2
+Added Pin To Net: NetName=G3.2_2 Pin=P3.2-3
+Added Pin To Net: NetName=G3.2_10 Pin=P3.2-3
+Added Pin To Net: NetName=G3.2_3 Pin=P3.2-4
+Added Pin To Net: NetName=G3.2_11 Pin=P3.2-4
+Added Pin To Net: NetName=G3.2_4 Pin=P3.2-5
+Added Pin To Net: NetName=G3.2_12 Pin=P3.2-5
+Added Pin To Net: NetName=G3.2_8 Pin=P3.2-6
+Added Pin To Net: NetName=G3.2_16 Pin=P3.2-6
+Added Pin To Net: NetName=G3.2_7 Pin=P3.2-7
+Added Pin To Net: NetName=G3.2_15 Pin=P3.2-7
+Added Pin To Net: NetName=G3.2_6 Pin=P3.2-8
+Added Pin To Net: NetName=G3.2_14 Pin=P3.2-8
+Added Pin To Net: NetName=G3.2_5 Pin=P3.2-9
+Added Pin To Net: NetName=G3.2_13 Pin=P3.2-9
+Added Pin To Net: NetName=VCCPLATA Pin=P3.2-10
+Added Pin To Net: NetName=VCCPLATA Pin=P3.2-10
+Added Pin To Net: NetName=LCDOE Pin=P4-1
+Added Pin To Net: NetName=IDC10.4. 1 Pin=P4-2
+Added Pin To Net: NetName=IDC10.4. 2 Pin=P4-3
+Added Pin To Net: NetName=IDC10.4. 3 Pin=P4-4
+Added Pin To Net: NetName=IDC10.4. 4 Pin=P4-5
+Added Pin To Net: NetName=IDC10.4. 8 Pin=P4-6
+Added Pin To Net: NetName=IDC10.4. 7 Pin=P4-7
+Added Pin To Net: NetName=IDC10.4. 6 Pin=P4-8
+Added Pin To Net: NetName=IDC10.4. 5 Pin=P4-9
+Added Pin To Net: NetName=VCCPLATA Pin=P4-10
+Added Pin To Net: NetName=LCDOE Pin=P5-1
+Added Pin To Net: NetName=IDC10.5. 1 Pin=P5-2
+Added Pin To Net: NetName=IDC10.5. 2 Pin=P5-3
+Added Pin To Net: NetName=IDC10.5. 3 Pin=P5-4
+Added Pin To Net: NetName=IDC10.5. 4 Pin=P5-5
+Added Pin To Net: NetName=IDC10.5. 8 Pin=P5-6
+Added Pin To Net: NetName=IDC10.5. 7 Pin=P5-7
+Added Pin To Net: NetName=IDC10.5. 6 Pin=P5-8
+Added Pin To Net: NetName=IDC10.5. 5 Pin=P5-9
+Added Pin To Net: NetName=VCCPLATA Pin=P5-10
+Added Pin To Net: NetName=LCDOE Pin=P6-1
+Added Pin To Net: NetName=IDC10.6. 1 Pin=P6-2
+Added Pin To Net: NetName=IDC10.6. 2 Pin=P6-3
+Added Pin To Net: NetName=IDC10.6. 3 Pin=P6-4
+Added Pin To Net: NetName=IDC10.6. 4 Pin=P6-5
+Added Pin To Net: NetName=IDC10.6. 8 Pin=P6-6
+Added Pin To Net: NetName=IDC10.6. 7 Pin=P6-7
+Added Pin To Net: NetName=IDC10.6. 6 Pin=P6-8
+Added Pin To Net: NetName=IDC10.6. 5 Pin=P6-9
+Added Pin To Net: NetName=VCCPLATA Pin=P6-10
+Added Pin To Net: NetName=LCDOE Pin=P8-1
+Added Pin To Net: NetName=IDC10.8. 1 Pin=P8-2
+Added Pin To Net: NetName=IDC10.8. 2 Pin=P8-3
+Added Pin To Net: NetName=IDC10.8. 3 Pin=P8-4
+Added Pin To Net: NetName=IDC10.8. 4 Pin=P8-5
+Added Pin To Net: NetName=IDC10.8. 8 Pin=P8-6
+Added Pin To Net: NetName=IDC10.8. 7 Pin=P8-7
+Added Pin To Net: NetName=IDC10.8. 6 Pin=P8-8
+Added Pin To Net: NetName=IDC10.8. 5 Pin=P8-9
+Added Pin To Net: NetName=VCCPLATA Pin=P8-10
+Added Pin To Net: NetName=LCDOE Pin=P9-1
+Added Pin To Net: NetName=NetDip_1 Pin=P9-2
+Added Pin To Net: NetName=NetDip_2 Pin=P9-3
+Added Pin To Net: NetName=NetDip_3 Pin=P9-4
+Added Pin To Net: NetName=NetDip_4 Pin=P9-5
+Added Pin To Net: NetName=NetDip_5 Pin=P9-6
+Added Pin To Net: NetName=NetDip_6 Pin=P9-7
+Added Pin To Net: NetName=NetDip_7 Pin=P9-8
+Added Pin To Net: NetName=NetDip_8 Pin=P9-9
+Added Pin To Net: NetName=VCCPLATA Pin=P9-10
+Added Pin To Net: NetName=LCDOE Pin=PFI-1
+Added Pin To Net: NetName=PCI 87 Pin=PFI-2
+Added Pin To Net: NetName=PCI 84 Pin=PFI-3
+Added Pin To Net: NetName=PCI 83 Pin=PFI-4
+Added Pin To Net: NetName=PCI 26 Pin=PFI-5
+Added Pin To Net: NetName=PCI 31 Pin=PFI-6
+Added Pin To Net: NetName=PCI 30 Pin=PFI-7
+Added Pin To Net: NetName=PCI 28 Pin=PFI-8
+Added Pin To Net: NetName=PCI 27 Pin=PFI-9
+Added Pin To Net: NetName=VCCPLATA Pin=PFI-10
+Added Pin To Net: NetName=Net_5 Pin=R1-1
+Added Pin To Net: NetName=VCCPLATA Pin=R1-2
+Added Pin To Net: NetName=NetR1_4_0 Pin=R1_4-0
+Added Pin To Net: NetName=NetR1_4_1 Pin=R1_4-1
+Added Pin To Net: NetName=NetR1_4_2 Pin=R1_4-2
+Added Pin To Net: NetName=NetR1_4_3 Pin=R1_4-3
+Added Pin To Net: NetName=IDC10.3. 4 Pin=R1_4-4
+Added Pin To Net: NetName=IDC10.3. 3 Pin=R1_4-5
+Added Pin To Net: NetName=IDC10.3. 2 Pin=R1_4-6
+Added Pin To Net: NetName=IDC10.3. 1 Pin=R1_4-7
+Added Pin To Net: NetName=Net_1 Pin=R2-1
+Added Pin To Net: NetName=VCCPLATA Pin=R2-2
+Added Pin To Net: NetName=Net_3 Pin=R3-1
+Added Pin To Net: NetName=VCCPLATA Pin=R3-2
+Added Pin To Net: NetName=VCCPLATA Pin=R4-1
+Added Pin To Net: NetName=BUTTON_RESET Pin=R4-2
+Added Pin To Net: NetName=VCCPLATA Pin=R5-1
+Added Pin To Net: NetName=BUTTON_2 Pin=R5-2
+Added Pin To Net: NetName=VCCPLATA Pin=R6-1
+Added Pin To Net: NetName=BUTTON_3 Pin=R6-2
+Added Pin To Net: NetName=VCCPLATA Pin=R7-1
+Added Pin To Net: NetName=BUTTON_1 Pin=R7-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=VCCPLATA Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=VCCPLATA Pin=R9-2
+Added Pin To Net: NetName=SOUND Pin=R10-1
+Added Pin To Net: NetName=NetC8_2 Pin=R10-2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=VCC1 Pin=R11-2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=VCCPLATA Pin=R13-1
+Added Pin To Net: NetName=NetR12_1 Pin=R13-2
+Added Pin To Net: NetName=VCCPLATA Pin=R14-1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=VCCPLATA Pin=R15-1
+Added Pin To Net: NetName=Net7Segmind_22 Pin=R15-2
+Added Pin To Net: NetName=NetRA1_0 Pin=RA1-0
+Added Pin To Net: NetName=NetRA1_1 Pin=RA1-1
+Added Pin To Net: NetName=NetRA1_2 Pin=RA1-2
+Added Pin To Net: NetName=NetRA1_3 Pin=RA1-3
+Added Pin To Net: NetName=IDC10.8. 4 Pin=RA1-4
+Added Pin To Net: NetName=IDC10.8. 3 Pin=RA1-5
+Added Pin To Net: NetName=IDC10.8. 2 Pin=RA1-6
+Added Pin To Net: NetName=IDC10.8. 1 Pin=RA1-7
+Added Pin To Net: NetName=KLAV_STB3 Pin=RA2-0
+Added Pin To Net: NetName=KLAV_STB2 Pin=RA2-1
+Added Pin To Net: NetName=KLAV_STB1 Pin=RA2-2
+Added Pin To Net: NetName=LCDOE Pin=RA2-3
+Added Pin To Net: NetName=Net_5 Pin=RA2-4
+Added Pin To Net: NetName=Net_1 Pin=RA2-5
+Added Pin To Net: NetName=Net_3 Pin=RA2-6
+Added Pin To Net: NetName=LCDOE Pin=RA2-7
+Added Pin To Net: NetName=NetRA3_0 Pin=RA3-0
+Added Pin To Net: NetName=NetRA3_1 Pin=RA3-1
+Added Pin To Net: NetName=NetRA3_2 Pin=RA3-2
+Added Pin To Net: NetName=NetRA3_3 Pin=RA3-3
+Added Pin To Net: NetName=IDC10.8. 5 Pin=RA3-4
+Added Pin To Net: NetName=IDC10.8. 6 Pin=RA3-5
+Added Pin To Net: NetName=IDC10.8. 7 Pin=RA3-6
+Added Pin To Net: NetName=IDC10.8. 8 Pin=RA3-7
+Added Pin To Net: NetName=NetRA4_0 Pin=RA4-0
+Added Pin To Net: NetName=NetRA4_1 Pin=RA4-1
+Added Pin To Net: NetName=NetRA4_2 Pin=RA4-2
+Added Pin To Net: NetName=NetRA4_3 Pin=RA4-3
+Added Pin To Net: NetName=IDC10.1. 5 Pin=RA4-4
+Added Pin To Net: NetName=IDC10.1. 6 Pin=RA4-5
+Added Pin To Net: NetName=IDC10.1. 7 Pin=RA4-6
+Added Pin To Net: NetName=IDC10.1. 8 Pin=RA4-7
+Added Pin To Net: NetName=NetRA5_0 Pin=RA5-0
+Added Pin To Net: NetName=NetRA5_1 Pin=RA5-1
+Added Pin To Net: NetName=NetRA5_2 Pin=RA5-2
+Added Pin To Net: NetName=NetRA5_3 Pin=RA5-3
+Added Pin To Net: NetName=IDC10.1. 4 Pin=RA5-4
+Added Pin To Net: NetName=IDC10.1. 3 Pin=RA5-5
+Added Pin To Net: NetName=IDC10.1. 2 Pin=RA5-6
+Added Pin To Net: NetName=IDC10.1. 1 Pin=RA5-7
+Added Pin To Net: NetName=NetRA6_0 Pin=RA6-0
+Added Pin To Net: NetName=NetRA6_1 Pin=RA6-1
+Added Pin To Net: NetName=NetRA6_2 Pin=RA6-2
+Added Pin To Net: NetName=NetRA6_3 Pin=RA6-3
+Added Pin To Net: NetName=IDC10.2. 4 Pin=RA6-4
+Added Pin To Net: NetName=IDC10.2. 3 Pin=RA6-5
+Added Pin To Net: NetName=IDC10.2. 2 Pin=RA6-6
+Added Pin To Net: NetName=IDC10.2. 1 Pin=RA6-7
+Added Pin To Net: NetName=NetRA7_0 Pin=RA7-0
+Added Pin To Net: NetName=NetRA7_1 Pin=RA7-1
+Added Pin To Net: NetName=NetRA7_2 Pin=RA7-2
+Added Pin To Net: NetName=NetRA7_3 Pin=RA7-3
+Added Pin To Net: NetName=IDC10.2. 5 Pin=RA7-4
+Added Pin To Net: NetName=IDC10.2. 6 Pin=RA7-5
+Added Pin To Net: NetName=IDC10.2. 7 Pin=RA7-6
+Added Pin To Net: NetName=IDC10.2. 8 Pin=RA7-7
+Added Pin To Net: NetName=NetRA8_0 Pin=RA8-0
+Added Pin To Net: NetName=NetRA8_1 Pin=RA8-1
+Added Pin To Net: NetName=NetRA8_2 Pin=RA8-2
+Added Pin To Net: NetName=NetRA8_3 Pin=RA8-3
+Added Pin To Net: NetName=IDC10.4. 4 Pin=RA8-4
+Added Pin To Net: NetName=IDC10.4. 3 Pin=RA8-5
+Added Pin To Net: NetName=IDC10.4. 2 Pin=RA8-6
+Added Pin To Net: NetName=IDC10.4. 1 Pin=RA8-7
+Added Pin To Net: NetName=NetRA9_0 Pin=RA9-0
+Added Pin To Net: NetName=NetRA9_1 Pin=RA9-1
+Added Pin To Net: NetName=NetRA9_2 Pin=RA9-2
+Added Pin To Net: NetName=NetRA9_3 Pin=RA9-3
+Added Pin To Net: NetName=IDC10.3. 5 Pin=RA9-4
+Added Pin To Net: NetName=IDC10.3. 6 Pin=RA9-5
+Added Pin To Net: NetName=IDC10.3. 7 Pin=RA9-6
+Added Pin To Net: NetName=IDC10.3. 8 Pin=RA9-7
+Added Pin To Net: NetName=NetRA10_0 Pin=RA10-0
+Added Pin To Net: NetName=NetRA10_1 Pin=RA10-1
+Added Pin To Net: NetName=NetRA10_2 Pin=RA10-2
+Added Pin To Net: NetName=NetRA10_3 Pin=RA10-3
+Added Pin To Net: NetName=IDC10.5. 4 Pin=RA10-4
+Added Pin To Net: NetName=IDC10.5. 3 Pin=RA10-5
+Added Pin To Net: NetName=IDC10.5. 2 Pin=RA10-6
+Added Pin To Net: NetName=IDC10.5. 1 Pin=RA10-7
+Added Pin To Net: NetName=NetRA11_0 Pin=RA11-0
+Added Pin To Net: NetName=NetRA11_1 Pin=RA11-1
+Added Pin To Net: NetName=NetRA11_2 Pin=RA11-2
+Added Pin To Net: NetName=NetRA11_3 Pin=RA11-3
+Added Pin To Net: NetName=IDC10.6. 4 Pin=RA11-4
+Added Pin To Net: NetName=IDC10.6. 3 Pin=RA11-5
+Added Pin To Net: NetName=IDC10.6. 2 Pin=RA11-6
+Added Pin To Net: NetName=IDC10.6. 1 Pin=RA11-7
+Added Pin To Net: NetName=NetRA12_0 Pin=RA12-0
+Added Pin To Net: NetName=NetRA12_1 Pin=RA12-1
+Added Pin To Net: NetName=NetRA12_2 Pin=RA12-2
+Added Pin To Net: NetName=NetRA12_3 Pin=RA12-3
+Added Pin To Net: NetName=IDC10.5. 5 Pin=RA12-4
+Added Pin To Net: NetName=IDC10.5. 6 Pin=RA12-5
+Added Pin To Net: NetName=IDC10.5. 7 Pin=RA12-6
+Added Pin To Net: NetName=IDC10.5. 8 Pin=RA12-7
+Added Pin To Net: NetName=NetRA13_0 Pin=RA13-0
+Added Pin To Net: NetName=NetRA13_1 Pin=RA13-1
+Added Pin To Net: NetName=NetRA13_2 Pin=RA13-2
+Added Pin To Net: NetName=NetRA13_3 Pin=RA13-3
+Added Pin To Net: NetName=IDC10.4. 5 Pin=RA13-4
+Added Pin To Net: NetName=IDC10.4. 6 Pin=RA13-5
+Added Pin To Net: NetName=IDC10.4. 7 Pin=RA13-6
+Added Pin To Net: NetName=IDC10.4. 8 Pin=RA13-7
+Added Pin To Net: NetName=NetRA14_0 Pin=RA14-0
+Added Pin To Net: NetName=NetRA14_1 Pin=RA14-1
+Added Pin To Net: NetName=NetRA14_2 Pin=RA14-2
+Added Pin To Net: NetName=NetRA14_3 Pin=RA14-3
+Added Pin To Net: NetName=IDC10.6. 5 Pin=RA14-4
+Added Pin To Net: NetName=IDC10.6. 6 Pin=RA14-5
+Added Pin To Net: NetName=IDC10.6. 7 Pin=RA14-6
+Added Pin To Net: NetName=IDC10.6. 8 Pin=RA14-7
+Added Pin To Net: NetName=NetRA15_0 Pin=RA15-0
+Added Pin To Net: NetName=NetRA15_1 Pin=RA15-1
+Added Pin To Net: NetName=NetRA15_2 Pin=RA15-2
+Added Pin To Net: NetName=NetRA15_3 Pin=RA15-3
+Added Pin To Net: NetName=IDC10.7. 4 Pin=RA15-4
+Added Pin To Net: NetName=IDC10.7. 3 Pin=RA15-5
+Added Pin To Net: NetName=IDC10.7. 2 Pin=RA15-6
+Added Pin To Net: NetName=IDC10.7. 1 Pin=RA15-7
+Added Pin To Net: NetName=NetRA16_0 Pin=RA16-0
+Added Pin To Net: NetName=NetRA16_1 Pin=RA16-1
+Added Pin To Net: NetName=NetRA16_2 Pin=RA16-2
+Added Pin To Net: NetName=NetRA16_3 Pin=RA16-3
+Added Pin To Net: NetName=IDC10.7. 5 Pin=RA16-4
+Added Pin To Net: NetName=IDC10.7. 6 Pin=RA16-5
+Added Pin To Net: NetName=IDC10.7. 7 Pin=RA16-6
+Added Pin To Net: NetName=IDC10.7. 8 Pin=RA16-7
+Added Pin To Net: NetName=Net_2 Pin=RA17-0
+Added Pin To Net: NetName=Net_7 Pin=RA17-1
+Added Pin To Net: NetName=Net_6 Pin=RA17-2
+Added Pin To Net: NetName=Net_4 Pin=RA17-3
+Added Pin To Net: NetName=KLAV_STR4 Pin=RA17-4
+Added Pin To Net: NetName=KLAV_STR3 Pin=RA17-5
+Added Pin To Net: NetName=KLAV_STR2 Pin=RA17-6
+Added Pin To Net: NetName=KLAV_STR1 Pin=RA17-7
+Added Pin To Net: NetName=VCCPLATA Pin=RA18-0
+Added Pin To Net: NetName=VCCPLATA Pin=RA18-1
+Added Pin To Net: NetName=VCCPLATA Pin=RA18-2
+Added Pin To Net: NetName=VCCPLATA Pin=RA18-3
+Added Pin To Net: NetName=NetDip_8 Pin=RA18-4
+Added Pin To Net: NetName=NetDip_7 Pin=RA18-5
+Added Pin To Net: NetName=NetDip_6 Pin=RA18-6
+Added Pin To Net: NetName=NetDip_5 Pin=RA18-7
+Added Pin To Net: NetName=VCCPLATA Pin=RA19-0
+Added Pin To Net: NetName=VCCPLATA Pin=RA19-1
+Added Pin To Net: NetName=VCCPLATA Pin=RA19-2
+Added Pin To Net: NetName=VCCPLATA Pin=RA19-3
+Added Pin To Net: NetName=NetDip_4 Pin=RA19-4
+Added Pin To Net: NetName=NetDip_3 Pin=RA19-5
+Added Pin To Net: NetName=NetDip_2 Pin=RA19-6
+Added Pin To Net: NetName=NetDip_1 Pin=RA19-7
+Added Pin To Net: NetName=BUTTON_RESET Pin=RESET-2
+Added Pin To Net: NetName=LCDOE Pin=RESET-3
+Added Pin To Net: NetName=LCDOE Pin=RESET-4
+Added Pin To Net: NetName=VCCPLATA Pin=Rvar1-0
+Added Pin To Net: NetName=NetR14_2 Pin=Rvar1-2
+Added Pin To Net: NetName=NetR12_2 Pin=Rvar2-0
+Added Pin To Net: NetName=NetR12_1 Pin=Rvar2-1
+Added Pin To Net: NetName=VCCPLATA Pin=Rvar2-2
+Added Pin To Net: NetName=AO1 Pin=Rvar3-0
+Added Pin To Net: NetName=LCDOE Pin=Rvar3-2
+Added Pin To Net: NetName=LCDOE Pin=Sound-0
+Added Pin To Net: NetName=NetC8_2 Pin=Sound-1
+Added Pin To Net: NetName=7SEGM_DATA Pin=SREG1-1
+Added Pin To Net: NetName=7SEGM_DATA Pin=SREG1-2
+Added Pin To Net: NetName=Net7Segmind_34 Pin=SREG1-3
+Added Pin To Net: NetName=Net7Segmind_33 Pin=SREG1-4
+Added Pin To Net: NetName=Net7Segmind_3 Pin=SREG1-5
+Added Pin To Net: NetName=Net7Segmind_2 Pin=SREG1-6
+Added Pin To Net: NetName=LCDOE Pin=SREG1-7
+Added Pin To Net: NetName=7SEG_CLK Pin=SREG1-8
+Added Pin To Net: NetName=VCCPLATA Pin=SREG1-9
+Added Pin To Net: NetName=Net7Segmind_1 Pin=SREG1-10
+Added Pin To Net: NetName=Net7Segmind_36 Pin=SREG1-11
+Added Pin To Net: NetName=Net7Segmind_35 Pin=SREG1-12
+Added Pin To Net: NetName=Net7Segmind_4 Pin=SREG1-13
+Added Pin To Net: NetName=VCCPLATA Pin=SREG1-14
+Added Pin To Net: NetName=Net7Segmind_4 Pin=SREG2-1
+Added Pin To Net: NetName=Net7Segmind_4 Pin=SREG2-2
+Added Pin To Net: NetName=Net7Segmind_29 Pin=SREG2-3
+Added Pin To Net: NetName=Net7Segmind_28 Pin=SREG2-4
+Added Pin To Net: NetName=Net7Segmind_8 Pin=SREG2-5
+Added Pin To Net: NetName=Net7Segmind_6 Pin=SREG2-6
+Added Pin To Net: NetName=LCDOE Pin=SREG2-7
+Added Pin To Net: NetName=7SEG_CLK Pin=SREG2-8
+Added Pin To Net: NetName=VCCPLATA Pin=SREG2-9
+Added Pin To Net: NetName=Net7Segmind_5 Pin=SREG2-10
+Added Pin To Net: NetName=Net7Segmind_30 Pin=SREG2-11
+Added Pin To Net: NetName=Net7Segmind_7 Pin=SREG2-12
+Added Pin To Net: NetName=Net7Segmind_9 Pin=SREG2-13
+Added Pin To Net: NetName=VCCPLATA Pin=SREG2-14
+Added Pin To Net: NetName=Net7Segmind_9 Pin=SREG3-1
+Added Pin To Net: NetName=Net7Segmind_9 Pin=SREG3-2
+Added Pin To Net: NetName=Net7Segmind_25 Pin=SREG3-3
+Added Pin To Net: NetName=Net7Segmind_24 Pin=SREG3-4
+Added Pin To Net: NetName=Net7Segmind_12 Pin=SREG3-5
+Added Pin To Net: NetName=Net7Segmind_11 Pin=SREG3-6
+Added Pin To Net: NetName=LCDOE Pin=SREG3-7
+Added Pin To Net: NetName=7SEG_CLK Pin=SREG3-8
+Added Pin To Net: NetName=VCCPLATA Pin=SREG3-9
+Added Pin To Net: NetName=Net7Segmind_10 Pin=SREG3-10
+Added Pin To Net: NetName=Net7Segmind_27 Pin=SREG3-11
+Added Pin To Net: NetName=Net7Segmind_26 Pin=SREG3-12
+Added Pin To Net: NetName=Net7Segmind_13 Pin=SREG3-13
+Added Pin To Net: NetName=VCCPLATA Pin=SREG3-14
+Added Pin To Net: NetName=Net7Segmind_13 Pin=SREG4-1
+Added Pin To Net: NetName=Net7Segmind_13 Pin=SREG4-2
+Added Pin To Net: NetName=Net7Segmind_20 Pin=SREG4-3
+Added Pin To Net: NetName=Net7Segmind_19 Pin=SREG4-4
+Added Pin To Net: NetName=Net7Segmind_17 Pin=SREG4-5
+Added Pin To Net: NetName=Net7Segmind_15 Pin=SREG4-6
+Added Pin To Net: NetName=LCDOE Pin=SREG4-7
+Added Pin To Net: NetName=7SEG_CLK Pin=SREG4-8
+Added Pin To Net: NetName=VCCPLATA Pin=SREG4-9
+Added Pin To Net: NetName=Net7Segmind_14 Pin=SREG4-10
+Added Pin To Net: NetName=Net7Segmind_21 Pin=SREG4-11
+Added Pin To Net: NetName=Net7Segmind_16 Pin=SREG4-12
+Added Pin To Net: NetName=Net7Segmind_18 Pin=SREG4-13
+Added Pin To Net: NetName=VCCPLATA Pin=SREG4-14
+Added Pin To Net: NetName=LCDDATA Pin=SREGLCD-1
+Added Pin To Net: NetName=LCDDATA Pin=SREGLCD-2
+Added Pin To Net: NetName=NetSREGLCD_3 Pin=SREGLCD-3
+Added Pin To Net: NetName=NetSREGLCD_4 Pin=SREGLCD-4
+Added Pin To Net: NetName=NetSREGLCD_5 Pin=SREGLCD-5
+Added Pin To Net: NetName=NetSREGLCD_6 Pin=SREGLCD-6
+Added Pin To Net: NetName=LCDOE Pin=SREGLCD-7
+Added Pin To Net: NetName=LCDCLK Pin=SREGLCD-8
+Added Pin To Net: NetName=VCCPLATA Pin=SREGLCD-9
+Added Pin To Net: NetName=NetSREGLCD_10 Pin=SREGLCD-10
+Added Pin To Net: NetName=NetSREGLCD_11 Pin=SREGLCD-11
+Added Pin To Net: NetName=NetSREGLCD_12 Pin=SREGLCD-12
+Added Pin To Net: NetName=NetSREGLCD_13 Pin=SREGLCD-13
+Added Pin To Net: NetName=VCCPLATA Pin=SREGLCD-14
+Added Pin To Net: NetName=A.RESET Pin=TPS 1v-1
+Added Pin To Net: NetName=LCDOE Pin=TPS 1v-2
+Added Pin To Net: NetName=VCC1 Pin=TPS 1v-3
+Added Pin To Net: NetName=NetR11_1 Pin=TPS 1v-4
+Added Pin To Net: NetName=LCDOE Pin=Vcc1.8-0
+Added Pin To Net: NetName=VCC1.8 Pin=Vcc1.8-1
+Added Pin To Net: NetName=VCC3.3 Pin=Vcc1.8-2
+Added Pin To Net: NetName=LCDOE Pin=Vcc2.5-0
+Added Pin To Net: NetName=VCC2.5 Pin=Vcc2.5-1
+Added Pin To Net: NetName=A.RESET Pin=Vcc2.5-2
+Added Pin To Net: NetName=LCDOE Pin=VccPlata-1
+Added Pin To Net: NetName=VCC1 Pin=VccPlata-2
+Added Pin To Net: NetName=VCC1.8 Pin=VccPlata-3
+Added Pin To Net: NetName=NetRA4_0 Pin=VccPlata-5
+Added Pin To Net: NetName=NetRA4_1 Pin=VccPlata-6
+Added Pin To Net: NetName=NetRA4_2 Pin=VccPlata-7
+Added Pin To Net: NetName=NetRA4_3 Pin=VccPlata-8
+Added Pin To Net: NetName=NetRA7_0 Pin=VccPlata-9
+Added Pin To Net: NetName=NetRA7_1 Pin=VccPlata-10
+Added Pin To Net: NetName=NetRA7_2 Pin=VccPlata-11
+Added Pin To Net: NetName=NetRA7_3 Pin=VccPlata-12
+Added Pin To Net: NetName=NetRA9_0 Pin=VccPlata-13
+Added Pin To Net: NetName=NetRA9_1 Pin=VccPlata-14
+Added Pin To Net: NetName=NetRA9_2 Pin=VccPlata-15
+Added Pin To Net: NetName=NetRA9_3 Pin=VccPlata-16
+Added Pin To Net: NetName=NetRA13_0 Pin=VccPlata-17
+Added Pin To Net: NetName=NetRA13_1 Pin=VccPlata-18
+Added Pin To Net: NetName=NetRA13_2 Pin=VccPlata-19
+Added Pin To Net: NetName=NetRA13_3 Pin=VccPlata-20
+Added Pin To Net: NetName=NetRA12_0 Pin=VccPlata-21
+Added Pin To Net: NetName=NetRA12_1 Pin=VccPlata-22
+Added Pin To Net: NetName=NetRA12_2 Pin=VccPlata-23
+Added Pin To Net: NetName=NetRA12_3 Pin=VccPlata-24
+Added Pin To Net: NetName=NetRA14_0 Pin=VccPlata-25
+Added Pin To Net: NetName=NetRA14_1 Pin=VccPlata-26
+Added Pin To Net: NetName=NetRA14_2 Pin=VccPlata-27
+Added Pin To Net: NetName=NetRA14_3 Pin=VccPlata-28
+Added Pin To Net: NetName=NetRA16_0 Pin=VccPlata-29
+Added Pin To Net: NetName=NetRA16_1 Pin=VccPlata-30
+Added Pin To Net: NetName=NetRA16_2 Pin=VccPlata-31
+Added Pin To Net: NetName=NetRA16_3 Pin=VccPlata-32
+Added Pin To Net: NetName=NetRA15_3 Pin=VccPlata-33
+Added Pin To Net: NetName=NetRA15_2 Pin=VccPlata-34
+Added Pin To Net: NetName=NetRA15_1 Pin=VccPlata-35
+Added Pin To Net: NetName=NetRA15_0 Pin=VccPlata-36
+Added Pin To Net: NetName=NetRA11_3 Pin=VccPlata-37
+Added Pin To Net: NetName=NetRA11_2 Pin=VccPlata-38
+Added Pin To Net: NetName=NetRA11_1 Pin=VccPlata-39
+Added Pin To Net: NetName=NetRA11_0 Pin=VccPlata-40
+Added Pin To Net: NetName=NetRA10_3 Pin=VccPlata-41
+Added Pin To Net: NetName=NetRA10_2 Pin=VccPlata-42
+Added Pin To Net: NetName=NetRA10_1 Pin=VccPlata-43
+Added Pin To Net: NetName=NetRA10_0 Pin=VccPlata-44
+Added Pin To Net: NetName=NetRA8_3 Pin=VccPlata-45
+Added Pin To Net: NetName=NetRA8_2 Pin=VccPlata-46
+Added Pin To Net: NetName=NetRA8_1 Pin=VccPlata-47
+Added Pin To Net: NetName=NetRA8_0 Pin=VccPlata-48
+Added Pin To Net: NetName=NetR1_4_3 Pin=VccPlata-49
+Added Pin To Net: NetName=NetR1_4_2 Pin=VccPlata-50
+Added Pin To Net: NetName=NetR1_4_1 Pin=VccPlata-51
+Added Pin To Net: NetName=NetR1_4_0 Pin=VccPlata-52
+Added Pin To Net: NetName=NetRA6_3 Pin=VccPlata-53
+Added Pin To Net: NetName=NetRA6_2 Pin=VccPlata-54
+Added Pin To Net: NetName=NetRA6_1 Pin=VccPlata-55
+Added Pin To Net: NetName=NetRA6_0 Pin=VccPlata-56
+Added Pin To Net: NetName=NetRA5_3 Pin=VccPlata-57
+Added Pin To Net: NetName=NetRA5_2 Pin=VccPlata-58
+Added Pin To Net: NetName=NetRA5_1 Pin=VccPlata-59
+Added Pin To Net: NetName=NetRA5_0 Pin=VccPlata-60
+Added Pin To Net: NetName=VCC2.5 Pin=VccPlata-62
+Added Pin To Net: NetName=VCC3.3 Pin=VccPlata-63
+Added Pin To Net: NetName=A.RESET Pin=VccPlata-64
+Added Pin To Net: NetName=VCCPLATA Pin=VccPlata-65
+Added Pin To Net: NetName=VCC1 Pin=VccPlata-66
+Added Pin To Net: NetName=VCC1.8 Pin=VccPlata-67
+Added Pin To Net: NetName=KLAV_STR1 Pin=VccPlata-69
+Added Pin To Net: NetName=KLAV_STR2 Pin=VccPlata-70
+Added Pin To Net: NetName=KLAV_STR3 Pin=VccPlata-71
+Added Pin To Net: NetName=KLAV_STR4 Pin=VccPlata-72
+Added Pin To Net: NetName=BUTTON_2 Pin=VccPlata-73
+Added Pin To Net: NetName=NET_VD1 Pin=VccPlata-74
+Added Pin To Net: NetName=NET_VD2 Pin=VccPlata-75
+Added Pin To Net: NetName=7SEGM_DATA Pin=VccPlata-76
+Added Pin To Net: NetName=LCDDATA Pin=VccPlata-77
+Added Pin To Net: NetName=LCDRST Pin=VccPlata-78
+Added Pin To Net: NetName=LCDCS1 Pin=VccPlata-79
+Added Pin To Net: NetName=LCDCS2 Pin=VccPlata-80
+Added Pin To Net: NetName=UARTRX1 Pin=VccPlata-81
+Added Pin To Net: NetName=UARTRX2 Pin=VccPlata-82
+Added Pin To Net: NetName=MOSI Pin=VccPlata-83
+Added Pin To Net: NetName=MISO Pin=VccPlata-84
+Added Pin To Net: NetName=I2C SDA Pin=VccPlata-85
+Added Pin To Net: NetName=NetRA3_0 Pin=VccPlata-89
+Added Pin To Net: NetName=NetRA3_1 Pin=VccPlata-90
+Added Pin To Net: NetName=NetRA3_2 Pin=VccPlata-91
+Added Pin To Net: NetName=NetRA3_3 Pin=VccPlata-92
+Added Pin To Net: NetName=AO4 Pin=VccPlata-93
+Added Pin To Net: NetName=AO3 Pin=VccPlata-94
+Added Pin To Net: NetName=AO2 Pin=VccPlata-95
+Added Pin To Net: NetName=AO1 Pin=VccPlata-96
+Added Pin To Net: NetName=AI1 Pin=VccPlata-97
+Added Pin To Net: NetName=AI2 Pin=VccPlata-98
+Added Pin To Net: NetName=AI3 Pin=VccPlata-99
+Added Pin To Net: NetName=AI4 Pin=VccPlata-100
+Added Pin To Net: NetName=NetRA1_3 Pin=VccPlata-101
+Added Pin To Net: NetName=NetRA1_2 Pin=VccPlata-102
+Added Pin To Net: NetName=NetRA1_1 Pin=VccPlata-103
+Added Pin To Net: NetName=NetRA1_0 Pin=VccPlata-104
+Added Pin To Net: NetName=I2C SCK Pin=VccPlata-108
+Added Pin To Net: NetName=SS Pin=VccPlata-109
+Added Pin To Net: NetName=SCK Pin=VccPlata-110
+Added Pin To Net: NetName=UARTTX2 Pin=VccPlata-111
+Added Pin To Net: NetName=UARTTX1 Pin=VccPlata-112
+Added Pin To Net: NetName=LCDOE Pin=VccPlata-113
+Added Pin To Net: NetName=LCDD/I Pin=VccPlata-114
+Added Pin To Net: NetName=LCDR/W Pin=VccPlata-115
+Added Pin To Net: NetName=LCDCLK Pin=VccPlata-116
+Added Pin To Net: NetName=BUTTON_1 Pin=VccPlata-117
+Added Pin To Net: NetName=7SEG_CLK Pin=VccPlata-118
+Added Pin To Net: NetName=BUTTON_3 Pin=VccPlata-119
+Added Pin To Net: NetName=SOUND Pin=VccPlata-120
+Added Pin To Net: NetName=BUTTON_RESET Pin=VccPlata-121
+Added Pin To Net: NetName=KLAV_STB3 Pin=VccPlata-122
+Added Pin To Net: NetName=KLAV_STB2 Pin=VccPlata-123
+Added Pin To Net: NetName=KLAV_STB1 Pin=VccPlata-124
+Added Pin To Net: NetName=VCC2.5 Pin=VccPlata-126
+Added Pin To Net: NetName=VCC3.3 Pin=VccPlata-127
+Added Pin To Net: NetName=A.RESET Pin=VccPlata-128
+Added Pin To Net: NetName=NET_VD2 Pin=VD1-1
+Added Pin To Net: NetName=NetR9_1 Pin=VD1-2
+Added Pin To Net: NetName=NET_VD1 Pin=VD2-1
+Added Pin To Net: NetName=NetR8_1 Pin=VD2-2
+Added Pin To Net: NetName=LCDOE Pin=Vin-1
+Added Pin To Net: NetName=A.RESET Pin=Vin-2
+Added Pin To Net: NetName=PCI 3 Pin=Vin-3
+Added Pin To Net: NetName=LCDOE Pin=WG12864A-0
+Added Pin To Net: NetName=VCCPLATA Pin=WG12864A-1
+Added Pin To Net: NetName=NetR12_1 Pin=WG12864A-2
+Added Pin To Net: NetName=LCDD/I Pin=WG12864A-3
+Added Pin To Net: NetName=LCDR/W Pin=WG12864A-4
+Added Pin To Net: NetName=LCDOE Pin=WG12864A-5
+Added Pin To Net: NetName=NetSREGLCD_13 Pin=WG12864A-6
+Added Pin To Net: NetName=NetSREGLCD_12 Pin=WG12864A-7
+Added Pin To Net: NetName=NetSREGLCD_11 Pin=WG12864A-8
+Added Pin To Net: NetName=NetSREGLCD_10 Pin=WG12864A-9
+Added Pin To Net: NetName=NetSREGLCD_6 Pin=WG12864A-10
+Added Pin To Net: NetName=NetSREGLCD_5 Pin=WG12864A-11
+Added Pin To Net: NetName=NetSREGLCD_4 Pin=WG12864A-12
+Added Pin To Net: NetName=NetSREGLCD_3 Pin=WG12864A-13
+Added Pin To Net: NetName=LCDCS1 Pin=WG12864A-14
+Added Pin To Net: NetName=LCDCS2 Pin=WG12864A-15
+Added Pin To Net: NetName=LCDRST Pin=WG12864A-16
+Added Pin To Net: NetName=NetR12_2 Pin=WG12864A-17
+Added Pin To Net: NetName=NetR14_2 Pin=WG12864A-18
+Added Pin To Net: NetName=LCDOE Pin=WG12864A-19
+Added Member To Class: ClassName=Plata.~(40) Member=Component 1.1 GREB-RAZ
+Added Member To Class: ClassName=Plata.~(40) Member=Component 1.2 GREB-RAZ
+Added Member To Class: ClassName=Plata.~(40) Member=Component 2.1 GREB-RAZ
+Added Member To Class: ClassName=Plata.~(40) Member=Component 2.2 GREB-RAZ
+Added Member To Class: ClassName=Plata.~(40) Member=Component 2.3 GREB-RAZ
+Added Member To Class: ClassName=Plata.~(40) Member=Component 2.4 GREB-RAZ
+Added Member To Class: ClassName=Sheet1 Member=Component 3.3v LM1085
+Added Member To Class: ClassName=Plata.~(40) Member=Component 7Segmind CA56-11EWA
+Added Member To Class: ClassName=Plata.~(40) Member=Component A.AP IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component AI IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component AP1 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component AP2 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component AR1 Arduino
+Added Member To Class: ClassName=Plata.~(40) Member=Component Button1 ps850l
+Added Member To Class: ClassName=Plata.~(40) Member=Component Button2 ps850l
+Added Member To Class: ClassName=Plata.~(40) Member=Component Button3 ps850l
+Added Member To Class: ClassName=Sheet1 Member=Component C1 CAPACITY
+Added Member To Class: ClassName=Sheet1 Member=Component C2 CAPACITY
+Added Member To Class: ClassName=Sheet1 Member=Component C3 CAPACITY
+Added Member To Class: ClassName=Sheet1 Member=Component C4 CAPACITY
+Added Member To Class: ClassName=Sheet1 Member=Component C5 CAPACITY
+Added Member To Class: ClassName=Sheet1 Member=Component C6 CAPACITY
+Added Member To Class: ClassName=Sheet1 Member=Component C7 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component C8 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component C10 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component C11 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component C12 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component C13 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component C14 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component C15 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component C16 CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component CT1 TECAP, 100 ÏÍ‘
+Added Member To Class: ClassName=Plata.~(40) Member=Component CT2 TECAP, 100 ÏÍ‘
+Added Member To Class: ClassName=Plata.~(40) Member=Component DIO1 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component DIO2 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component DIO3 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component Dip DIP
+Added Member To Class: ClassName=Plata.~(40) Member=Component EL.P.1 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component P1.1 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component P1.2 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component P1 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component P2.1.1 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component P2.2 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component P2 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component P3.2 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component P3.2 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component P3 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component P4 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component P5 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component P6 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component P8 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component P9 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component PFI IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component R1_4 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component R1 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R2 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R3 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R4 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R5 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R6 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R7 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R8 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R9 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R10 R0805
+Added Member To Class: ClassName=Sheet1 Member=Component R11 10kOm
+Added Member To Class: ClassName=Plata.~(40) Member=Component R12 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R13 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R14 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R15 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA1 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA2 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA3 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA4 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA5 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA6 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA7 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA8 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA9 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA10 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA11 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA12 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA13 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA14 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA15 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA16 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA17 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA18 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component RA19 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component RESET ps850l
+Added Member To Class: ClassName=Plata.~(40) Member=Component ressb_2 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component Rvar1 R-0904N-A10K, L20KC
+Added Member To Class: ClassName=Plata.~(40) Member=Component Rvar2 R-0904N-A10K, L20KC
+Added Member To Class: ClassName=Plata.~(40) Member=Component Rvar3 R-0904N-A10K, L20KC
+Added Member To Class: ClassName=Plata.~(40) Member=Component Sound SCS-17-P10
+Added Member To Class: ClassName=Plata.~(40) Member=Component SREG1 M74HC595B1R
+Added Member To Class: ClassName=Plata.~(40) Member=Component SREG2 M74HC595B1R
+Added Member To Class: ClassName=Plata.~(40) Member=Component SREG3 M74HC595B1R
+Added Member To Class: ClassName=Plata.~(40) Member=Component SREG4 M74HC595B1R
+Added Member To Class: ClassName=Plata.~(40) Member=Component SREGLCD M74HC595B1R
+Added Member To Class: ClassName=Plata.~(40) Member=Component  AK-207
+Added Member To Class: ClassName=Plata.~(40) Member=Component  PCI
+Added Member To Class: ClassName=Sheet1 Member=Component TPS 1v TPS72515DCQ -1v
+Added Member To Class: ClassName=Sheet1 Member=Component Vcc1.8 IRU1010-18
+Added Member To Class: ClassName=Sheet1 Member=Component Vcc2.5 ADP3338AKCZ-2.5RL7
+Added Member To Class: ClassName=Plata.~(40) Member=Component VccPlata Connector
+Added Member To Class: ClassName=Plata.~(40) Member=Component VD1 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component VD2 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component Vin DS-313a
+Added Member To Class: ClassName=Plata.~(40) Member=Component WG12864A MT6464b
+Added Room: Name=Plata.~(40)
+Added Room: Name=Sheet1

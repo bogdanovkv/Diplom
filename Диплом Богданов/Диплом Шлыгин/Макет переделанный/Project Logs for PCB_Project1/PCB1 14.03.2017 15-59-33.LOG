@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GENERALVIN Pin=dip pull up1-0
+Removed Pin From Net: NetName=GENERALVIN Pin=dip pull up1-1
+Removed Pin From Net: NetName=GENERALVIN Pin=dip pull up1-2
+Removed Pin From Net: NetName=GENERALVIN Pin=dip pull up1-3
+Removed Pin From Net: NetName=GENERALVIN Pin=dip pull up2-0
+Removed Pin From Net: NetName=GENERALVIN Pin=dip pull up2-1
+Removed Pin From Net: NetName=GENERALVIN Pin=dip pull up2-2
+Removed Pin From Net: NetName=GENERALVIN Pin=dip pull up2-3
+Added Pin To Net: NetName=VCCPLATA Pin=dip pull up1-0
+Added Pin To Net: NetName=VCCPLATA Pin=dip pull up1-1
+Added Pin To Net: NetName=VCCPLATA Pin=dip pull up1-2
+Added Pin To Net: NetName=VCCPLATA Pin=dip pull up1-3
+Added Pin To Net: NetName=VCCPLATA Pin=dip pull up2-0
+Added Pin To Net: NetName=VCCPLATA Pin=dip pull up2-1
+Added Pin To Net: NetName=VCCPLATA Pin=dip pull up2-2
+Added Pin To Net: NetName=VCCPLATA Pin=dip pull up2-3

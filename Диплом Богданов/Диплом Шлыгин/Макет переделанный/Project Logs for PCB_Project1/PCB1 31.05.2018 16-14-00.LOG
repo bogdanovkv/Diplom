@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=Net2_18 Pin=RA25-0
+Removed Pin From Net: NetName=Net2_16 Pin=RA25-1
+Removed Pin From Net: NetName=Net2_17 Pin=RA25-2
+Removed Pin From Net: NetName=Net2_15 Pin=RA25-3
+Removed Pin From Net: NetName=NetRA25_7 Pin=RA25-7
+Added Pin To Net: NetName=Net2_15 Pin=RA25-4
+Added Pin To Net: NetName=Net2_17 Pin=RA25-5
+Added Pin To Net: NetName=Net2_16 Pin=RA25-6
+Added Pin To Net: NetName=Net2_18 Pin=RA25-7
+Change Net Name : Old Net Name=NetRA25_7 New Net Name=NetSREG3_1
+Added Member To Class: ClassName=Power Supplies Member=Component C17 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C18 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C18 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C19 10u
+Added Member To Class: ClassName=Power Supplies Member=Component R50 121R

@@ -1,0 +1,10 @@
+Change Physical Footprint: Designator=Connector Old Footprint=Connect New Footprint=Connect
+Change Physical Footprint: Designator=dip Old Footprint=SWD1-8 New Footprint=SWD1-8
+Change Physical Footprint: Designator=P2 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=P3 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=P4 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=P5 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=P6 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=P7 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=P8 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=PCI Old Footprint=PCI-120 New Footprint=PCI-120

@@ -1,0 +1,6 @@
+Change Physical Footprint: Designator=Connector Old Footprint=Connect New Footprint=Connect
+Change Physical Footprint: Designator=P6 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=P7 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=ressb_1 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=SB 1 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=SB 2 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=LCDOE Pin=RVcc1-1
+Removed Pin From Net: NetName=Net5v_4 Pin=RVcc1-2
+Removed Pin From Net: NetName=Net5v_4 Pin=RVcc2-1
+Removed Pin From Net: NetName=Net5v_2 Pin=RVcc2-2
+Added Pin To Net: NetName=Net5v_4 Pin=RVcc1-1
+Added Pin To Net: NetName=Net5v_2 Pin=RVcc1-2
+Added Pin To Net: NetName=LCDOE Pin=RVcc2-1
+Added Pin To Net: NetName=Net5v_4 Pin=RVcc2-2

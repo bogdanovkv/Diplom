@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=PCI 4 Pin=greb2.4-1
+Added Pin To Net: NetName=PCI 1 Pin=greb2.4-2
+Added Pin To Net: NetName=PCI 57 Pin=greb2.4-3
+Added Pin To Net: NetName=PCI 56 Pin=greb2.4-4
+Added Pin To Net: NetName=PCI 111 Pin=greb2.4-5

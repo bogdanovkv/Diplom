@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetConnector_102 Pin=Connector-102
+Removed Pin From Net: NetName=NetConnector_101 Pin=KLAV-1
+Removed Pin From Net: NetName=NetConnector_102 Pin=KLAV-2
+Removed Pin From Net: NetName=NetConnector_103 Pin=KLAV-3
+Removed Pin From Net: NetName=NetConnector_103 Pin=R1-1
+Removed Pin From Net: NetName=NetConnector_102 Pin=R2-1
+Removed Pin From Net: NetName=Net*_1 Pin=R2-2
+Removed Pin From Net: NetName=NetConnector_101 Pin=R3-1
+Added Pin To Net: NetName=NetConnector_102 Pin=KLAV-1
+Added Pin To Net: NetName=NetConnector_103 Pin=KLAV-2
+Added Pin To Net: NetName=NetConnector_101 Pin=KLAV-3
+Added Pin To Net: NetName=NetConnector_101 Pin=R1-1
+Added Pin To Net: NetName=NetConnector_103 Pin=R2-1
+Added Pin To Net: NetName=NetConnector_103 Pin=R2-2
+Added Pin To Net: NetName=NetConnector_102 Pin=R3-1
+Change Net Name : Old Net Name=NetConnector_102 New Net Name=NetKLAV_1

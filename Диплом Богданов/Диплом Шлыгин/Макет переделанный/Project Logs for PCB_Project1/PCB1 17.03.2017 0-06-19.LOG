@@ -1,0 +1,56 @@
+Change Physical Footprint: Designator= Old Footprint=ds-313 New Footprint=ds-313
+Change Physical Footprint: Designator=7Segmind Old Footprint=CA56-11EWA New Footprint=CA56-11EWA
+Change Physical Footprint: Designator=AI PORT Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=AnalogP Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=Button1 Old Footprint=ps850l New Footprint=ps850l
+Change Physical Footprint: Designator=Button2 Old Footprint=ps850l New Footprint=ps850l
+Change Physical Footprint: Designator=Button3 Old Footprint=ps850l New Footprint=ps850l
+Change Physical Footprint: Designator=DIO1 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=DIO2 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=DIO3 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=dip Old Footprint=SWD1-8 New Footprint=SWD1-8
+Change Physical Footprint: Designator=ELPORT 1 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=greb1.1 Old Footprint=GREBENKA New Footprint=GREBENKA
+Change Physical Footprint: Designator=greb1.2 Old Footprint=GREBENKA New Footprint=GREBENKA
+Change Physical Footprint: Designator=greb2.1 Old Footprint=GREBENKA New Footprint=GREBENKA
+Change Physical Footprint: Designator=greb2.2 Old Footprint=GREBENKA New Footprint=GREBENKA
+Change Physical Footprint: Designator=greb2.3 Old Footprint=GREBENKA New Footprint=GREBENKA
+Change Physical Footprint: Designator=greb2.4 Old Footprint=GREBENKA New Footprint=GREBENKA
+Change Physical Footprint: Designator=Keyboard Old Footprint=AK-207 New Footprint=AK-207
+Change Physical Footprint: Designator=P1 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=P2 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=P3 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=P4 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=P5 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=P6 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=P7 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=P8 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=P9 Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=P.U.1 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=P.U.2 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=PFI PORT Old Footprint=IDC10 New Footprint=IDC10
+Change Physical Footprint: Designator=Potent Old Footprint=R-0904N-A10K, L20KC New Footprint=R-0904N-A10K, L20KC
+Change Physical Footprint: Designator=R1_0 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=R1_1 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=R1_2 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=R1_3 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=R1_4 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=R1_6 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=R2_0 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=R2_1 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=R2_4 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=R2_6 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=R2_7 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=RESET Old Footprint=ps850l New Footprint=ps850l
+Change Physical Footprint: Designator=ressb_1_5 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=ressb_1_7 Old Footprint=CAT16-102J4LF New Footprint=CAT16-102J4LF
+Change Physical Footprint: Designator=ressb_2 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=ressb_2_2 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=ressb_2_3 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=ressb_2_5 Old Footprint=CAT16-102J4LF_2 New Footprint=CAT16-102J4LF_2
+Change Physical Footprint: Designator=VarRes1(test) Old Footprint=R-0904N-A10K, L20KC New Footprint=R-0904N-A10K, L20KC
+Change Physical Footprint: Designator=VarRes(test) Old Footprint=R-0904N-A10K, L20KC New Footprint=R-0904N-A10K, L20KC
+Change Physical Footprint: Designator=Vcc 1.8 Old Footprint=IRU1010-18 New Footprint=IRU1010-18
+Change Physical Footprint: Designator=Vcc2.5 Old Footprint=sot223 New Footprint=sot223
+Change Physical Footprint: Designator=VccPlata Old Footprint=Connect New Footprint=Connect
+Change Physical Footprint: Designator=WG12864A Old Footprint=WG12864A New Footprint=WG12864A

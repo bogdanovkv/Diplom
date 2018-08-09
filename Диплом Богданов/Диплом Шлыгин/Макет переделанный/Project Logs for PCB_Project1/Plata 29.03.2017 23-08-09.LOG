@@ -1,0 +1,13 @@
+Add Pin To Net: Pin=1.1-21 Old Net=Net1.1_21 New Net=GENERALVIN
+Add Pin To Net: Pin=1.1-22 Old Net=Net1.1_22 New Net=LCDOE
+Add Pin To Net: Pin=1.1-23 Old Net=Net1.1_23 New Net=LCDOE
+Add Pin To Net: Pin=1.1-24 Old Net=Net1.1_24 New Net=LCDOE
+Add Pin To Net: Pin=2.1-21 Old Net=Net2.1_21 New Net=GENERALVIN
+Add Pin To Net: Pin=2.1-22 Old Net=Net2.1_22 New Net=LCDOE
+Add Pin To Net: Pin=2.1-23 Old Net=Net2.1_23 New Net=LCDOE
+Add Pin To Net: Pin=2.1-24 Old Net=Net2.1_24 New Net=LCDOE
+Add Pin To Net: Pin=2.3-16 Old Net=Net2.3_16 New Net=G3.2_16
+Add Pin To Net: Pin=2.3-21 Old Net=Net2.3_21 New Net=GENERALVIN
+Add Pin To Net: Pin=2.3-22 Old Net=Net2.3_22 New Net=LCDOE
+Add Pin To Net: Pin=2.3-23 Old Net=Net2.3_23 New Net=LCDOE
+Add Pin To Net: Pin=2.3-24 Old Net=Net2.3_24 New Net=LCDOE

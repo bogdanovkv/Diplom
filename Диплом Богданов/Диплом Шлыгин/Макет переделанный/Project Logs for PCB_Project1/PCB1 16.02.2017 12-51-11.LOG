@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=Plata.~(40) Member=C4
+Added Pin To Net: NetName=VCC5 Pin=5v-2
+Added Pin To Net: NetName=VCC5 Pin=5v-6
+Added Pin To Net: NetName=VCC5 Pin=5v-7
+Added Pin To Net: NetName=VCC5 Pin=Cap2 100mf-2
+Added Pin To Net: NetName=VCC5 Pin=D 5v 1-2
+Added Pin To Net: NetName=LCDOE Pin=DS-2
+Added Pin To Net: NetName=VCC5 Pin=RVcc1-2
+Change Net Name : Old Net Name=VCC5 New Net Name=VCC

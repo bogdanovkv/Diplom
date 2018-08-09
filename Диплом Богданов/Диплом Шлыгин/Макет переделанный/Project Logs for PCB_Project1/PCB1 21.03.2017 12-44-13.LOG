@@ -1,0 +1,54 @@
+Added Pin To Net: NetName=VCC1 Pin=VccPlata-2
+Added Pin To Net: NetName=VCC1.8 Pin=VccPlata-3
+Added Pin To Net: NetName=VCC2.5 Pin=VccPlata-62
+Added Pin To Net: NetName=VCC3.3 Pin=VccPlata-63
+Added Pin To Net: NetName=GENERALVIN Pin=VccPlata-64
+Added Member To Class: ClassName=Plata.~(40) Member=Component 1.1 GREB-RAZ
+Added Member To Class: ClassName=Plata.~(40) Member=Component 1.2 GREB-RAZ
+Added Member To Class: ClassName=Plata.~(40) Member=Component 1.1 1-8 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component 1.1 9-16 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component 1.2 1-8 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component 1.2 9-16 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component 1.3 1-8 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component 1.3 9-16 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component 2.1 GREB-RAZ
+Added Member To Class: ClassName=Plata.~(40) Member=Component 2.2 GREB-RAZ
+Added Member To Class: ClassName=Plata.~(40) Member=Component 2.3 GREB-RAZ
+Added Member To Class: ClassName=Plata.~(40) Member=Component 2.4 GREB-RAZ
+Added Member To Class: ClassName=Plata.~(40) Member=Component AI IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component AnalogP IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component AP7 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component Button1 ps850l
+Added Member To Class: ClassName=Plata.~(40) Member=Component Button2 ps850l
+Added Member To Class: ClassName=Plata.~(40) Member=Component Button3 ps850l
+Added Member To Class: ClassName=Plata.~(40) Member=Component C.sound CAPACITY
+Added Member To Class: ClassName=Plata.~(40) Member=Component EL.P.1 IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component P.U.1 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component P.U.2 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component PFI IDC10
+Added Member To Class: ClassName=Plata.~(40) Member=Component R1_0 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component R1_1 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component R1_2 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component R1_3 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component R1_4 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component R1_6 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component R1_7 Bourns CAT16-102J4LF
+Added Member To Class: ClassName=Plata.~(40) Member=Component R2_0 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component R2_1 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component R2_4 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component R2_5 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component R2_6 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component R2_7 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Plata.~(40) Member=Component R4 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R.B.1 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R.B.2 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R.B.3 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component R.sound R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component Rc1 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component Rc2 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component Rc3 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component  AK-207
+Added Member To Class: ClassName=Plata.~(40) Member=Component VarRes1(test) R-0904N-A10K, L20KC
+Added Member To Class: ClassName=Plata.~(40) Member=Component VarRes(test) R-0904N-A10K, L20KC
+Added Member To Class: ClassName=Plata.~(40) Member=Component VD1 R0805
+Added Member To Class: ClassName=Plata.~(40) Member=Component VD2 R0805

@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=IDC10.1. 5 Pin=ressb_2_6-4
+Added Pin To Net: NetName=IDC10.1. 6 Pin=ressb_2_6-5
+Added Pin To Net: NetName=IDC10.1. 7 Pin=ressb_2_6-6
+Added Pin To Net: NetName=IDC10.1. 8 Pin=ressb_2_6-7
+Added Pin To Net: NetName=NetConnector_5 Pin=Connector-5
+Added Pin To Net: NetName=NetConnector_5 Pin=ressb_2_6-0
+Added Net: Name=NetConnector_5
+Added Pin To Net: NetName=NetConnector_6 Pin=Connector-6
+Added Pin To Net: NetName=NetConnector_6 Pin=ressb_2_6-1
+Added Net: Name=NetConnector_6
+Added Pin To Net: NetName=NetConnector_7 Pin=Connector-7
+Added Pin To Net: NetName=NetConnector_7 Pin=ressb_2_6-2
+Added Net: Name=NetConnector_7
+Added Pin To Net: NetName=NetConnector_8 Pin=Connector-8
+Added Pin To Net: NetName=NetConnector_8 Pin=ressb_2_6-3
+Added Net: Name=NetConnector_8
+Added Member To Class: ClassName=Plata.~(40) Member=Component WG12864A MT6464b

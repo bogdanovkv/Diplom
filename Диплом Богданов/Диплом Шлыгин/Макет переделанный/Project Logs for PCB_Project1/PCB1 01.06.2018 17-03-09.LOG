@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=BUTTON_2 Pin=ps3-2
+Removed Pin From Net: NetName=BUTTON_2 Pin=R11-2
+Change Component Footprint: Designator=SREGLCD1 Old Footprint=SN74HC164DR-D New Footprint=SN74HC164DRX
+Added Pin To Net: NetName=BUTTON_3 Pin=ps3-2
+Added Pin To Net: NetName=BUTTON_3 Pin=R11-2
+Added Member To Class: ClassName=Power Supplies Member=Component C17 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C18 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C18 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C19 10u
+Added Member To Class: ClassName=Power Supplies Member=Component R50 121R

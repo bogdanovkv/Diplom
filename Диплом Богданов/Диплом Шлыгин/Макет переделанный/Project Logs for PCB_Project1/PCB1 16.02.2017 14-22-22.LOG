@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GENERALVIN Pin=L1-1
+Removed Pin From Net: NetName=Net5v_8 Pin=L1-2
+Removed Member From Class: ClassName=Plata.~(40) Member=L1
+Added Component: Designator=ind fo5v(B82464G4472M)
+Added Pin To Net: NetName=GENERALVIN Pin=ind fo5v-1
+Added Pin To Net: NetName=Net5v_8 Pin=ind fo5v-2
+Added Member To Class: ClassName=Plata.~(40) Member=Component ind fo5v Induct

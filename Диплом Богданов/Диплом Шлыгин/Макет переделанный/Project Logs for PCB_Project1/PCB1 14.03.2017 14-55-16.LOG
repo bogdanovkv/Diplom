@@ -1,0 +1,7 @@
+Added Component: Designator=C2cap1.8(R0805)
+Added Pin To Net: NetName=LCDOE Pin=1.8-0
+Added Pin To Net: NetName=LCDOE Pin=C2cap1.8-1
+Added Pin To Net: NetName=VCC1.8 Pin=1.8-1
+Added Pin To Net: NetName=VCC1.8 Pin=C2cap1.8-2
+Added Net: Name=VCC1.8
+Added Member To Class: ClassName=Sheet1 Member=Component C2cap1.8 c2vcc3.3

@@ -1,0 +1,9 @@
+Change Physical Footprint: Designator=3.3v Old Footprint=LM1085 New Footprint=LM1085
+Change Physical Footprint: Designator=Potent Old Footprint=R-0904N-A10K, L20KC New Footprint=R-0904N-A10K, L20KC
+Change Physical Footprint: Designator=reoat Old Footprint=R-0904N-A10K, L20KC New Footprint=R-0904N-A10K, L20KC
+Change Physical Footprint: Designator=SREG1 Old Footprint=SN74HC164DRX New Footprint=SN74HC164DRX
+Change Physical Footprint: Designator=SREG2 Old Footprint=SN74HC164DRX New Footprint=SN74HC164DRX
+Change Physical Footprint: Designator=SREG3 Old Footprint=SN74HC164DRX New Footprint=SN74HC164DRX
+Change Physical Footprint: Designator=SREG4 Old Footprint=SN74HC164DRX New Footprint=SN74HC164DRX
+Change Physical Footprint: Designator=SREGLCD Old Footprint=SN74HC164DRX New Footprint=SN74HC164DRX
+Change Physical Footprint: Designator=varrev Old Footprint=R-0904N-A10K, L20KC New Footprint=R-0904N-A10K, L20KC

@@ -1,0 +1,4 @@
+Added Component: Designator=CT1(tantal cap)
+Added Pin To Net: NetName=LCDOE Pin=CT1-0
+Added Pin To Net: NetName=GENERALVIN Pin=CT1-1
+Added Member To Class: ClassName=Plata.~(40) Member=Component CT1 TECAP, 100 לךװ

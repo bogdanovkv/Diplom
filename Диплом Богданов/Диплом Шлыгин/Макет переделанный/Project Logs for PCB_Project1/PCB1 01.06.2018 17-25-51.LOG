@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=SREGLCD1 Old Footprint=SN74HC164DR-D New Footprint=SN74HC164DRX
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=VD2-2
+Added Net: Name=NetR8_1
+Added Member To Class: ClassName=Power Supplies Member=Component C17 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C18 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C18 10u
+Added Member To Class: ClassName=Power Supplies Member=Component C19 10u
+Added Member To Class: ClassName=Power Supplies Member=Component R50 121R

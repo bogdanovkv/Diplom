@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=1.1 1-8 NewDesignator=P1.1
+Change Component Designator: OldDesignator=1.1 9-16 NewDesignator=P1.2
+Change Component Designator: OldDesignator=1.2 1-8 NewDesignator=P2.1.1
+Change Component Designator: OldDesignator=1.2 9-16 NewDesignator=P2.2
+Change Component Designator: OldDesignator=1.3 1-8 NewDesignator=P3.2
+Change Component Designator: OldDesignator=1.3 9-16 NewDesignator=P3.2
+Change Component Designator: OldDesignator=PCI NewDesignator=
+Change Component Designator: OldDesignator=Potent NewDesignator=Rvar3
+Change Component Designator: OldDesignator=sas NewDesignator=Vin
+Change Component Designator: OldDesignator=VarRes1(test) NewDesignator=Rvar1
+Change Component Designator: OldDesignator=VarRes(test) NewDesignator=Rvar2

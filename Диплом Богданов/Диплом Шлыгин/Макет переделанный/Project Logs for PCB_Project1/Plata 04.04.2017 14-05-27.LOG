@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=C1.1V NewDesignator=C6
+Change Component Designator: OldDesignator=C1 Vcc3.3 NewDesignator=C2
+Change Component Designator: OldDesignator=C2.2V NewDesignator=C7
+Change Component Designator: OldDesignator=C2cap1.8 NewDesignator=C3
+Change Component Designator: OldDesignator=C2 Vcc3.3 NewDesignator=C1
+Change Component Designator: OldDesignator=C1 2.5V NewDesignator=C4
+Change Component Designator: OldDesignator=C2 2.5V NewDesignator=C5
+Change Component Designator: OldDesignator=C.sound NewDesignator=C8
+Change Component Designator: OldDesignator=KL2 NewDesignator=RA2
+Change Component Designator: OldDesignator=P.U.1 NewDesignator=RA18
+Change Component Designator: OldDesignator=P.U.2 NewDesignator=RA19
+Change Component Designator: OldDesignator=R1_0 NewDesignator=RA15
+Change Component Designator: OldDesignator=R1_1 NewDesignator=RA11
+Change Component Designator: OldDesignator=R1_2 NewDesignator=RA10
+Change Component Designator: OldDesignator=R1_3 NewDesignator=RA8
+Change Component Designator: OldDesignator=R1_6 NewDesignator=RA5
+Change Component Designator: OldDesignator=R1_7 NewDesignator=RA1
+Change Component Designator: OldDesignator=R1v NewDesignator=R11
+Change Component Designator: OldDesignator=R2_0 NewDesignator=RA16
+Change Component Designator: OldDesignator=R2_1 NewDesignator=RA14
+Change Component Designator: OldDesignator=R2_4 NewDesignator=RA9
+Change Component Designator: OldDesignator=R2_5 NewDesignator=RA7
+Change Component Designator: OldDesignator=R2_6 NewDesignator=RA4
+Change Component Designator: OldDesignator=R2_7 NewDesignator=RA3
+Change Component Designator: OldDesignator=R.B.1 NewDesignator=R7
+Change Component Designator: OldDesignator=R.B.2 NewDesignator=R6
+Change Component Designator: OldDesignator=R.B.3 NewDesignator=R5
+Change Component Designator: OldDesignator=R.sound NewDesignator=R10
+Change Component Designator: OldDesignator=Rc1 NewDesignator=R12
+Change Component Designator: OldDesignator=Rc2 NewDesignator=R13
+Change Component Designator: OldDesignator=Rc3 NewDesignator=R14
+Change Component Designator: OldDesignator=ressb_1_5 NewDesignator=RA6
+Change Component Designator: OldDesignator=ressb_2_2 NewDesignator=RA12
+Change Component Designator: OldDesignator=ressb_2_3 NewDesignator=RA13
+Change Component Designator: OldDesignator=RKL2 NewDesignator=RA17
+Change Component Designator: OldDesignator=Rvd1 NewDesignator=R9
+Change Component Designator: OldDesignator=Rvd2 NewDesignator=R8

@@ -1,0 +1,9 @@
+Change Physical Footprint: Designator=* Old Footprint=PCI-120 New Footprint=PCI-120
+Change Physical Footprint: Designator=7Segmind Old Footprint=CA56-11EWA New Footprint=CA56-11EWA
+Change Physical Footprint: Designator=Connector Old Footprint=Connect New Footprint=Connect
+Change Physical Footprint: Designator=HC12G-04F Old Footprint=HC12G-04F New Footprint=HC12G-04F
+Change Physical Footprint: Designator=KLAV Old Footprint=AK-207 New Footprint=AK-207
+Change Physical Footprint: Designator=ps850l-1 Old Footprint=ps850l New Footprint=ps850l
+Change Physical Footprint: Designator=ps850l-2 Old Footprint=ps850l New Footprint=ps850l
+Change Physical Footprint: Designator=ps850l-3 Old Footprint=ps850l New Footprint=ps850l
+Change Physical Footprint: Designator=ps850lreset Old Footprint=ps850l New Footprint=ps850l

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=BUTTON_RESET Pin=R?-2
+Added Pin To Net: NetName=GND Pin=HC12G-04F-1
+Added Pin To Net: NetName=VCC5 Pin=R?-1
+Added Pin To Net: NetName=VCC5 Pin=R?-1
+Added Pin To Net: NetName=BUTTON_1 Pin=R?-2
+Added Pin To Net: NetName=BUTTON_2 Pin=R?-2
+Added Pin To Net: NetName=BUTTON_3 Pin=R?-2
+Added Pin To Net: NetName=BUTTON_RESET Pin=R?-2
+Added Pin To Net: NetName=SOUND Pin=Connector-117
+Added Pin To Net: NetName=SOUND Pin=HC12G-04F-2
+Added Net: Name=SOUND

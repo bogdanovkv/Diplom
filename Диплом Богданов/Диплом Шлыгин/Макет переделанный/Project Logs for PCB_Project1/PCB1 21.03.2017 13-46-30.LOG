@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=PCI 3 Pin=-3
+Added Pin To Net: NetName=Net_3 Pin=-3
+Added Pin To Net: NetName=PCI 3 Pin=-3

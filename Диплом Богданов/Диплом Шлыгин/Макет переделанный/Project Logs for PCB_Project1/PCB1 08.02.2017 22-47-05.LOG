@@ -1,0 +1,5 @@
+Change Physical Footprint: Designator=* Old Footprint=GrebForPCI New Footprint=GrebForPCI
+Change Physical Footprint: Designator=Connector Old Footprint=Connect New Footprint=Connect
+Change Physical Footprint: Designator=PCI Old Footprint=PCI-120 New Footprint=PCI-120
+Change Physical Footprint: Designator=reoat Old Footprint=R-0904N-A10K, L20KC New Footprint=R-0904N-A10K, L20KC
+Change Physical Footprint: Designator=varrev Old Footprint=R-0904N-A10K, L20KC New Footprint=R-0904N-A10K, L20KC
