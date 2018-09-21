@@ -400,14 +400,18 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for PCB_Project1\Design Rule Check - PCB1.html
+DocumentPath=Project Outputs for PCB_Project1\Design Rule Check - ElvipPCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for PCB_Project1\Import Error Report - PCB1.html
+DocumentPath=Project Outputs for PCB_Project1\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for PCB_Project1\Import Error Report - PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=PCB1.~(24).PcbDoc.htm
 DItemRevisionGUID=
 

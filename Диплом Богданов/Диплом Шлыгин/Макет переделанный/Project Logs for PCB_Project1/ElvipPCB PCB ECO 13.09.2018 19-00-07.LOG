@@ -1,0 +1,4 @@
+Change Physical Footprint: Designator=1 Old Footprint=AK-207 New Footprint=AK-207
+Change Physical Footprint: Designator=Connector Old Footprint=Connect New Footprint=Connect
+Change Physical Footprint: Designator=SevenSegments Old Footprint=CA56-11EWA New Footprint=CA56-11EWA
+Change Physical Footprint: Designator=V3.3 Old Footprint=LM1085 New Footprint=LM1085
