@@ -1,0 +1,98 @@
+Removed Pin From Net: NetName=VCC1 Pin=Connector-1
+Removed Pin From Net: NetName=VCC1.8 Pin=Connector-2
+Removed Pin From Net: NetName=VCC5 Pin=Connector-3
+Removed Pin From Net: NetName=BUTTON_2_OUT Pin=Connector-68
+Removed Pin From Net: NetName=BUTTON_RESET_OUT Pin=Connector-69
+Removed Pin From Net: NetName=7SEG_CLK Pin=Connector-71
+Removed Pin From Net: NetName=BUTTON_3_OUT Pin=Connector-124
+Removed Pin From Net: NetName=BUTTON_1_OUT Pin=Connector-125
+Removed Pin From Net: NetName=VCC5 Pin=Connector-128
+Removed Pin From Net: NetName=VCC3.3 Pin=R7-2
+Removed Pin From Net: NetName=VCC3.3 Pin=R8-2
+Change Component Footprint: Designator=SREG1 Old Footprint=SN74HC164DR-D New Footprint=SN74HC164DRX
+Change Component Footprint: Designator=SREG2 Old Footprint=SN74HC164DR-D New Footprint=SN74HC164DRX
+Change Component Footprint: Designator=SREG3 Old Footprint=SN74HC164DR-D New Footprint=SN74HC164DRX
+Change Component Footprint: Designator=SREG4 Old Footprint=SN74HC164DR-D New Footprint=SN74HC164DRX
+Change Component Footprint: Designator=SREGLCD1 Old Footprint=SN74HC164DR-D New Footprint=SN74HC164DRX
+Change Component Designator: OldDesignator=Button 2 NewDesignator=ps2
+Change Component Designator: OldDesignator=Button 3 NewDesignator=ps3
+Change Component Designator: OldDesignator=Reset Button NewDesignator=ps4
+Change Component Designator: OldDesignator=SevenSegments NewDesignator=2
+Change Component Designator: OldDesignator=V1.8 NewDesignator=V1
+Added Pin To Net: NetName=VCC1 Pin=Connector-2
+Added Pin To Net: NetName=VCC1.8 Pin=Connector-3
+Added Pin To Net: NetName=VCC2.5 Pin=Connector-62
+Added Pin To Net: NetName=VCC3.3 Pin=Connector-63
+Added Pin To Net: NetName=VCC5 Pin=Connector-65
+Added Pin To Net: NetName=VCC1 Pin=Connector-66
+Added Pin To Net: NetName=VCC1.8 Pin=Connector-67
+Added Pin To Net: NetName=VCC3.3 Pin=P_GIO_1-4
+Added Pin To Net: NetName=VCC5 Pin=P_GIO_1-5
+Added Pin To Net: NetName=E_VCC Pin=P_GIO_1-6
+Added Pin To Net: NetName=GND Pin=P_GIO_1-7
+Added Pin To Net: NetName=E_SYNC Pin=P_GIO_1-14
+Added Pin To Net: NetName=E_GEN Pin=P_GIO_1-15
+Added Pin To Net: NetName=VCCPLATA Pin=R7-2
+Added Pin To Net: NetName=VCCPLATA Pin=R8-2
+Change Net Name : Old Net Name=AI5 New Net Name=AI1
+Change Net Name : Old Net Name=AO5 New Net Name=AO1
+Change Net Name : Old Net Name=IDC10.5. 1 New Net Name=IDC10.1. 1
+Change Net Name : Old Net Name=IDC10.5. 2 New Net Name=IDC10.1. 2
+Change Net Name : Old Net Name=IDC10.5. 4 New Net Name=IDC10.1. 4
+Change Net Name : Old Net Name=IDC10.5. 5 New Net Name=IDC10.1. 5
+Change Net Name : Old Net Name=IDC10.5. 6 New Net Name=IDC10.1. 6
+Change Net Name : Old Net Name=IDC10.5. 7 New Net Name=IDC10.1. 7
+Change Net Name : Old Net Name=IDC10.5. 8 New Net Name=IDC10.1. 8
+Change Net Name : Old Net Name=NetButton 2_3 New Net Name=Netps2_3
+Change Net Name : Old Net Name=NetButton 3_3 New Net Name=Netps3_3
+Change Net Name : Old Net Name=NetR12_2 New Net Name=Netps4_3
+Change Net Name : Old Net Name=NetRA20_0 New Net Name=Net2_30
+Change Net Name : Old Net Name=NetRA20_1 New Net Name=Net2_28
+Change Net Name : Old Net Name=NetRA20_2 New Net Name=Net2_29
+Change Net Name : Old Net Name=NetRA21_0 New Net Name=Net2_25
+Change Net Name : Old Net Name=NetRA21_1 New Net Name=Net2_26
+Change Net Name : Old Net Name=NetRA21_2 New Net Name=Net2_27
+Change Net Name : Old Net Name=NetRA22_0 New Net Name=Net2_36
+Change Net Name : Old Net Name=NetRA22_1 New Net Name=Net2_33
+Change Net Name : Old Net Name=NetRA22_2 New Net Name=Net2_34
+Change Net Name : Old Net Name=NetRA22_3 New Net Name=Net2_35
+Change Net Name : Old Net Name=NetRA23_0 New Net Name=Net2_20
+Change Net Name : Old Net Name=NetRA23_1 New Net Name=Net2_19
+Change Net Name : Old Net Name=NetRA23_2 New Net Name=Net2_21
+Change Net Name : Old Net Name=NetRA23_3 New Net Name=Net2_24
+Change Net Name : Old Net Name=NetRA24_4 New Net Name=Net2_4
+Change Net Name : Old Net Name=NetRA24_5 New Net Name=Net2_3
+Change Net Name : Old Net Name=NetRA24_6 New Net Name=Net2_1
+Change Net Name : Old Net Name=NetRA24_7 New Net Name=Net2_2
+Change Net Name : Old Net Name=NetRA25_4 New Net Name=Net2_15
+Change Net Name : Old Net Name=NetRA25_5 New Net Name=Net2_17
+Change Net Name : Old Net Name=NetRA25_6 New Net Name=Net2_16
+Change Net Name : Old Net Name=NetRA25_7 New Net Name=Net2_18
+Change Net Name : Old Net Name=NetRA26_4 New Net Name=Net2_7
+Change Net Name : Old Net Name=NetRA26_5 New Net Name=Net2_8
+Change Net Name : Old Net Name=NetRA26_6 New Net Name=Net2_5
+Change Net Name : Old Net Name=NetRA26_7 New Net Name=Net2_6
+Change Net Name : Old Net Name=NetRA27_4 New Net Name=Net2_11
+Change Net Name : Old Net Name=NetRA27_5 New Net Name=Net2_12
+Change Net Name : Old Net Name=NetRA27_6 New Net Name=Net2_13
+Change Net Name : Old Net Name=NetRA27_7 New Net Name=Net2_14
+Added Pin To Net: NetName=AI5 Pin=P_GIO_1-12
+Added Net: Name=AI5
+Added Pin To Net: NetName=AO5 Pin=P_GIO_1-13
+Added Net: Name=AO5
+Added Pin To Net: NetName=IDC10.5. 1 Pin=P_GIO_1-0
+Added Net: Name=IDC10.5. 1
+Added Pin To Net: NetName=IDC10.5. 2 Pin=P_GIO_1-8
+Added Net: Name=IDC10.5. 2
+Added Pin To Net: NetName=IDC10.5. 4 Pin=P_GIO_1-9
+Added Net: Name=IDC10.5. 4
+Added Pin To Net: NetName=IDC10.5. 5 Pin=P_GIO_1-2
+Added Net: Name=IDC10.5. 5
+Added Pin To Net: NetName=IDC10.5. 6 Pin=P_GIO_1-10
+Added Net: Name=IDC10.5. 6
+Added Pin To Net: NetName=IDC10.5. 7 Pin=P_GIO_1-3
+Added Net: Name=IDC10.5. 7
+Added Pin To Net: NetName=IDC10.5. 8 Pin=P_GIO_1-11
+Added Net: Name=IDC10.5. 8
+Added Pin To Net: NetName=SOUND Pin=R6-1
+Added Net: Name=SOUND
