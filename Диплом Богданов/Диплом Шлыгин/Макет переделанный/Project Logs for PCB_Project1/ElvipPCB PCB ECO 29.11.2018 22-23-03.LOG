@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=IDC10.2. 1 Pin=P_GIO_2-0
+Removed Pin From Net: NetName=IDC10.2. 3 Pin=P_GIO_2-1
+Removed Pin From Net: NetName=IDC10.2. 5 Pin=P_GIO_2-2
+Removed Pin From Net: NetName=IDC10.2. 7 Pin=P_GIO_2-3
+Removed Pin From Net: NetName=IDC10.2. 2 Pin=P_GIO_2-8
+Removed Pin From Net: NetName=IDC10.2. 4 Pin=P_GIO_2-9
+Removed Pin From Net: NetName=IDC10.2. 6 Pin=P_GIO_2-10
+Removed Pin From Net: NetName=IDC10.2. 8 Pin=P_GIO_2-11
+Removed Pin From Net: NetName=AI2 Pin=P_GIO_2-12
+Removed Pin From Net: NetName=AO2 Pin=P_GIO_2-13
+Removed Pin From Net: NetName=E_SYNC Pin=P_GIO_2-14
+Removed Pin From Net: NetName=E_GEN Pin=P_GIO_2-15
+Added Component: Designator=RA_24(CAT16-102J4LF_2)
+Added Component: Designator=RA_25(CAT16-102J4LF_2)
+Added Component: Designator=RA_26(CAT16-102J4LF_2)
+Added Pin To Net: NetName=P_GIO_1_15 Pin=Connector-89
+Added Pin To Net: NetName=P_GIO_1_14 Pin=Connector-90
+Added Pin To Net: NetName=P_GIO_1_13 Pin=Connector-91
+Added Pin To Net: NetName=P_GIO_1_12 Pin=Connector-92
+Added Pin To Net: NetName=P_GIO_1_11 Pin=Connector-93
+Added Pin To Net: NetName=P_GIO_1_10 Pin=Connector-94
+Added Pin To Net: NetName=P_GIO_1_9 Pin=Connector-95
+Added Pin To Net: NetName=P_GIO_1_8 Pin=Connector-96
+Added Pin To Net: NetName=IDC10.2. 1 Pin=Connector-97
+Added Pin To Net: NetName=IDC10.2. 3 Pin=Connector-98
+Added Pin To Net: NetName=IDC10.2. 5 Pin=Connector-99
+Added Pin To Net: NetName=IDC10.2. 7 Pin=Connector-100
+Added Pin To Net: NetName=VCC3.3 Pin=Connector-101
+Added Pin To Net: NetName=VCC5 Pin=Connector-102
+Added Pin To Net: NetName=E_VCC Pin=Connector-103
+Added Pin To Net: NetName=GND Pin=Connector-104
+Added Pin To Net: NetName=P_GIO_1_0 Pin=P_GIO_2-0
+Added Pin To Net: NetName=P_GIO_1_1 Pin=P_GIO_2-1
+Added Pin To Net: NetName=P_GIO_1_2 Pin=P_GIO_2-2
+Added Pin To Net: NetName=P_GIO_1_3 Pin=P_GIO_2-3
+Added Pin To Net: NetName=P_GIO_1_8 Pin=P_GIO_2-8
+Added Pin To Net: NetName=P_GIO_1_9 Pin=P_GIO_2-9
+Added Pin To Net: NetName=P_GIO_1_10 Pin=P_GIO_2-10
+Added Pin To Net: NetName=P_GIO_1_11 Pin=P_GIO_2-11
+Added Pin To Net: NetName=P_GIO_1_12 Pin=P_GIO_2-12
+Added Pin To Net: NetName=P_GIO_1_13 Pin=P_GIO_2-13
+Added Pin To Net: NetName=P_GIO_1_14 Pin=P_GIO_2-14
+Added Pin To Net: NetName=P_GIO_1_15 Pin=P_GIO_2-15
+Added Pin To Net: NetName=IDC10.2. 7 Pin=RA_24-0
+Added Pin To Net: NetName=IDC10.2. 5 Pin=RA_24-1
+Added Pin To Net: NetName=IDC10.2. 3 Pin=RA_24-2
+Added Pin To Net: NetName=IDC10.2. 1 Pin=RA_24-3
+Added Pin To Net: NetName=P_GIO_1_15 Pin=RA_25-0
+Added Pin To Net: NetName=P_GIO_1_14 Pin=RA_25-1
+Added Pin To Net: NetName=P_GIO_1_13 Pin=RA_25-2
+Added Pin To Net: NetName=P_GIO_1_12 Pin=RA_25-3
+Added Pin To Net: NetName=AI2 Pin=RA_25-4
+Added Pin To Net: NetName=AO2 Pin=RA_25-5
+Added Pin To Net: NetName=E_SYNC Pin=RA_25-6
+Added Pin To Net: NetName=E_GEN Pin=RA_25-7
+Added Pin To Net: NetName=P_GIO_1_11 Pin=RA_26-0
+Added Pin To Net: NetName=P_GIO_1_10 Pin=RA_26-1
+Added Pin To Net: NetName=P_GIO_1_9 Pin=RA_26-2
+Added Pin To Net: NetName=P_GIO_1_8 Pin=RA_26-3
+Added Pin To Net: NetName=IDC10.2. 2 Pin=RA_26-4
+Added Pin To Net: NetName=IDC10.2. 4 Pin=RA_26-5
+Added Pin To Net: NetName=IDC10.2. 6 Pin=RA_26-6
+Added Pin To Net: NetName=IDC10.2. 8 Pin=RA_26-7
+Added Member To Class: ClassName=Ports_2 Member=Component RA_24 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Ports_2 Member=Component RA_25 Bourns CAT16-102J4LF_1
+Added Member To Class: ClassName=Ports_2 Member=Component RA_26 Bourns CAT16-102J4LF_1

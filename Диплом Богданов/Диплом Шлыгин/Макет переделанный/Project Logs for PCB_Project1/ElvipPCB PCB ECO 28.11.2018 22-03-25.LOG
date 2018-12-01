@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=P_GIO_1_15 Pin=RA_22-0
+Removed Pin From Net: NetName=E_GEN Pin=RA_22-7
+Added Pin To Net: NetName=E_GEN Pin=RA_22-0
+Added Pin To Net: NetName=P_GIO_1_15 Pin=RA_22-7

@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=E_VCC Pin=RA_20-1
+Added Pin To Net: NetName=NetP_GIO_1_5 Pin=P_GIO_1-5
+Added Pin To Net: NetName=NetP_GIO_1_5 Pin=RA_20-5
+Added Net: Name=NetP_GIO_1_5
+Added Pin To Net: NetName=NetP_GIO_1_6 Pin=P_GIO_1-6
+Added Pin To Net: NetName=NetP_GIO_1_6 Pin=RA_20-6
+Added Net: Name=NetP_GIO_1_6
+Added Pin To Net: NetName=NetP_GIO_1_7 Pin=P_GIO_1-7
+Added Pin To Net: NetName=NetP_GIO_1_7 Pin=RA_20-7
+Added Net: Name=NetP_GIO_1_7

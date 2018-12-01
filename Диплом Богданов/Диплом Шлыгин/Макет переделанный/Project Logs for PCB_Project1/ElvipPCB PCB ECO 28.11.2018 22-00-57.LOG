@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=AI1 Pin=RA_22-0
+Removed Pin From Net: NetName=AO1 Pin=RA_22-1
+Removed Pin From Net: NetName=E_SYNC Pin=RA_22-2
+Removed Pin From Net: NetName=E_GEN Pin=RA_22-3
+Removed Pin From Net: NetName=P_GIO_1_15 Pin=RA_22-4
+Removed Pin From Net: NetName=P_GIO_1_14 Pin=RA_22-5
+Removed Pin From Net: NetName=P_GIO_1_13 Pin=RA_22-6
+Removed Pin From Net: NetName=P_GIO_1_12 Pin=RA_22-7
+Added Pin To Net: NetName=P_GIO_1_15 Pin=RA_22-0
+Added Pin To Net: NetName=E_SYNC Pin=RA_22-1
+Added Pin To Net: NetName=AO1 Pin=RA_22-2
+Added Pin To Net: NetName=AI1 Pin=RA_22-3
+Added Pin To Net: NetName=P_GIO_1_12 Pin=RA_22-4
+Added Pin To Net: NetName=P_GIO_1_13 Pin=RA_22-5
+Added Pin To Net: NetName=P_GIO_1_14 Pin=RA_22-6
+Added Pin To Net: NetName=E_GEN Pin=RA_22-7

@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=AI3 Pin=Connector-5
+Added Pin To Net: NetName=AO3 Pin=Connector-6
+Added Pin To Net: NetName=E_SYNC Pin=Connector-7
+Added Pin To Net: NetName=E_GEN Pin=Connector-8
+Added Pin To Net: NetName=IDC10.3. 2 Pin=Connector-9
+Added Pin To Net: NetName=IDC10.3. 4 Pin=Connector-10
+Added Pin To Net: NetName=IDC10.3. 6 Pin=Connector-11
+Added Pin To Net: NetName=IDC10.3. 8 Pin=Connector-12
+Added Pin To Net: NetName=IDC10.3. 7 Pin=Connector-53
+Added Pin To Net: NetName=IDC10.3. 5 Pin=Connector-54
+Added Pin To Net: NetName=IDC10.3. 3 Pin=Connector-55
+Added Pin To Net: NetName=IDC10.3. 1 Pin=Connector-56
+Added Pin To Net: NetName=GND Pin=Connector-57
+Added Pin To Net: NetName=E_VCC Pin=Connector-58
+Added Pin To Net: NetName=VCC5 Pin=Connector-59
+Added Pin To Net: NetName=VCC3.3 Pin=Connector-60

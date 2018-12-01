@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=P_GIO_1_11 Pin=RA_23-0
+Removed Pin From Net: NetName=P_GIO_1_10 Pin=RA_23-1
+Removed Pin From Net: NetName=P_GIO_1_9 Pin=RA_23-2
+Removed Pin From Net: NetName=P_GIO_1_8 Pin=RA_23-3
+Removed Pin From Net: NetName=IDC10.1. 2 Pin=RA_23-4
+Removed Pin From Net: NetName=IDC10.1. 4 Pin=RA_23-5
+Removed Pin From Net: NetName=IDC10.1. 6 Pin=RA_23-6
+Removed Pin From Net: NetName=IDC10.1. 8 Pin=RA_23-7
+Added Pin To Net: NetName=IDC10.1. 8 Pin=RA_23-0
+Added Pin To Net: NetName=IDC10.1. 6 Pin=RA_23-1
+Added Pin To Net: NetName=IDC10.1. 4 Pin=RA_23-2
+Added Pin To Net: NetName=IDC10.1. 2 Pin=RA_23-3
+Added Pin To Net: NetName=P_GIO_1_8 Pin=RA_23-4
+Added Pin To Net: NetName=P_GIO_1_9 Pin=RA_23-5
+Added Pin To Net: NetName=P_GIO_1_10 Pin=RA_23-6
+Added Pin To Net: NetName=P_GIO_1_11 Pin=RA_23-7
