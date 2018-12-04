@@ -1,0 +1,4 @@
+Added Component: Designator=VCC_Switch(switch)
+Added Pin To Net: NetName=E_+5 Pin=VCC_Switch-0
+Added Pin To Net: NetName=VCC5 Pin=VCC_Switch-1
+Added Member To Class: ClassName=ELVIS Member=Component VCC_Switch switch
