@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Power Supplies Member=R15
+Change Component Designator: OldDesignator=ELVIS_DIO_1 NewDesignator=DIO_1
+Change Component Designator: OldDesignator=ELVIS_DIO_2 NewDesignator=DIO_2
+Change Component Designator: OldDesignator=ELVIS_DIO_3 NewDesignator=DIO_3
+Change Component Designator: OldDesignator=ELVIS_Else NewDesignator=FUNC
+Change Component Designator: OldDesignator=ELVIS_PFI NewDesignator=PFI

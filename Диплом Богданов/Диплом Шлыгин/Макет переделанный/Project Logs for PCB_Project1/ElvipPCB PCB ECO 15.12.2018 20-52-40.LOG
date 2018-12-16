@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=Ports_2 Member=DIP_PORT
+Added Pin To Net: NetName=DIP_OUT_0 Pin=RA16-0
+Added Pin To Net: NetName=DIP_OUT_1 Pin=RA16-1
+Added Pin To Net: NetName=DIP_OUT_2 Pin=RA16-2
+Added Pin To Net: NetName=DIP_OUT_3 Pin=RA16-3
+Added Pin To Net: NetName=DIP_OUT_4 Pin=RA19-0
+Added Pin To Net: NetName=DIP_OUT_5 Pin=RA19-1
+Added Pin To Net: NetName=DIP_OUT_6 Pin=RA19-2
+Added Pin To Net: NetName=DIP_OUT_7 Pin=RA19-3
+Added Member To Class: ClassName=Ports_2 Member=Component P_GIO_5 Вилка_16

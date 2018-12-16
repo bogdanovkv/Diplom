@@ -1,0 +1,11 @@
+Change Physical Footprint: Designator=DIP_PORT Old Footprint=DS1013-16 New Footprint=DS1013-16
+Change Physical Footprint: Designator=ELVIS_DIO_1 Old Footprint=DS1013-16 New Footprint=DS1013-16
+Change Physical Footprint: Designator=ELVIS_DIO_2 Old Footprint=DS1013-16 New Footprint=DS1013-16
+Change Physical Footprint: Designator=ELVIS_DIO_3 Old Footprint=DS1013-16 New Footprint=DS1013-16
+Change Physical Footprint: Designator=ELVIS_Else Old Footprint=DS1013-16 New Footprint=DS1013-16
+Change Physical Footprint: Designator=ELVIS_PFI Old Footprint=DS1013-16 New Footprint=DS1013-16
+Change Physical Footprint: Designator=P0RT_3 Old Footprint=DS1013-16 New Footprint=DS1013-16
+Change Physical Footprint: Designator=PORT_1 Old Footprint=DS1013-16 New Footprint=DS1013-16
+Change Physical Footprint: Designator=PORT_2 Old Footprint=DS1013-16 New Footprint=DS1013-16
+Change Physical Footprint: Designator=PORT_3 Old Footprint=DS1013-16 New Footprint=DS1013-16
+Change Physical Footprint: Designator=PORT_5 Old Footprint=DS1013-16 New Footprint=DS1013-16

@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=VCC3.3 Pin=P1-10
+Removed Member From Class: ClassName=ELSE_Perif Member=P1
+Added Component: Designator=P_GIO_5(DS1013-16)
+Added Pin To Net: NetName=VCC3.3 Pin=RA16-4
+Added Pin To Net: NetName=VCC3.3 Pin=RA16-5
+Added Pin To Net: NetName=VCC3.3 Pin=RA16-6
+Added Pin To Net: NetName=VCC3.3 Pin=RA16-7
+Added Pin To Net: NetName=VCC3.3 Pin=RA19-4
+Added Pin To Net: NetName=VCC3.3 Pin=RA19-5
+Added Pin To Net: NetName=VCC3.3 Pin=RA19-6
+Added Pin To Net: NetName=VCC3.3 Pin=RA19-7
+Added Pin To Net: NetName=DIP_OUT_0 Pin=Connector-33
+Added Pin To Net: NetName=DIP_OUT_0 Pin=Dip1-1
+Added Pin To Net: NetName=DIP_OUT_0 Pin=P_GIO_5-0
+Added Net: Name=DIP_OUT_0
+Added Pin To Net: NetName=DIP_OUT_1 Pin=Connector-34
+Added Pin To Net: NetName=DIP_OUT_1 Pin=Dip1-2
+Added Pin To Net: NetName=DIP_OUT_1 Pin=P_GIO_5-1
+Added Net: Name=DIP_OUT_1
+Added Pin To Net: NetName=DIP_OUT_2 Pin=Connector-35
+Added Pin To Net: NetName=DIP_OUT_2 Pin=Dip1-3
+Added Pin To Net: NetName=DIP_OUT_2 Pin=P_GIO_5-2
+Added Net: Name=DIP_OUT_2
+Added Pin To Net: NetName=DIP_OUT_3 Pin=Connector-36
+Added Pin To Net: NetName=DIP_OUT_3 Pin=Dip1-4
+Added Pin To Net: NetName=DIP_OUT_3 Pin=P_GIO_5-3
+Added Net: Name=DIP_OUT_3
+Added Pin To Net: NetName=DIP_OUT_4 Pin=Connector-29
+Added Pin To Net: NetName=DIP_OUT_4 Pin=Dip1-5
+Added Pin To Net: NetName=DIP_OUT_4 Pin=P_GIO_5-8
+Added Net: Name=DIP_OUT_4
+Added Pin To Net: NetName=DIP_OUT_5 Pin=Connector-30
+Added Pin To Net: NetName=DIP_OUT_5 Pin=Dip1-6
+Added Pin To Net: NetName=DIP_OUT_5 Pin=P_GIO_5-9
+Added Net: Name=DIP_OUT_5
+Added Pin To Net: NetName=DIP_OUT_6 Pin=Connector-31
+Added Pin To Net: NetName=DIP_OUT_6 Pin=Dip1-7
+Added Pin To Net: NetName=DIP_OUT_6 Pin=P_GIO_5-10
+Added Net: Name=DIP_OUT_6
+Added Pin To Net: NetName=DIP_OUT_7 Pin=Connector-32
+Added Pin To Net: NetName=DIP_OUT_7 Pin=Dip1-8
+Added Pin To Net: NetName=DIP_OUT_7 Pin=P_GIO_5-11
+Added Net: Name=DIP_OUT_7
+Added Member To Class: ClassName=ELSE_Perif Member=Component P_GIO_5 Вилка_16

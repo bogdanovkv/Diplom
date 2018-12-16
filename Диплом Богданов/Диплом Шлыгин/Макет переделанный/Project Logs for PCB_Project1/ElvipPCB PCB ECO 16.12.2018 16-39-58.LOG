@@ -1,0 +1,22 @@
+Added Component: Designator=R13(R0805)
+Added Component: Designator=R14(R0805)
+Added Component: Designator=VD3(R0805)
+Added Component: Designator=VD4(R0805)
+Added Pin To Net: NetName=VCC5 Pin=R13-2
+Added Pin To Net: NetName=VCC5 Pin=R14-2
+Added Pin To Net: NetName=NET_VD3 Pin=Connector-125
+Added Pin To Net: NetName=NET_VD3 Pin=VD3-1
+Added Net: Name=NET_VD3
+Added Pin To Net: NetName=NET_VD4 Pin=Connector-68
+Added Pin To Net: NetName=NET_VD4 Pin=VD4-1
+Added Net: Name=NET_VD4
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=VD3-2
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=VD4-2
+Added Net: Name=NetR14_1
+Added Member To Class: ClassName=ELSE_Perif Member=Component R13 R0805
+Added Member To Class: ClassName=ELSE_Perif Member=Component R14 R0805
+Added Member To Class: ClassName=ELSE_Perif Member=Component VD3 R0805
+Added Member To Class: ClassName=ELSE_Perif Member=Component VD4 R0805

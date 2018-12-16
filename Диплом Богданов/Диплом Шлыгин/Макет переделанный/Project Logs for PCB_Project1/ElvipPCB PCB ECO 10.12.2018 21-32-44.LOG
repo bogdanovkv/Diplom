@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=E_VCC Pin=P_GIO_4-6
+Removed Pin From Net: NetName=GND Pin=P_GIO_4-7
+Removed Pin From Net: NetName=AI4 Pin=RA_31-4
+Removed Pin From Net: NetName=AO4 Pin=RA_31-5
+Removed Pin From Net: NetName=E_SYNC Pin=RA_31-6
+Removed Pin From Net: NetName=E_GEN Pin=RA_31-7
+Added Pin To Net: NetName=E_GEN Pin=P_GIO_4-6
+Added Pin To Net: NetName=AI4 Pin=P_GIO_4-7
+Added Pin To Net: NetName=AO4 Pin=RA_31-4
+Added Pin To Net: NetName=E_SYNC Pin=RA_31-5
+Added Pin To Net: NetName=E_VCC Pin=RA_31-6
+Added Pin To Net: NetName=GND Pin=RA_31-7
+Change Net Name : Old Net Name=P_GIO_4_12 New Net Name=P_GIO_4_12_GND
+Change Net Name : Old Net Name=P_GIO_4_13 New Net Name=P_GIO_4_13_E_VCC
+Change Net Name : Old Net Name=P_GIO_4_14 New Net Name=P_GIO_4_14_E_SYNC
+Change Net Name : Old Net Name=P_GIO_4_15 New Net Name=P_GIO_4_15_AO4

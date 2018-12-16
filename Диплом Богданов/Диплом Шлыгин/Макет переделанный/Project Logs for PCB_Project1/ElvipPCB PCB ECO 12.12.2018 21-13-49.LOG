@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=P_GIO_3_9 Pin=RA_35-4
+Removed Pin From Net: NetName=P_GIO_3_10 Pin=RA_35-5
+Removed Pin From Net: NetName=P_GIO_3_11 Pin=RA_35-6
+Added Pin To Net: NetName=P_GIO_5_9 Pin=RA_35-4
+Added Pin To Net: NetName=P_GIO_5_10 Pin=RA_35-5
+Added Pin To Net: NetName=P_GIO_5_11 Pin=RA_35-6
+Added Pin To Net: NetName=P_GIO_5_12 Pin=RA_35-7

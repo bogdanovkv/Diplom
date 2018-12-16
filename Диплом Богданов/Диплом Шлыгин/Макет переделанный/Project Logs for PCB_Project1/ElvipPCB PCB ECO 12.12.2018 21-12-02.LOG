@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=AO4 Pin=34-0
+Removed Pin From Net: NetName=AO4 Pin=Connector-24
+Removed Pin From Net: NetName=AI4 Pin=Connector-44
+Removed Pin From Net: NetName=AI4 Pin=P_GIO_5-7
+Added Pin To Net: NetName=AI5 Pin=Connector-44
+Added Pin To Net: NetName=AI5 Pin=P_GIO_5-7
+Added Net: Name=AI5
+Added Pin To Net: NetName=AO5 Pin=34-0
+Added Pin To Net: NetName=AO5 Pin=Connector-24
+Added Net: Name=AO5

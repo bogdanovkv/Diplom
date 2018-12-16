@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=DIO_1 NewDesignator=ELVIS_PORT_DIO_1
+Change Component Designator: OldDesignator=DIO_2 NewDesignator=ELVIS_PORT_DIO_2
+Change Component Designator: OldDesignator=DIO_3 NewDesignator=ELVIS_PORT_DIO_3
+Change Component Designator: OldDesignator=FUNC NewDesignator=ELVIS_PORT_FUNC
+Change Component Designator: OldDesignator=PFI NewDesignator=ELVIS_PORT_PFI

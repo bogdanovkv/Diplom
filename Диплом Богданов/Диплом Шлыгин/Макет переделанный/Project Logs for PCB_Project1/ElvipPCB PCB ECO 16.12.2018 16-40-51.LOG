@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=ELSE_Perif Member=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetR15_1
+Added Member To Class: ClassName=ELSE_Perif Member=Component R15 R0805

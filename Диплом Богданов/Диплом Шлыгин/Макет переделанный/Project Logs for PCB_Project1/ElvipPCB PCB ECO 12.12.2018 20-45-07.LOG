@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=E_VCC Pin=P_GIO_1-6
+Removed Pin From Net: NetName=GND Pin=P_GIO_1-7
+Removed Pin From Net: NetName=E_GEN Pin=RA_22-0
+Removed Pin From Net: NetName=E_SYNC Pin=RA_22-1
+Removed Pin From Net: NetName=AO1 Pin=RA_22-2
+Removed Pin From Net: NetName=AI1 Pin=RA_22-3
+Added Pin To Net: NetName=E_GEN Pin=P_GIO_1-6
+Added Pin To Net: NetName=AI1 Pin=P_GIO_1-7
+Added Pin To Net: NetName=AO1 Pin=RA_22-4
+Added Pin To Net: NetName=E_SYNC Pin=RA_22-5
+Added Pin To Net: NetName=E_VCC Pin=RA_22-6
+Added Pin To Net: NetName=GND Pin=RA_22-7
+Added Pin To Net: NetName=P_GIO_1_12_GND Pin=P_GIO_1-12
+Added Pin To Net: NetName=P_GIO_1_12_GND Pin=RA_22-0
+Added Net: Name=P_GIO_1_12_GND
+Added Pin To Net: NetName=P_GIO_1_13_E_VCC Pin=P_GIO_1-13
+Added Pin To Net: NetName=P_GIO_1_13_E_VCC Pin=RA_22-1
+Added Net: Name=P_GIO_1_13_E_VCC
+Added Pin To Net: NetName=P_GIO_1_14_E_SYNC Pin=P_GIO_1-14
+Added Pin To Net: NetName=P_GIO_1_14_E_SYNC Pin=RA_22-2
+Added Net: Name=P_GIO_1_14_E_SYNC
+Added Pin To Net: NetName=P_GIO_1_15_AO1 Pin=P_GIO_1-15
+Added Pin To Net: NetName=P_GIO_1_15_AO1 Pin=RA_22-3
+Added Net: Name=P_GIO_1_15_AO1

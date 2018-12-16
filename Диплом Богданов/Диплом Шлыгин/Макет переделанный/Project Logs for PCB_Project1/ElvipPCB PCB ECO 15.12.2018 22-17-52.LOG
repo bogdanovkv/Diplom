@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC5 Pin=DS-1
+Removed Pin From Net: NetName=VCC5 Pin=DS-3
+Added Component: Designator=VCC_Switch(й(п)142ем5б)
+Added Pin To Net: NetName=E_+5 Pin=VCC_Switch-0
+Added Pin To Net: NetName=VCC5 Pin=VCC_Switch-1
+Added Pin To Net: NetName=VCC5_IN Pin=DS-1
+Added Pin To Net: NetName=VCC5_IN Pin=VCC_Switch-2
+Added Net: Name=VCC5_IN
+Added Member To Class: ClassName=ELVIS Member=Component VCC_Switch switch
