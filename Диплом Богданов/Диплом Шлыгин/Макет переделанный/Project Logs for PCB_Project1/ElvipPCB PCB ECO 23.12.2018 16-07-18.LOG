@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=C6 Old Footprint=R0805 New Footprint=1206
+Change Component Footprint: Designator=C7 Old Footprint=R0805 New Footprint=1206
+Change Component Footprint: Designator=C8 Old Footprint=R0805 New Footprint=1206
+Change Component Footprint: Designator=C9 Old Footprint=R0805 New Footprint=1206
+Change Component Footprint: Designator=C16 Old Footprint=R0805 New Footprint=1206
+Change Component Footprint: Designator=C17 Old Footprint=R0805 New Footprint=1206
+Change Component Footprint: Designator=C18 Old Footprint=R0805 New Footprint=1206
+Change Component Footprint: Designator=C19 Old Footprint=R0805 New Footprint=1206
+Change Component Comment : Designator=R13 Old Comment=121R New Comment=R0805
+Change Component Comment : Designator=R50 Old Comment=121R New Comment=R0805
+Change Component Comment : Designator=R51 Old Comment=198R New Comment=R0805
+Change Component Comment : Designator=RA20 Old Comment=Bourns CAT16-152J4LF_1 New Comment=Bourns CAT16-102J4LF_1
+Change Component Comment : Designator=RA21 Old Comment=Bourns CAT16-152J4LF_1 New Comment=Bourns CAT16-102J4LF_1
+Change Component Comment : Designator=RA22 Old Comment=Bourns CAT16-152J4LF_1 New Comment=Bourns CAT16-102J4LF_1
+Change Component Comment : Designator=RA23 Old Comment=Bourns CAT16-152J4LF_1 New Comment=Bourns CAT16-102J4LF_1
+Change Component Comment : Designator=RA24 Old Comment=Bourns CAT16-152J4LF_1 New Comment=Bourns CAT16-102J4LF_1
+Change Component Comment : Designator=RA25 Old Comment=Bourns CAT16-152J4LF_1 New Comment=Bourns CAT16-102J4LF_1
+Change Component Comment : Designator=RA26 Old Comment=Bourns CAT16-152J4LF_1 New Comment=Bourns CAT16-102J4LF_1
+Change Component Comment : Designator=RA27 Old Comment=Bourns CAT16-152J4LF_1 New Comment=Bourns CAT16-102J4LF_1
+Change Component Comment : Designator=Button 1 Old Comment=Button1 New Comment=ps850l
+Change Component Comment : Designator=Button2 Old Comment=Button2 New Comment=ps850l
+Change Component Comment : Designator=Button3 Old Comment=Button3 New Comment=ps850l
+Change Component Comment : Designator=V3.3 Old Comment=LM1085 3.3Vout New Comment=LM1085
+Change Component Comment : Designator=Reset Button Old Comment=Reset Button New Comment=ps850l
+Change Component Description : Designator=Rvar2 Old Description=10k New Description=
