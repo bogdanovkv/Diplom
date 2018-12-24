@@ -1,0 +1,6 @@
+Change Physical Footprint: Designator=SREG1 Old Footprint=SN74HC164DRX New Footprint=SN74HC164DRX
+Change Physical Footprint: Designator=SREG2 Old Footprint=SN74HC164DRX New Footprint=SN74HC164DRX
+Change Physical Footprint: Designator=SREG3 Old Footprint=SN74HC164DRX New Footprint=SN74HC164DRX
+Change Physical Footprint: Designator=SREG4 Old Footprint=SN74HC164DRX New Footprint=SN74HC164DRX
+Change Physical Footprint: Designator=SREGLCD1 Old Footprint=SN74HC164DRX New Footprint=SN74HC164DRX
+Change Physical Footprint: Designator=TPS 1 Old Footprint=SOT223-5 New Footprint=SOT223-5
